@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variable files
+.env*
+
+# Gatsby files
+.cache/
+public
+
+# Yarn
+yarn-error.log
+
+# Cypress artifacts
+cypress/videos
+cypress/screenshots
+
+# Storybook build
+storybook-static
