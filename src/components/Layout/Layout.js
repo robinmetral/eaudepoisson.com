@@ -7,38 +7,25 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
 
 import Seo from "../Seo"
-import Header from "../Header"
+import Banner from "../Banner"
 import Column from "../Column"
 
-const Layout = ({ pageContext: { frontmatter }, children }) => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
-
-  return (
-    <>
-      <Seo title={frontmatter.title} />
-      <Header siteTitle={data.site.siteMetadata.title} />
-      <Column>
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </Column>
-    </>
-  )
-}
+const Layout = ({ pageContext: { frontmatter }, children }) => (
+  <>
+    <Seo title={frontmatter.title} />
+    <Banner />
+    <Column>
+      <main>{children}</main>
+      <footer>
+        © {new Date().getFullYear()}, Built with
+        {` `}
+        <a href="https://www.gatsbyjs.org">Gatsby</a>
+      </footer>
+    </Column>
+  </>
+)
 
 Layout.propTypes = {
   frontmatter: PropTypes.shape({

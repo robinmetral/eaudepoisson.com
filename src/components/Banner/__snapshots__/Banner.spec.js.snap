@@ -1,16 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Layout should match the snapshots 1`] = `
+exports[`Banner should match the snapshots 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": .emotion-0 {
   max-width: 512px;
-}
-
-.emotion-1 {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 1.45rem;
 }
 
 <body>
@@ -70,36 +64,10 @@ Object {
           </noscript>
         </div>
       </a>
-      <div
-        class="emotion-1 emotion-2"
-      >
-        <main>
-          <div>
-            Page content
-          </div>
-        </main>
-        <footer>
-          © 
-          2019
-          , Built with
-           
-          <a
-            href="https://www.gatsbyjs.org"
-          >
-            Gatsby
-          </a>
-        </footer>
-      </div>
     </div>
   </body>,
   "container": .emotion-0 {
   max-width: 512px;
-}
-
-.emotion-1 {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 1.45rem;
 }
 
 <div>
@@ -158,26 +126,6 @@ Object {
         </noscript>
       </div>
     </a>
-    <div
-      class="emotion-1 emotion-2"
-    >
-      <main>
-        <div>
-          Page content
-        </div>
-      </main>
-      <footer>
-        © 
-        2019
-        , Built with
-         
-        <a
-          href="https://www.gatsbyjs.org"
-        >
-          Gatsby
-        </a>
-      </footer>
-    </div>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

@@ -4,5 +4,5 @@ export default {
     white: "white",
   },
   sizes: ["1.0875rem", "1.45rem"],
-  space: ["960px"],
+  space: ["960px", "5rem"],
 }
