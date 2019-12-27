@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-robin",
+  "name": "eaudepoisson",
   "private": true,
-  "description": "Gatsby Default Starter with state-of-the-art tooling",
+  "description": "",
   "version": "1.0.0",
   "author": "Robin Métral <robin@metral.ch>",
   "dependencies": {
@@ -83,9 +83,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/robinmetral/gatsby-starter-robin"
+    "url": "https://github.com/robinmetral/eaudepoisson.com"
   },
   "bugs": {
-    "url": "https://github.com/robinmetral/gatsby-starter-robin/issues"
+    "url": "https://github.com/robinmetral/eaudepoisson.com/issues"
   }
 }
