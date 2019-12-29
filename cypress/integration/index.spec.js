@@ -10,7 +10,7 @@ context("Homepage", () => {
 
   it("should navigate", () => {
     // click the link
-    cy.findByText("Go to page 2").click()
+    cy.findByText("Example post").click()
 
     // should be the right url
     cy.url().should("include", "/page-2")
