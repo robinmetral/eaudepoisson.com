@@ -13,6 +13,9 @@ context("Homepage", () => {
     cy.findByText("Example post").click()
 
     // should be the right url
-    cy.url().should("include", "/page-2")
+    cy.url().should(
+      "include",
+      "/2018-12-18-de-vientiane-a-bangkok-par-rail-et-route/"
+    )
   })
 })

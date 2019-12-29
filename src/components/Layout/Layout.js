@@ -10,7 +10,10 @@ const Layout = ({ pageContext: { frontmatter }, children }) => (
     <Seo title={frontmatter.title} />
     <Column>
       <Banner />
-      <main>{children}</main>
+      <main>
+        <h1>{frontmatter.title}</h1>
+        {children}
+      </main>
     </Column>
   </>
 )
