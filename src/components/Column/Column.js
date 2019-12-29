@@ -4,7 +4,7 @@ import styled from "@emotion/styled"
 export default styled.div`
   ${({ theme: { space, sizes } }) => css`
     margin: 0 auto;
-    max-width: ${space[0]};
-    padding: ${sizes[1]};
+    max-width: ${sizes[0]};
+    padding: ${space[1]};
   `}
 `

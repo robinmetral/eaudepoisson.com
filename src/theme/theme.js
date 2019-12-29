@@ -3,6 +3,6 @@ export default {
     primary: "rebeccapurple",
     white: "white",
   },
-  sizes: ["1.0875rem", "1.45rem"],
-  space: ["960px", "5rem"],
+  space: ["1rem", "1.5rem", "3rem", "5rem"],
+  sizes: ["860px"],
 }

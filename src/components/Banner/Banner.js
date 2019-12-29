@@ -8,8 +8,9 @@ const Banner = () => {
     query {
       file(relativePath: { eq: "eaudepoisson-banner.png" }) {
         childImageSharp {
-          fluid(maxWidth: 512) {
+          fluid(maxWidth: 350) {
             ...GatsbyImageSharpFluid_tracedSVG
+            presentationWidth
           }
         }
       }
@@ -18,11 +19,14 @@ const Banner = () => {
   return (
     <Link to={`/`}>
       <Img
-        css={css`
-          max-width: 512px;
+        css={theme => css`
+          width: 75vw;
+          max-width: ${data.file.childImageSharp.fluid.presentationWidth}px;
+          margin: 0 auto;
+          margin-bottom: ${theme.space[2]};
         `}
         fluid={data.file.childImageSharp.fluid}
-        alt="Eau de poisson"
+        alt="eau de poisson, par robin et clara"
       />
     </Link>
   )

@@ -4,7 +4,10 @@ exports[`Banner should match the snapshots 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": .emotion-0 {
-  max-width: 512px;
+  width: 75vw;
+  max-width: px;
+  margin: 0 auto;
+  margin-bottom: 3rem;
 }
 
 <body>
@@ -39,7 +42,7 @@ Object {
 /static/006fbf5aa7e69ee7bcc4980cb1361faf/037d0/eaudepoisson-banner.png 1552w"
             />
             <img
-              alt="Eau de poisson"
+              alt="eau de poisson, par robin et clara"
               loading="lazy"
               sizes="(max-width: 1024px) 100vw, 1024px"
               src="/static/006fbf5aa7e69ee7bcc4980cb1361faf/e95dd/eaudepoisson-banner.png"
@@ -60,14 +63,17 @@ Object {
 /static/006fbf5aa7e69ee7bcc4980cb1361faf/7e783/eaudepoisson-banner.png 512w,
 /static/006fbf5aa7e69ee7bcc4980cb1361faf/e95dd/eaudepoisson-banner.png 1024w,
 /static/006fbf5aa7e69ee7bcc4980cb1361faf/8d905/eaudepoisson-banner.png 1536w,
-/static/006fbf5aa7e69ee7bcc4980cb1361faf/037d0/eaudepoisson-banner.png 1552w" src="/static/006fbf5aa7e69ee7bcc4980cb1361faf/e95dd/eaudepoisson-banner.png" alt="Eau de poisson" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/&gt;&lt;/picture&gt;
+/static/006fbf5aa7e69ee7bcc4980cb1361faf/037d0/eaudepoisson-banner.png 1552w" src="/static/006fbf5aa7e69ee7bcc4980cb1361faf/e95dd/eaudepoisson-banner.png" alt="eau de poisson, par robin et clara" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/&gt;&lt;/picture&gt;
           </noscript>
         </div>
       </a>
     </div>
   </body>,
   "container": .emotion-0 {
-  max-width: 512px;
+  width: 75vw;
+  max-width: px;
+  margin: 0 auto;
+  margin-bottom: 3rem;
 }
 
 <div>
@@ -101,7 +107,7 @@ Object {
 /static/006fbf5aa7e69ee7bcc4980cb1361faf/037d0/eaudepoisson-banner.png 1552w"
           />
           <img
-            alt="Eau de poisson"
+            alt="eau de poisson, par robin et clara"
             loading="lazy"
             sizes="(max-width: 1024px) 100vw, 1024px"
             src="/static/006fbf5aa7e69ee7bcc4980cb1361faf/e95dd/eaudepoisson-banner.png"
@@ -122,7 +128,7 @@ Object {
 /static/006fbf5aa7e69ee7bcc4980cb1361faf/7e783/eaudepoisson-banner.png 512w,
 /static/006fbf5aa7e69ee7bcc4980cb1361faf/e95dd/eaudepoisson-banner.png 1024w,
 /static/006fbf5aa7e69ee7bcc4980cb1361faf/8d905/eaudepoisson-banner.png 1536w,
-/static/006fbf5aa7e69ee7bcc4980cb1361faf/037d0/eaudepoisson-banner.png 1552w" src="/static/006fbf5aa7e69ee7bcc4980cb1361faf/e95dd/eaudepoisson-banner.png" alt="Eau de poisson" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/&gt;&lt;/picture&gt;
+/static/006fbf5aa7e69ee7bcc4980cb1361faf/037d0/eaudepoisson-banner.png 1552w" src="/static/006fbf5aa7e69ee7bcc4980cb1361faf/e95dd/eaudepoisson-banner.png" alt="eau de poisson, par robin et clara" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/&gt;&lt;/picture&gt;
         </noscript>
       </div>
     </a>
