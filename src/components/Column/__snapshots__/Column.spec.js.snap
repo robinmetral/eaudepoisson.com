@@ -6,7 +6,6 @@ Object {
   "baseElement": .emotion-0 {
   margin: 0 auto;
   max-width: 860px;
-  padding: 1.5rem;
 }
 
 <body>
@@ -21,7 +20,6 @@ Object {
   "container": .emotion-0 {
   margin: 0 auto;
   max-width: 860px;
-  padding: 1.5rem;
 }
 
 <div>
