@@ -3,7 +3,7 @@
 exports[`Layout should match the snapshots 1`] = `
 Object {
   "asFragment": [Function],
-  "baseElement": .emotion-1 {
+  "baseElement": .emotion-3 {
   margin: 0 auto;
   max-width: 860px;
 }
@@ -15,10 +15,15 @@ Object {
   margin-bottom: 3rem;
 }
 
+.emotion-1 {
+  font-family: "Merriweather",serif;
+  text-align: center;
+}
+
 <body>
     <div>
       <div
-        class="emotion-1 emotion-2"
+        class="emotion-3 emotion-4"
       >
         <a
           href="/"
@@ -76,7 +81,10 @@ Object {
           </div>
         </a>
         <main>
-          <h1>
+          <h1
+            class="emotion-1 emotion-2"
+            data-testid="header"
+          >
             Home
           </h1>
           <div>
@@ -86,7 +94,7 @@ Object {
       </div>
     </div>
   </body>,
-  "container": .emotion-1 {
+  "container": .emotion-3 {
   margin: 0 auto;
   max-width: 860px;
 }
@@ -98,9 +106,14 @@ Object {
   margin-bottom: 3rem;
 }
 
+.emotion-1 {
+  font-family: "Merriweather",serif;
+  text-align: center;
+}
+
 <div>
     <div
-      class="emotion-1 emotion-2"
+      class="emotion-3 emotion-4"
     >
       <a
         href="/"
@@ -158,7 +171,10 @@ Object {
         </div>
       </a>
       <main>
-        <h1>
+        <h1
+          class="emotion-1 emotion-2"
+          data-testid="header"
+        >
           Home
         </h1>
         <div>

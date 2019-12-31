@@ -10,7 +10,7 @@ context("Homepage", () => {
 
   it("should navigate", () => {
     // click the link
-    cy.findByText("Example post").click()
+    cy.findByText("De Vientiane à Bangkok par rail et route").click()
 
     // should be the right url
     cy.url().should(
