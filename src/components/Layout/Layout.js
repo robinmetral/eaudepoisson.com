@@ -6,6 +6,7 @@ import Seo from "../Seo"
 import Banner from "../Banner"
 import Column from "../Column"
 import Heading from "../Heading"
+import Image from "../Image"
 
 const Layout = ({ pageContext, children }) => {
   const { title } = pageContext.frontmatter
@@ -16,6 +17,7 @@ const Layout = ({ pageContext, children }) => {
       components={{
         h2: props => <Heading {...props} h="2" />,
         h3: props => <Heading {...props} h="3" />,
+        img: props => <Image {...props} />,
       }}
     >
       <Seo title={title} />

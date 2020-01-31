@@ -10,12 +10,9 @@ context("Homepage", () => {
 
   it("should navigate", () => {
     // click the link
-    cy.findByText("De Vientiane à Bangkok par rail et route").click()
+    cy.findByText("Vietnam : deux semaines avant").click()
 
     // should be the right url
-    cy.url().should(
-      "include",
-      "/2018-12-18-de-vientiane-a-bangkok-par-rail-et-route/"
-    )
+    cy.url().should("include", "vietnam-deux-semaines-avant")
   })
 })
