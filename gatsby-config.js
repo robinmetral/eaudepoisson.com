@@ -9,6 +9,14 @@ module.exports = {
     author: ``,
   },
   plugins: [
+    {
+      resolve: "gatsby-plugin-matomo",
+      options: {
+        siteId: process.env.MATOMO_SITE_ID,
+        matomoUrl: process.env.MATOMO_URL,
+        siteUrl: process.env.SITE_URL,
+      },
+    },
     `gatsby-plugin-emotion`,
     {
       resolve: `gatsby-plugin-mdx`,
