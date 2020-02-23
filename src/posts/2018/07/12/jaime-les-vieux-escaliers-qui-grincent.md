@@ -1,6 +1,7 @@
 ---
+id: 1878
 title: "J'aime les vieux escaliers qui grincent"
-date: "2018-07-12"
+date: "2018-07-12 09:19:48"
 featured: "20180603-yangon-coloniale-immeuble-4.jpg"
 author: "Robin"
 ---

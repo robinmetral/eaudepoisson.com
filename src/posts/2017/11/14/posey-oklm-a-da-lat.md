@@ -1,6 +1,7 @@
 ---
+id: 617
 title: "Posey oklm à Đà Lạt 😎"
-date: "2017-11-14"
+date: "2017-11-14 04:38:02"
 featured: "20171102-dalat-vue.jpg"
 author: "Clara & Robin"
 ---

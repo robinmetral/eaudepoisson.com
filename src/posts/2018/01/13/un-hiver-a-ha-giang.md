@@ -1,6 +1,7 @@
 ---
+id: 1244
 title: "Un hiver à Hà Giang"
-date: "2018-01-13"
+date: "2018-01-13 05:10:10"
 featured: "20180110-ha-giang-panorama-3.jpg"
 author: "Robin"
 ---

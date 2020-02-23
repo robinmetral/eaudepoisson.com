@@ -1,6 +1,7 @@
 ---
+id: 2214
 title: "Chiang Mai, épisode 2 : le café ☕"
-date: "2018-11-29"
+date: "2018-11-29 10:39:09"
 featured: "20180710-chiang-mai-zmoy-aeropress.jpg"
 author: "Clara & Robin"
 ---

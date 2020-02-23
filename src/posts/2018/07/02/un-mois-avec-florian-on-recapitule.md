@@ -1,6 +1,7 @@
 ---
+id: 1880
 title: "Un mois avec Florian, on récapitule"
-date: "2018-07-02"
+date: "2018-07-02 09:34:44"
 featured: "20180612-yangon-flo-sule.jpg"
 author: "Clara & Robin"
 ---

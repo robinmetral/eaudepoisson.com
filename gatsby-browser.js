@@ -1,6 +1,8 @@
 import React from "react"
+import { ApolloProvider } from "@apollo/react-hooks"
 import { ThemeProvider } from "emotion-theming"
 
+import ApolloClient from "./src/apollo/client"
 import theme from "./src/theme"
 import GlobalStyles from "./src/components/GlobalStyles"
 
@@ -9,8 +11,10 @@ require("typeface-merriweather")
 require("typeface-open-sans")
 
 export const wrapRootElement = ({ element }) => (
-  <ThemeProvider theme={theme}>
-    <GlobalStyles />
-    {element}
-  </ThemeProvider>
+  <ApolloProvider client={ApolloClient}>
+    <ThemeProvider theme={theme}>
+      <GlobalStyles />
+      {element}
+    </ThemeProvider>
+  </ApolloProvider>
 )

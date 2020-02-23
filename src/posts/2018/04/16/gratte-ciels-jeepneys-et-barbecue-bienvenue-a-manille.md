@@ -1,6 +1,7 @@
 ---
+id: 1609
 title: "Gratte-ciels, jeepneys et barbecue : bienvenue à Manille"
-date: "2018-04-16"
+date: "2018-04-16 10:15:28"
 featured: "20180414-manille-jeepney-3.jpg"
 author: "Clara & Robin"
 ---

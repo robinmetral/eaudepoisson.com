@@ -1,6 +1,7 @@
 ---
+id: 1471
 title: "Entre travail et vacances : deux mois à Đà Nẵng"
-date: "2018-04-01"
+date: "2018-04-01 11:20:09"
 featured: "20180300-danang-vue.jpg"
 author: "Clara & Robin"
 ---

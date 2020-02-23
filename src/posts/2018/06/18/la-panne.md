@@ -1,6 +1,7 @@
 ---
+id: 1787
 title: "La panne"
-date: "2018-06-18"
+date: "2018-06-18 14:18:46"
 featured: "20180618-hpaan-bus-panne-petit-nicolas.jpg"
 author: "Florian"
 ---

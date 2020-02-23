@@ -1,6 +1,7 @@
 ---
+id: 2268
 title: "Chiang Mai, épisode 4 : apprendre le thaï 🇹🇭"
-date: "2018-12-07"
+date: "2018-12-07 14:20:52"
 featured: "20180718-chiang-mai-ymca.jpg"
 author: "Clara & Robin"
 ---

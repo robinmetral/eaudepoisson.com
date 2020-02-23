@@ -1,6 +1,7 @@
 ---
+id: 1675
 title: "Voile et couchers de soleil sur El Nido ⛵"
-date: "2018-05-02"
+date: "2018-05-02 13:52:58"
 featured: "20180420-elnido-ferry-coucher-soleil.jpg"
 author: "Clara & Robin"
 ---

@@ -7,9 +7,10 @@ import Banner from "../Banner"
 import Column from "../Column"
 import Heading from "../Heading"
 import Image from "../Image"
+import CommentsSection from "../CommentsSection"
 
 const Layout = ({ pageContext, children }) => {
-  const { title } = pageContext.frontmatter
+  const { title, id } = pageContext.frontmatter
   return (
     <MDXProvider
       // note: the provider is only necessary because we're customizing components
@@ -24,9 +25,13 @@ const Layout = ({ pageContext, children }) => {
       <Column>
         <Banner />
         <main>
-          <Heading h="1">{title}</Heading>
+          <Heading h="1" center>
+            {title}
+          </Heading>
           {children}
         </main>
+        {// if it has an ID, it's an article
+        id && <CommentsSection articleId={id} />}
       </Column>
     </MDXProvider>
   )

@@ -1,6 +1,7 @@
 ---
+id: 266
 title: "Deux jours à Saigon : scooters et plats vietnamiens"
-date: "2017-10-21"
+date: "2017-10-21 07:48:21"
 featured: "20171019-rue-saigon.jpg"
 author: "Clara & Robin"
 ---

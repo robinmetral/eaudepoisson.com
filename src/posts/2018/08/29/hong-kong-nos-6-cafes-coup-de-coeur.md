@@ -1,6 +1,7 @@
 ---
+id: 2056
 title: "Hong Kong : nos 6 cafés coup de cœur ☕❤"
-date: "2018-08-29"
+date: "2018-08-29 12:12:02"
 featured: "20180819-hongkong-cafe-why50.jpg"
 author: "Clara & Robin"
 ---

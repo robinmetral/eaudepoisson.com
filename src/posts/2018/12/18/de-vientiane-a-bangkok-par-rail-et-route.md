@@ -1,6 +1,7 @@
 ---
+id: 2349
 title: "De Vientiane à Bangkok par rail et route 🚂"
-date: "2018-12-18"
+date: "2018-12-18 12:05:15"
 featured: "20181217-nong-khai-train-2.jpg"
 author: "Clara & Robin"
 ---

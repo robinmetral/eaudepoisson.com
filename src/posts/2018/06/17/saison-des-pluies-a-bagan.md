@@ -1,6 +1,7 @@
 ---
+id: 1781
 title: "Saison des pluies à Bagan ☂"
-date: "2018-06-17"
+date: "2018-06-17 16:52:40"
 featured: "20180609-bagan-vue-flo-clara.jpg"
 author: "Clara & Robin"
 ---

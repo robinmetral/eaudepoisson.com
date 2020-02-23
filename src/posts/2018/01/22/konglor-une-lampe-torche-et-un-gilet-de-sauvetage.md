@@ -1,6 +1,7 @@
 ---
+id: 1290
 title: "Konglor : une lampe torche et un gilet de sauvetage"
-date: "2018-01-22"
+date: "2018-01-22 16:21:31"
 featured: "20180122-konglor-sortie-3.jpg"
 author: "Robin"
 ---

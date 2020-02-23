@@ -1,6 +1,7 @@
 ---
+id: 2175
 title: "Chiang Mai, épisode 1 : le ciné à Maya 📽"
-date: "2018-11-26"
+date: "2018-11-26 14:02:59"
 featured: "20181126-chiang-mai-maya-sfx.jpg"
 author: "Clara & Robin"
 ---

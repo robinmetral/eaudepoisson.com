@@ -1,6 +1,7 @@
 ---
+id: 845
 title: "Huế, un haiku"
-date: "2017-11-27"
+date: "2017-11-27 05:19:25"
 featured: "20171124-huong-giang-x2.jpg"
 author: "Robin"
 ---

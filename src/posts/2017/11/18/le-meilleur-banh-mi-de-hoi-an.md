@@ -1,6 +1,7 @@
 ---
+id: 714
 title: "Le meilleur bánh mì de Hội An"
-date: "2017-11-18"
+date: "2017-11-18 10:43:54"
 featured: "20171116-banh-mi-queen-queen.jpg"
 author: "Robin"
 ---

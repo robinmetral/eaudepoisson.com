@@ -1,6 +1,7 @@
 ---
+id: 1057
 title: "Chère Ninh Bình"
-date: "2017-12-19"
+date: "2017-12-19 09:07:59"
 featured: "20171209-ninh-binh-buffles.jpg"
 author: "Clara & Robin"
 ---

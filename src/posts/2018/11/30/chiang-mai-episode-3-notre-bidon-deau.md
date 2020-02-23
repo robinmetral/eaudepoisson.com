@@ -1,6 +1,7 @@
 ---
+id: 2254
 title: "Chiang Mai, épisode 3 : notre bidon d'eau 💧"
-date: "2018-11-30"
+date: "2018-11-30 07:04:20"
 featured: "20181129-chiang-mai-bidon-ascenceur.jpg"
 author: "Clara & Robin"
 ---

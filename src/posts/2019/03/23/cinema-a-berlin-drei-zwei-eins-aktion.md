@@ -1,6 +1,7 @@
 ---
+id: 2423
 title: "Cinéma à Berlin : drei, zwei, eins, Aktion! 📽"
-date: "2019-03-23"
+date: "2019-03-23 09:35:20"
 featured: "20190311-berlin-kino-international.jpg"
 author: "Clara & Robin"
 ---

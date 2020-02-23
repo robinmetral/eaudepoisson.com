@@ -5,7 +5,7 @@ Object {
   "asFragment": [Function],
   "baseElement": .emotion-0 {
   margin: 0 auto;
-  max-width: 860px;
+  width: 90rem;
 }
 
 <body>
@@ -19,7 +19,7 @@ Object {
   </body>,
   "container": .emotion-0 {
   margin: 0 auto;
-  max-width: 860px;
+  width: 90rem;
 }
 
 <div>

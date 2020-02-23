@@ -1,6 +1,7 @@
 ---
+id: 1325
 title: "Le Vietnam en noir et blanc 🎞"
-date: "2018-02-01"
+date: "2018-02-01 08:35:26"
 featured: "20180130-hoian-banhmiqueen-reine.jpg"
 author: "Robin"
 ---

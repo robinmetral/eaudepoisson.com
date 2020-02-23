@@ -1,6 +1,7 @@
 ---
+id: 843
 title: "Huế, notre semaine en une journée"
-date: "2017-12-02"
+date: "2017-12-02 08:45:29"
 featured: "20171127-cite-imperiale-1.jpg"
 author: "Clara & Robin"
 ---

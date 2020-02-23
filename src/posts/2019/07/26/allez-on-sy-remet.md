@@ -1,6 +1,7 @@
 ---
+id: 2504
 title: "Allez, on s'y remet !"
-date: "2019-07-26"
+date: "2019-07-26 07:09:22"
 featured: "20190516-clara-fenetre.jpg"
 author: "Clara & Robin"
 ---

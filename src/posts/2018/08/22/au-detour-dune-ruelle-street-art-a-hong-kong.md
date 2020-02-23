@@ -1,6 +1,7 @@
 ---
+id: 2016
 title: "Au détour d'une ruelle : Street Art à Hong Kong"
-date: "2018-08-22"
+date: "2018-08-22 15:22:40"
 featured: "20180820-hongkong-streetart-21.jpg"
 author: "Clara & Robin"
 ---

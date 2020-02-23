@@ -1,6 +1,7 @@
 ---
+id: 406
 title: "Top 7 du choc culturel au Vietnam"
-date: "2017-10-29"
+date: "2017-10-29 15:38:25"
 featured: "20171024-masque-antipollution.jpg"
 author: "Clara & Robin"
 ---

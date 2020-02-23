@@ -1,6 +1,7 @@
 ---
+id: 2335
 title: "Chiang Mai, épisode 6 : manger dehors 🌶"
-date: "2018-12-17"
+date: "2018-12-17 10:07:56"
 featured: "20180805-chiang-mai-curry-omelette.jpg"
 author: "Clara & Robin"
 ---

@@ -23,7 +23,7 @@ const Banner = () => {
           width: 75vw;
           max-width: ${data.file.childImageSharp.fluid.presentationWidth}px;
           margin: 0 auto;
-          margin-bottom: ${theme.space[2]};
+          margin-bottom: ${theme.space[3]};
         `}
         fluid={data.file.childImageSharp.fluid}
         alt="eau de poisson, par robin et clara"

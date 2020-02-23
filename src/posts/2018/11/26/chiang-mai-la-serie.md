@@ -1,6 +1,7 @@
 ---
+id: 2147
 title: "Chiang Mai, la série 🗞"
-date: "2018-11-26"
+date: "2018-11-26 07:25:58"
 featured: "20180629-chiang-mai-vue-appart.jpg"
 author: "Clara & Robin"
 ---

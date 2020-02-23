@@ -1,6 +1,7 @@
 ---
+id: 29
 title: "Vietnam : deux semaines avant"
-date: "2017-10-05"
+date: "2017-10-05 10:44:50"
 featured: "20171004-clara-dessine-2.jpg"
 author: "Clara & Robin"
 ---

@@ -1,6 +1,7 @@
 ---
+id: 1166
 title: "Vũng Tàu, une journée à la plage"
-date: "2017-12-21"
+date: "2017-12-21 14:45:02"
 featured: "20171221-fruits-de-mer-repas.jpg"
 author: "Clara & Robin"
 ---

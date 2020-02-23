@@ -23,39 +23,35 @@ describe("Heading", () => {
     )
   })
 
-  describe("h1", () => {
-    it("should match the snapshots", () => {
-      const header = render(<Heading h="1">Title</Heading>)
+  describe("centering", () => {
+    it("should be centered with the the center prop", () => {
+      const { getByTestId } = render(
+        <Heading h="1" center>
+          Title
+        </Heading>
+      )
 
-      expect(header).toMatchSnapshot()
+      expect(getByTestId("header")).toHaveStyleRule("text-align", "center")
     })
 
-    it("should render an h1 element", () => {
-      const h1 = render(<Heading h="1">Title</Heading>)
+    it("should not be centered without the the center prop", () => {
+      const { getByTestId } = render(<Heading h="1">Title</Heading>)
 
-      expect(h1.getByTestId("header")).toContainHTML("<h1")
+      expect(getByTestId("header")).toHaveStyleRule("text-align", "left")
     })
   })
 
-  describe("h2", () => {
-    it("should match the snapshots", () => {
-      const header = render(<Heading h="2">Title</Heading>)
+  describe("element", () => {
+    it("should render an h1 element", () => {
+      const h2 = render(<Heading h="1">Title</Heading>)
 
-      expect(header).toMatchSnapshot()
+      expect(h2.getByTestId("header")).toContainHTML("<h1")
     })
 
     it("should render an h2 element", () => {
       const h2 = render(<Heading h="2">Title</Heading>)
 
       expect(h2.getByTestId("header")).toContainHTML("<h2")
-    })
-  })
-
-  describe("h3", () => {
-    it("should match the snapshots", () => {
-      const header = render(<Heading h="2">Title</Heading>)
-
-      expect(header).toMatchSnapshot()
     })
 
     it("should render an h3 element", () => {

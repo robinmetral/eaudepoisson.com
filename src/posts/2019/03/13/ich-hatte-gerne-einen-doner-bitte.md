@@ -1,6 +1,7 @@
 ---
+id: 2411
 title: "Ich hätte gerne einen Döner, bitte 🌯"
-date: "2019-03-13"
+date: "2019-03-13 08:40:30"
 featured: "20190209-berlin-doner-mustafa-3.jpg"
 author: "Clara & Robin"
 ---

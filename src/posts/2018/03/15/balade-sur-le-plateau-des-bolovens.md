@@ -1,6 +1,7 @@
 ---
+id: 1394
 title: "Balade sur le plateau des Bolovens 🏍"
-date: "2018-03-15"
+date: "2018-03-15 04:17:43"
 featured: "20180127-bolaven-mysticmountain-paysage.jpg"
 author: "Clara & Robin"
 ---

@@ -1,6 +1,7 @@
 ---
+id: 705
 title: "Nha Trang ou cinq jours à Little Russia 🇷🇺"
-date: "2017-11-19"
+date: "2017-11-19 10:36:15"
 featured: "20171114-bain-boue.jpg"
 author: "Clara & Robin"
 ---
