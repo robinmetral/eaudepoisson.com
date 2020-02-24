@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { css } from "@emotion/core"
 
 import Input from "../../../Input"
@@ -12,18 +12,23 @@ const CommentForm = ({
   createComment,
   disabled,
 }) => {
+  const [timestamp] = useState(Date.now())
+
   const handleChange = e => {
     setComment({ ...comment, [e.target.name]: e.target.value })
   }
 
   const handleSubmit = e => {
     e.preventDefault()
-    // todo form validation
-    createComment({
-      variables: {
-        ...comment,
-      },
-    })
+    const secondsOnPage = (Date.now() - timestamp) / 1000
+    if (secondsOnPage > 10) {
+      createComment({
+        variables: {
+          ...comment,
+        },
+      })
+    }
+    // todo handle error from anti-spam validation
   }
 
   return (
