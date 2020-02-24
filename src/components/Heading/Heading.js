@@ -11,8 +11,18 @@ const StyledHeading = styled.span`
 `
 
 // the header component supports levels 1 to 3
-const Heading = ({ h, center, children }) => (
-  <StyledHeading as={`h${h}`} center={center} data-testid="header">
+const Heading = ({
+  h,
+  center,
+  children,
+  className, // enables styling from parent with css prop
+}) => (
+  <StyledHeading
+    as={`h${h}`}
+    center={center}
+    data-testid="header"
+    className={className}
+  >
     {children}
   </StyledHeading>
 )

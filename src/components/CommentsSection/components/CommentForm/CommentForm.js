@@ -57,6 +57,9 @@ const CommentForm = ({
           value={comment.name}
           onChange={handleChange}
           required
+          css={css`
+            flex: 1;
+          `}
         />
         <Input
           type="email"
@@ -65,6 +68,9 @@ const CommentForm = ({
           value={comment.email}
           onChange={handleChange}
           required
+          css={css`
+            flex: 1;
+          `}
         />
       </div>
       <Textarea

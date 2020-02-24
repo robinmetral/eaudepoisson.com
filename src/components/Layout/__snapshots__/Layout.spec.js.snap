@@ -5,14 +5,13 @@ Object {
   "asFragment": [Function],
   "baseElement": .emotion-3 {
   margin: 0 auto;
-  width: 90rem;
+  max-width: 90rem;
 }
 
 .emotion-0 {
   width: 75vw;
   max-width: px;
-  margin: 0 auto;
-  margin-bottom: 3rem;
+  margin: 3rem auto;
 }
 
 .emotion-1 {
@@ -99,14 +98,13 @@ Object {
   </body>,
   "container": .emotion-3 {
   margin: 0 auto;
-  width: 90rem;
+  max-width: 90rem;
 }
 
 .emotion-0 {
   width: 75vw;
   max-width: px;
-  margin: 0 auto;
-  margin-bottom: 3rem;
+  margin: 3rem auto;
 }
 
 .emotion-1 {

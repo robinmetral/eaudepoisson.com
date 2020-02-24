@@ -8,9 +8,11 @@ import Column from "../Column"
 import Heading from "../Heading"
 import Image from "../Image"
 import CommentsSection from "../CommentsSection"
+import ArticleHeader from "../ArticleHeader"
 
 const Layout = ({ pageContext, children }) => {
-  const { title, id } = pageContext.frontmatter
+  const { frontmatter } = pageContext
+  const isArticle = !!frontmatter.id
   return (
     <MDXProvider
       // note: the provider is only necessary because we're customizing components
@@ -21,17 +23,20 @@ const Layout = ({ pageContext, children }) => {
         img: props => <Image {...props} />,
       }}
     >
-      <Seo title={title} />
+      <Seo title={frontmatter.title} />
       <Column>
         <Banner />
         <main>
-          <Heading h="1" center>
-            {title}
-          </Heading>
+          {isArticle ? (
+            <ArticleHeader frontmatter={frontmatter} />
+          ) : (
+            <Heading h="1" center>
+              {frontmatter.title}
+            </Heading>
+          )}
           {children}
         </main>
-        {// if it has an ID, it's an article
-        id && <CommentsSection articleId={id} />}
+        {isArticle && <CommentsSection articleId={frontmatter.id} />}
       </Column>
     </MDXProvider>
   )

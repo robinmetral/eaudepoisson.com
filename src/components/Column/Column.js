@@ -4,6 +4,6 @@ import styled from "@emotion/styled"
 export default styled.div`
   ${({ theme: { sizes } }) => css`
     margin: 0 auto;
-    width: ${sizes[1]};
+    max-width: ${sizes[1]};
   `}
 `

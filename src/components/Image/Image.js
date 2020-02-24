@@ -1,8 +1,9 @@
 import React from "react"
+import { css } from "@emotion/core"
 import { graphql, useStaticQuery } from "gatsby"
 import Img from "gatsby-image"
 
-const Image = ({ src, alt, title }) => {
+const Image = ({ src, alt, title, featured }) => {
   const data = useStaticQuery(graphql`
     query ImagesQuery {
       images: allS3Object {
@@ -24,13 +25,15 @@ const Image = ({ src, alt, title }) => {
   // https://github.com/gatsbyjs/gatsby/issues/10482
   const image = data.images.nodes.find(image => image.Key === src)
 
-  // todo delete this console.log after the migration
-  if (!image) {
-    console.log(`image not found at ${src}`)
-  }
-
   return (
-    <figure>
+    <figure
+      css={theme =>
+        featured &&
+        css`
+          margin: ${theme.space[3]} 0;
+        `
+      }
+    >
       <Img fluid={image.localFile.childImageSharp.fluid} alt={alt} />
       {title && <figcaption>{title}</figcaption>}
     </figure>
