@@ -25,9 +25,9 @@ jobs:
       - name: E2E
         run: yarn test:e2e
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: ${{ secrets.AWS_REGION }}
+          AWS_ACCESS_KEY_ID_: ${{ secrets.AWS_ACCESS_KEY_ID_ }}
+          AWS_SECRET_ACCESS_KEY_: ${{ secrets.AWS_SECRET_ACCESS_KEY_ }}
+          AWS_REGION_: ${{ secrets.AWS_REGION_ }}
       # upload failure screenshots
       - name: Upload failure screenshots
         uses: actions/upload-artifact@v1
