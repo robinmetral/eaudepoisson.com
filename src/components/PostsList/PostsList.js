@@ -3,7 +3,7 @@ import { css } from "@emotion/core"
 import { graphql, useStaticQuery, Link } from "gatsby"
 
 import Heading from "../Heading"
-import Image from "../Image"
+import FeaturedImage from "../FeaturedImage"
 import { formatDate } from "../../helpers"
 
 const PostsList = () => {
@@ -40,11 +40,13 @@ const PostsList = () => {
             `
           }
         >
-          <Image
-            src={post.frontmatter.featured}
-            alt={post.frontmatter.title}
-            featured
-          />
+          <Link to={post.fields.slug}>
+            <FeaturedImage
+              src={post.frontmatter.featured}
+              alt={post.frontmatter.title}
+              animate
+            />
+          </Link>
           <Link
             to={post.fields.slug}
             css={css`
@@ -53,7 +55,7 @@ const PostsList = () => {
             `}
           >
             <Heading
-              h="2"
+              h="1"
               center
               css={css`
                 margin-bottom: 0;

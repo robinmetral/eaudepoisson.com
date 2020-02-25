@@ -4,7 +4,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `eau de poisson`,
+    title: `Eau de poisson`,
     description: ``,
     author: ``,
   },
@@ -64,7 +64,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `eau de poisson`,
+        name: `Eau de poisson`,
         short_name: `edp`,
         start_url: `/`,
         background_color: `#663399`,

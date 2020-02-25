@@ -18,7 +18,7 @@ describe("Banner", () => {
 
   it.skip("should navigate to the homepage", () => {
     const { getByAltText } = render(<Banner />)
-    fireEvent.click(getByAltText("eau de poisson, par robin et clara"))
+    fireEvent.click(getByAltText("Eau de poisson, par robin et clara"))
 
     // TODO assert route change or routing method call
   })

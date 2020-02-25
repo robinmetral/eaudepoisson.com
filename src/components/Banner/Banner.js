@@ -25,7 +25,7 @@ const Banner = () => {
           margin: ${theme.space[3]} auto;
         `}
         fluid={data.file.childImageSharp.fluid}
-        alt="eau de poisson, par robin et clara"
+        alt="Eau de poisson, par robin et clara"
       />
     </Link>
   )

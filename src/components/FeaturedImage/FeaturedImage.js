@@ -3,17 +3,16 @@ import { css } from "@emotion/core"
 import { graphql, useStaticQuery } from "gatsby"
 import Img from "gatsby-image"
 
-const Image = ({ src, alt, title }) => {
+const FeaturedImage = ({ src, alt, animate }) => {
   const data = useStaticQuery(graphql`
-    query ImagesQuery {
+    query FeaturedImagesQuery {
       images: allS3Object {
         nodes {
           Key
           localFile {
             childImageSharp {
-              fluid(maxWidth: 1024) {
+              fluid(maxHeight: 400, maxWidth: 1024, cropFocus: ENTROPY) {
                 ...GatsbyImageSharpFluid
-                presentationWidth
               }
             }
           }
@@ -27,24 +26,27 @@ const Image = ({ src, alt, title }) => {
   const image = data.images.nodes.find(image => image.Key === src)
 
   return (
-    <figure
+    <div
       css={theme => css`
-        margin: 0 -${theme.sizes[0]};
         overflow: hidden;
+        margin: 0 -${theme.sizes[0]};
       `}
     >
       <Img
         fluid={image.localFile.childImageSharp.fluid}
         alt={alt}
-        style={{
-          // prevents fluid images from stretching above their width
-          maxWidth: image.localFile.childImageSharp.fluid.presentationWidth,
-          margin: "0 auto",
-        }}
+        css={
+          animate &&
+          css`
+            transition: transform 0.4s ease 0s;
+            &:hover {
+              transform: scale(1.05);
+            }
+          `
+        }
       />
-      {title && <figcaption>{title}</figcaption>}
-    </figure>
+    </div>
   )
 }
 
-export default Image
+export default FeaturedImage

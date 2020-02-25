@@ -2,7 +2,7 @@ import React from "react"
 import { css } from "@emotion/core"
 
 import Heading from "../Heading"
-import Image from "../Image"
+import FeaturedImage from "../FeaturedImage"
 import { formatDate } from "../../helpers"
 
 const ArticleHeader = ({ frontmatter: { title, date, featured } }) => (
@@ -11,7 +11,7 @@ const ArticleHeader = ({ frontmatter: { title, date, featured } }) => (
       margin: ${theme.space[3]} 0;
     `}
   >
-    <Image src={featured} alt={title} featured />
+    <FeaturedImage src={featured} alt={title} />
     <Heading
       h="1"
       center

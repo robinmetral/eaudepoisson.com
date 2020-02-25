@@ -30,9 +30,11 @@ const Layout = ({ pageContext, children }) => {
           {isArticle ? (
             <ArticleHeader frontmatter={frontmatter} />
           ) : (
-            <Heading h="1" center>
-              {frontmatter.title}
-            </Heading>
+            frontmatter.title && (
+              <Heading h="1" center>
+                {frontmatter.title}
+              </Heading>
+            )
           )}
           {children}
         </main>
