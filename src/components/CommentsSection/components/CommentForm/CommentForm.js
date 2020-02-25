@@ -37,42 +37,26 @@ const CommentForm = ({
       disabled={disabled}
       css={theme =>
         css`
-          margin-left: ${comment.parentId ? theme.space[4] : 0};
-          display: flex;
-          font-size: ${theme.fontSizes[1]};
+          margin-left: ${comment.parentId ? theme.space[3] : 0};
         `
       }
     >
-      <div
-        css={theme => css`
-          display: flex;
-          flex-direction: column;
-          min-width: ${theme.sizes[0]};
-        `}
-      >
-        <Input
-          type="text"
-          name="name"
-          placeholder="Nom"
-          value={comment.name}
-          onChange={handleChange}
-          required
-          css={css`
-            flex: 1;
-          `}
-        />
-        <Input
-          type="email"
-          name="email"
-          placeholder="Adresse email"
-          value={comment.email}
-          onChange={handleChange}
-          required
-          css={css`
-            flex: 1;
-          `}
-        />
-      </div>
+      <Input
+        type="text"
+        name="name"
+        placeholder="Nom"
+        value={comment.name}
+        onChange={handleChange}
+        required
+      />
+      <Input
+        type="email"
+        name="email"
+        placeholder="Adresse email"
+        value={comment.email}
+        onChange={handleChange}
+        required
+      />
       <Textarea
         name="comment"
         placeholder="Commentaire"
@@ -80,24 +64,16 @@ const CommentForm = ({
         onChange={handleChange}
         required
       />
-      <div
-        css={theme => css`
-          display: flex;
-          flex-direction: column;
-          min-width: ${theme.sizes[0]};
+      <Button
+        type="submit"
+        value={comment.parentId ? "Répondre" : "Commenter"}
+        css={css`
+          flex: 1;
         `}
-      >
-        <Button
-          type="submit"
-          value={comment.parentId ? "Répondre" : "Commenter"}
-          css={css`
-            flex: 1;
-          `}
-        />
-        {comment.parentId && (
-          <Button value="Annuler la réponse" onClick={handleResetReplyTo} />
-        )}
-      </div>
+      />
+      {comment.parentId && (
+        <Button value="Annuler la réponse" onClick={handleResetReplyTo} />
+      )}
     </form>
   )
 }

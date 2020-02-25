@@ -11,7 +11,7 @@ import CommentForm from "./components/CommentForm"
 const List = styled.ul`
   list-style-type: none;
   padding: 0;
-  margin-left: ${({ nested, theme }) => (nested ? theme.space[4] : 0)};
+  margin-left: ${({ nested, theme }) => (nested ? theme.space[3] : 0)};
 `
 
 const CommentsSection = ({ articleId }) => {
@@ -52,8 +52,9 @@ const CommentsSection = ({ articleId }) => {
 
   return (
     <section
-      css={css`
-        margin: 4rem;
+      css={theme => css`
+        margin: 4rem 0;
+        font-size: ${theme.fontSizes[1]};
       `}
       className="comments"
     >
