@@ -13,6 +13,7 @@ const Image = ({ src, alt, title, featured }) => {
             childImageSharp {
               fluid(maxWidth: 1024) {
                 ...GatsbyImageSharpFluid
+                presentationWidth
               }
             }
           }
@@ -34,7 +35,15 @@ const Image = ({ src, alt, title, featured }) => {
         `
       }
     >
-      <Img fluid={image.localFile.childImageSharp.fluid} alt={alt} />
+      <Img
+        fluid={image.localFile.childImageSharp.fluid}
+        alt={alt}
+        style={{
+          // prevents fluid images from stretching above their width
+          maxWidth: image.localFile.childImageSharp.fluid.presentationWidth,
+          margin: "0 auto",
+        }}
+      />
       {title && <figcaption>{title}</figcaption>}
     </figure>
   )
