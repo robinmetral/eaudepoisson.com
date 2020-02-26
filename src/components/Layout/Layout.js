@@ -47,7 +47,7 @@ const Layout = ({ pageContext, children }) => {
 Layout.propTypes = {
   pageContext: PropTypes.shape({
     frontmatter: PropTypes.shape({
-      title: PropTypes.string.isRequired,
+      title: PropTypes.string,
     }).isRequired,
   }).isRequired,
   children: PropTypes.node.isRequired,
