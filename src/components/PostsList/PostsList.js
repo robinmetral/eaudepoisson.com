@@ -12,6 +12,7 @@ const PostsList = () => {
       allMdx(sort: { order: DESC, fields: frontmatter___date }) {
         nodes {
           frontmatter {
+            id
             title
             date
             featured
@@ -34,6 +35,7 @@ const PostsList = () => {
     >
       {data.allMdx.nodes.map(post => (
         <li
+          key={post.frontmatter.id}
           css={theme =>
             css`
               margin-bottom: ${theme.space[4]};
