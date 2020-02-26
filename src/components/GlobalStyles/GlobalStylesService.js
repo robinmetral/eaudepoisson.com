@@ -5,6 +5,7 @@ export const createGlobalStyles = () => css`
   html {
     box-sizing: border-box;
     font-size: 10px;
+    overflow-x: hidden;
   }
   *,
   *::before,
