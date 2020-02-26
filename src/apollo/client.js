@@ -2,10 +2,10 @@ import ApolloClient from "apollo-boost"
 import fetch from "cross-fetch"
 
 const client = new ApolloClient({
-  uri: process.env.LVC_COMMENTS_ENDPOINT,
+  uri: "https://lvc-comments.herokuapp.com/v1/graphql",
   fetch,
   headers: {
-    "x-hasura-admin-secret": process.env.LVC_COMMENTS_SECRET,
+    "content-type": "application/json",
   },
 })
 
