@@ -66,13 +66,15 @@ const CommentForm = ({
       />
       <Button
         type="submit"
-        value={comment.parentId ? "Répondre" : "Commenter"}
-        css={css`
+        css={theme => css`
           flex: 1;
+          margin-bottom: ${theme.space[0]};
         `}
-      />
+      >
+        {comment.parentId ? "Répondre" : "Commenter"}
+      </Button>
       {comment.parentId && (
-        <Button value="Annuler la réponse" onClick={handleResetReplyTo} />
+        <Button onClick={handleResetReplyTo}>Annuler la réponse</Button>
       )}
     </form>
   )

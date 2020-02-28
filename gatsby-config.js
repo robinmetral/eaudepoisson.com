@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: `Eau de poisson`,
     description: ``,
-    author: ``,
+    author: `Clara & Robin`,
   },
   plugins: [
     {
@@ -23,7 +23,8 @@ module.exports = {
       options: {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
-          default: require.resolve("./src/components/Layout"),
+          posts: require.resolve("./src/components/PostsLayout"),
+          default: require.resolve("./src/components/PostsLayout"),
         },
       },
     },

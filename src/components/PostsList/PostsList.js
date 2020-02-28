@@ -1,85 +1,89 @@
 import React from "react"
 import { css } from "@emotion/core"
-import { graphql, useStaticQuery, Link } from "gatsby"
+import { Link } from "gatsby"
+import Img from "gatsby-image"
 
 import Heading from "../Heading"
-import FeaturedImage from "../FeaturedImage"
 import { formatDate } from "../../helpers"
 
-const PostsList = () => {
-  const data = useStaticQuery(graphql`
-    query PostsQuery {
-      allMdx(sort: { order: DESC, fields: frontmatter___date }) {
-        nodes {
-          frontmatter {
-            id
-            title
-            date
-            featured
-          }
-          fields {
-            slug
-          }
-          excerpt
+const PostsList = ({ posts }) => (
+  <ul
+    css={css`
+      list-style-type: none;
+      padding: 0;
+    `}
+  >
+    {posts.map(post => (
+      <li
+        key={post.frontmatter.id}
+        css={theme =>
+          css`
+            margin-bottom: ${theme.space[4]};
+          `
         }
-      }
-    }
-  `)
-
-  return (
-    <ul
-      css={css`
-        list-style-type: none;
-        padding: 0;
-      `}
-    >
-      {data.allMdx.nodes.map(post => (
-        <li
-          key={post.frontmatter.id}
-          css={theme =>
-            css`
-              margin-bottom: ${theme.space[4]};
-            `
-          }
-        >
-          <Link to={post.fields.slug}>
-            <FeaturedImage
-              src={post.frontmatter.featured}
-              alt={post.frontmatter.title}
-              animate
-            />
-          </Link>
-          <Link
-            to={post.fields.slug}
-            css={css`
-              color: inherit;
-              text-decoration: none;
-            `}
-          >
-            <Heading
-              h="1"
-              center
-              css={css`
-                margin-bottom: 0;
-              `}
-            >
-              {post.frontmatter.title}
-            </Heading>
-          </Link>
-          <p
+      >
+        <Link to={post.fields.slug}>
+          <div
             css={theme => css`
-              text-align: center;
-              margin: 0;
-              font-size: ${theme.fontSizes[1]};
+              margin: 0 -${theme.sizes[0]};
             `}
           >
-            {formatDate(post.frontmatter.date)}
-          </p>
-          <p>{post.excerpt}</p>
-        </li>
-      ))}
-    </ul>
-  )
-}
+            <Img
+              fluid={post.frontmatter.featured.localFile.childImageSharp.fluid}
+              alt={post.frontmatter.title}
+              css={css`
+                box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+                transition: all 0.4s ease 0s;
+                &:hover {
+                  transform: scale(1.05);
+                  box-shadow: 0 1px 20px rgba(0, 0, 0, 0.3);
+                }
+                &::after {
+                  /*
+                    * prerender the hover box-shadow and animate opacity for performance
+                    * see https://tobiasahlin.com/blog/how-to-animate-box-shadow/
+                    */
+                  box-shadow: 0 1px 20px rgba(0, 0, 0, 0.3);
+                  opacity: 0;
+                  transition: opacity 0.3s ease-in-out;
+                  &:hover {
+                    opacity: 1;
+                  }
+                }
+              `}
+            />
+          </div>
+        </Link>
+        <Link
+          to={post.fields.slug}
+          css={css`
+            color: inherit;
+            text-decoration: none;
+          `}
+        >
+          <Heading
+            h="1"
+            center
+            css={css`
+              margin-bottom: 0;
+            `}
+          >
+            {post.frontmatter.title}
+          </Heading>
+        </Link>
+        <p
+          css={theme => css`
+            text-align: center;
+            margin: 0;
+            font-size: ${theme.fontSizes[1]};
+          `}
+        >
+          {formatDate(post.frontmatter.date)}
+        </p>
+        <p>{post.excerpt}</p>
+      </li>
+    ))}
+  </ul>
+)
 
 export default PostsList

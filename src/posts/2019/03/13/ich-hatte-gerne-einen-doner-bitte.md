@@ -31,7 +31,7 @@ Le Döner classique, c'est un _dürüm_ (une galette turque) farcie de petits
 légumes (salade, oignons, tomates, etc.), de sauce blanche, de sauce piquante,
 et de viande rôtie verticalement sur une machine spéciale.
 
-![Première photo connue d'une rôtisserie à Döner, 1855, Empire Ottoman](20190313-donerci-1855.jpg "Première photo connue d'une rôtisserie à Döner, 1855, Empire Ottoman (domaine public, Wilimedia)")
+![Première photo connue d'une rôtisserie à Döner, 1855, Empire Ottoman](20190313-donerci-1855.jpg "Première photo connue d'une rôtisserie à Döner, 1855, Empire Ottoman (domaine public, Wikimedia)")
 
 Le Döner est probablement arrivé à Berlin au début des années 1970. Il
 [aurait été introduit](https://www.thelocal.de/20131031/doner-kebab-inventor-kadir-nurman-dies)

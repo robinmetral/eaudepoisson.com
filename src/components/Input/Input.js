@@ -9,7 +9,7 @@ const Input = styled.input`
   margin: 0;
   margin-bottom: ${({ theme }) => theme.space[0]};
   width: 100%;
-  border: 1px solid black;
+  border: 1px solid ${({ theme }) => theme.colors.black};
 `
 
 export default Input

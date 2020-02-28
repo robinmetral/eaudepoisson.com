@@ -10,9 +10,9 @@ context("Homepage", () => {
 
   it("should navigate", () => {
     // click the link
-    cy.findByText("Vietnam : deux semaines avant").click()
+    cy.findByText("La machine à pâte 🍝").click()
 
     // should be the right url
-    cy.url().should("include", "vietnam-deux-semaines-avant")
+    cy.url().should("include", "la-machine-a-pate")
   })
 })
