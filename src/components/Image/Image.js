@@ -27,22 +27,33 @@ const Image = ({ src, alt, title }) => {
   const image = data.images.nodes.find(image => image.Key === src)
 
   return (
-    <figure
-      css={theme => css`
-        margin: 0 -${theme.sizes[0]};
-        overflow: hidden;
-      `}
-    >
-      <Img
-        fluid={image.localFile.childImageSharp.fluid}
-        alt={alt}
-        style={{
-          // prevents fluid images from stretching above their width
-          maxWidth: image.localFile.childImageSharp.fluid.presentationWidth,
-          margin: "0 auto",
-        }}
-      />
-      {title && <figcaption>{title}</figcaption>}
+    <figure>
+      <div
+        css={theme => css`
+          margin: 0 -${theme.sizes[0]};
+          overflow: hidden;
+        `}
+      >
+        <Img
+          fluid={image.localFile.childImageSharp.fluid}
+          alt={alt}
+          style={{
+            // prevents fluid images from stretching above their width
+            maxWidth: image.localFile.childImageSharp.fluid.presentationWidth,
+            margin: "0 auto",
+          }}
+        />
+      </div>
+      {title && (
+        <figcaption
+          css={theme => css`
+            text-align: center;
+            margin-top: ${theme.space[1]};
+          `}
+        >
+          <em>{title}</em>
+        </figcaption>
+      )}
     </figure>
   )
 }
