@@ -103,7 +103,7 @@ de Ladj Ly), et bien sûr la musique !
 
 Après la projection, les acteurs et producteurs sont montées sur scène.
 
-![Acteurs et réalisateurs de The Eddy à la 70ème Berlinal](20200228-025018.jpg)
+![Acteurs et réalisateurs de The Eddy à la 70ème Berlinale](20200228-025018.jpg)
 
 En plus des acteurs, il y avait notamment le compositeur Glen Ballard,
 l'écrivain Jack Thorne (_Harry Potter and the Cursed Child_), et le co-créateur
@@ -115,7 +115,7 @@ Il y a eu des questions, et on a appris que:
   pour une série Netflix) 📽
 - La musique était jouée par des vrais musiciens et a été enregistrée
   entièrement live (une première pour une série Netflix) 🎵
-- André Holland n'est pas pianiste, mais il a pris de cours pour a série, et
+- André Holland n'est pas pianiste, mais il a pris de cours pour la série, et
   compte continuer à en faire après
 - _The Eddy_ a été créé pour le tournage (dans un ancien cinéma), les
   compositeurs Glen Ballard et Randy Kerber
@@ -125,7 +125,7 @@ Il y a eu des questions, et on a appris que:
 Nous, maintenant, il faut qu'on patiente jusqu'au 8 mai pour voir la suite. En
 attendant, on regarde Doctor Who.
 
-_Si vous voulez en lire pus sur *The Eddy*, je vous recommande
+_Si vous voulez en lire plus sur *The Eddy*, je vous recommande
 [cet article de Variety](https://variety.com/2020/tv/reviews/damien-chazelle-the-eddy-review-netflix-damien-chazelle-1203518632/)_
 
 ## Infos pratiques : assister à la Berlinale
