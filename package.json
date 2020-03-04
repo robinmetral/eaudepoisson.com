@@ -10,7 +10,7 @@
     "@emotion/styled": "^10.0.27",
     "@mdx-js/mdx": "^1.5.3",
     "@mdx-js/react": "^1.5.3",
-    "@robinmetral/gatsby-source-s3": "^1.0.1",
+    "@robinmetral/gatsby-source-s3": "^1.1.1",
     "apollo-boost": "^0.4.7",
     "cross-fetch": "^3.0.4",
     "emotion-theming": "^10.0.27",

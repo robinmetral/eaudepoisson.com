@@ -1630,10 +1630,10 @@
     react-lifecycles-compat "^3.0.4"
     warning "^3.0.0"
 
-"@robinmetral/gatsby-source-s3@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@robinmetral/gatsby-source-s3/-/gatsby-source-s3-1.0.1.tgz#fb4bc795d0558f0cc57a86be4a23a87f7947373b"
-  integrity sha512-KoCLlj4Fkjf1BCcC/65X5iuHs40+tp1afbxo/+bSzDojI5c3B6eXTpQm5CkEIaj4LHfgH1+I+w7cCqedyjlDoA==
+"@robinmetral/gatsby-source-s3@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@robinmetral/gatsby-source-s3/-/gatsby-source-s3-1.1.1.tgz#42bc8792eeb001887083b86481c5ee432a0764b9"
+  integrity sha512-789VtxNTlrObFHw4Z09mpSTKyXD/sfU+JfvfUcSrAL1g5MWSsyXicA096zhAaNm3ZFLMK90eXTRor4/WVNm3RQ==
   dependencies:
     aws-sdk "^2.600.0"
     gatsby-source-filesystem "^2.1.46"
