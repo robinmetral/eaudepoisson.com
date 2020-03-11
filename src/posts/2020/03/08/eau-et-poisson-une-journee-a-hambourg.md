@@ -218,4 +218,5 @@ y avoir _eau de poisson_ !
 
 (sans oublier le café)
 
-Suite très bientôt à Aarhus 🇩🇰
+Suite très bientôt à
+[Aarhus](/2020/03/11/9-choses-incontournables-a-faire-a-aarhus/) 🇩🇰
