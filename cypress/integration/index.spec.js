@@ -8,11 +8,8 @@ context("Homepage", () => {
     cy.findByText("Gatsby Default Starter").should("exist")
   })
 
-  it("should navigate", () => {
-    // click the link
-    cy.findByText("La machine à pâte 🍝").click()
-
-    // should be the right url
-    cy.url().should("include", "la-machine-a-pate")
+  it("should navigate to blog", () => {
+    cy.findByText("Tous les articles").click()
+    cy.url().should("include", "blog")
   })
 })
