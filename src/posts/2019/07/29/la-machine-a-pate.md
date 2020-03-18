@@ -14,7 +14,7 @@ Le 7 octobre 2018, on découvre la **machine à pâtes** ❤
 ![Robin porte la machine à pâtes au dessus de sa tête](20190721-machine-a-pate-robin.jpg "Robin, content.")
 
 On va peut-être passer pour des citadins un peu bêtes—ce qu'on est sûrement—mais
-on savait pas du tout à quel point c'était facile de faire ses propres pâtes !
+on savait pas du tout à quel point c'était facile de faire ses propres pâtes !
 (Et ça l'est encore plus depuis qu'on a acheté notre merveilleuse machine à
 pâtes en seconde-main 😍)
 
@@ -36,7 +36,7 @@ testée et approuvée.
 3. Aplatir les boules
 4. Couper les bandes de pâte obtenues au format désiré
 5. Cuire
-6. Tada !
+6. Tada !
 
 ### Nos astuces de pros
 
@@ -45,7 +45,7 @@ testée et approuvée.
 - On a toujours entendu que c'était meilleur de remplacer la farine blanche par
   de la semoule de blé dure pour des pâtes plus _al dente_. On n'a pas encore
   testé, vous nous direz.
-- La recette peut aussi être faite sans œufs 🥚, ou au contraire, sans eau 💧 !
+- La recette peut aussi être faite sans œufs 🥚, ou au contraire, sans eau 💧 !
   Dans le cas sans eau, il faut avoir environ 1 œuf par 100g de farine.
 - Avec du pesto aux fânes de carotte / radis / peu importe quel légume de
   saison, c'est vachement top. On conseille 👍
@@ -66,7 +66,7 @@ testée et approuvée.
 
 ![Clara et nos trois assiettes de tagliatelles fraîches](20190721-machine-a-pate-clara.jpg "...et parfois pas...")
 
-![Tagliatelles maison au pesto](20190721-machine-a-pate.jpg "...mais on mange nos pâtes presque toujours avec du pesto !")
+![Tagliatelles maison au pesto](20190721-machine-a-pate.jpg "...mais on mange nos pâtes presque toujours avec du pesto !")
 
 Bon, on vous met aussi en lien
 [une recette Marmiton](https://www.marmiton.org/recettes/recette_pate-a-nouilles-maison-pour-tagliatelles-simple_70714.aspx)

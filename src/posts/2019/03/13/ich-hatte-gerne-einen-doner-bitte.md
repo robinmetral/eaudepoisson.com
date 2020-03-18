@@ -10,20 +10,20 @@ Vous avez peut-être pensé que ce blog n'avait pas survécu au retour en Europe
 où le _nước mắm_ ([l'eau de poisson](https://eaudepoisson.com/a-propos/)) est
 rare.
 
-Vous aviez tort : on continue !
+Vous aviez tort : on continue !
 
 Après un mois en Suisse où on a revu famille et amis, refait du ski, et le plein
 de fondue (même si aucune ne pourra jamais rivaliser avec notre fondue par 36°C
 à
 [Manille](https://eaudepoisson.com/2018/04/16/gratte-ciels-jeepneys-et-barbecue-bienvenue-a-manille/)),
-on habite depuis bientôt deux mois (le temps passe vite !) à Berlin, capitale de
+on habite depuis bientôt deux mois (le temps passe vite !) à Berlin, capitale de
 l'Allemagne et du _Döner_.
 
 ## Le Döner
 
 Si vous savez pas ce qu'est un Döner, c'est simplement un kebab\*.
 
-Si vous savez pas ce que c'est non plus, c'est ça :
+Si vous savez pas ce que c'est non plus, c'est ça :
 
 ![Un Döner à Berlin](20190313-berlin-doner-kebab-ale-granholm.jpg "Un Döner à Berlin (CC BY Ale Granholm, Wikimedia)")
 
@@ -49,7 +49,7 @@ déléguée au simple rang de tradition.
 
 Le Döner fait partie du quotidien des Berlinois. On voit des vélos avec le
 slogan "_Powered by Döner_" (propulsion par Döner). Certains hamburgers sont
-servis dans des dürüm. Et le Döner a même une hymne :
+servis dans des dürüm. Et le Döner a même une hymne :
 
 [Vidéo](https://www.youtube.com/watch?v=5VO5YQrRC5Y)
 
@@ -62,7 +62,7 @@ Gemüsekebap.
 
 Ils en ont tout intérêt, parce qu'à Berlin, c'est manger de la viande qui sort
 de l'ordinaire (ou presque). C'est vrai, ça paraît étrange au pays de la Wurst,
-mais les temps changent !
+mais les temps changent !
 
 On a essayé le Gemüsekebap le plus connu de la ville, celui de Mustafa à la
 Mehringdamm Platz. On a fait 45 minutes de queue.
@@ -75,13 +75,13 @@ Et finalement...
 
 ![Mustafa's Gemüsekebap à Berlin](20190209-berlin-doner-mustafa-2.jpg "On y est presque...")
 
-![Mustafa's Gemüsekebap à Berlin](20190209-berlin-doner-mustafa-3.jpg "On y est !")
+![Mustafa's Gemüsekebap à Berlin](20190209-berlin-doner-mustafa-3.jpg "On y est !")
 
 Robin en a directement commandé deux, parce qu'on avait pas l'intention de
-refaire la queue. On a pas de photo des Döner par contre : on les a dévorés.
+refaire la queue. On a pas de photo des Döner par contre : on les a dévorés.
 
 Mais on peut vous dire qu'en tout cas, après l'attente, c'était vraiment le
-meilleur kebab qu'on ait jamais mangé !
+meilleur kebab qu'on ait jamais mangé !
 
 _\* Note: pour les puristes, il existe en fait plusieurs types de kebabs, et le
 Döner n'en est qu'un. Si ça vous intéresse, allez en lire plus sur

@@ -1,6 +1,6 @@
 ---
 id: 2268
-title: "Chiang Mai, épisode 4 : apprendre le thaï 🇹🇭"
+title: "Chiang Mai, épisode 4 : apprendre le thaï 🇹🇭"
 date: "2018-12-07 14:20:52"
 featured: "20180718-chiang-mai-ymca.jpg"
 author: "Clara & Robin"
@@ -11,7 +11,7 @@ Après deux mois à Chiang Mai sans parler un mot de thaï de plus que "bonjour"
 nous y mettre.
 
 On a cherché des écoles de thaï pour _farang_ en ville. Farang, ça veut dire
-"étranger blanc" : un troisième mot qu’on connaissait déjà.
+"étranger blanc" : un troisième mot qu’on connaissait déjà.
 
 Il y a beaucoup de farangs à Chiang Mai, donc il y a beaucoup d’écoles.
 
@@ -34,7 +34,7 @@ nous correspondaient pas beaucoup.
 
 On était 6 débutants dans la salle de classe, et notre prof passait les deux
 heures de chaque cours à nous faire répéter à tous les mêmes phrases, les uns
-après les autres :
+après les autres :
 
 - Qu’est-ce que c’est ?
 - Ceci est un sac.
@@ -84,28 +84,28 @@ adapter ses cours à ses élèves. On n'est que nous deux dans notre cours, les
 mardis et vendredis après-midi de 15h à 17h.
 
 Dès le premier jour, MaPrang nous encourage à pratiquer dans des situations
-réelles : quand on va
+réelles : quand on va
 [boire un café](https://eaudepoisson.com/2018/11/29/chiang-mai-episode-2-le-cafe/),
 quand on va au marché...
 
-Par exemple, quelques phrases utiles :
+Par exemple, quelques phrases utiles :
 
-- On aimerait un latte et une Aeropress : _ao la-tê rórn nùeng kâew kàp
+- On aimerait un latte et une Aeropress : _ao la-tê rórn nùeng kâew kàp
   ae-lo-pess rórn nùeng kâew khráp_
 - Combien le [riz collant](https://fr.wikipedia.org/wiki/Riz_gluant) à la mangue
-  ? : _khâaw niǎaw má-mûang tao-rai khráp_
-- Je viens de Suisse, mais j'habite à Chiang Mai : _phǒm maa jàak pra-thêet
+   ? : _khâaw niǎaw má-mûang tao-rai khráp_
+- Je viens de Suisse, mais j'habite à Chiang Mai : _phǒm maa jàak pra-thêet
   swi-se-laan tae-wâa torn-níi yùu chiang-mài khráp_
 
 Grâce à MaPrang, on rattrape en quelques cours notre niveau du YMCA et progresse
-vite. Bientôt, on est capables de parler thaï dans la vie de tous les jours :
-mission accomplie ! 💪
+vite. Bientôt, on est capables de parler thaï dans la vie de tous les jours :
+mission accomplie ! 💪
 
 ![Méthode de thaï et examen noté 98/100](20181129-chiang-mai-maprang-livre.jpg "Notre nouveau livre de thaï et un examen réussi 🎉 (facile)")
 
-## Alors, c'est comment le thaï ?
+## Alors, c'est comment le thaï ?
 
-Si ça vous intéresse, voilà quelques infos linguistiques, en désordre :
+Si ça vous intéresse, voilà quelques infos linguistiques, en désordre :
 
 ### L'alphabet
 
@@ -118,7 +118,7 @@ Comme en Birman (que Robin avait un peu appris à l'uni), il y a des sons qui
 n'existent pas dans les langues indo-européennes.
 
 Par exemple, il y a un son entre le K et le G (qu'on transcrit "k", alors que K
-devient "kh"). Et il faut faire attention, parce que :
+devient "kh"). Et il faut faire attention, parce que :
 
 - _**k**ài_ = poule
 - _**kh**ai_ = œuf
@@ -137,7 +137,7 @@ la distinction entre les voyelles longues et courtes.
 
 ### Les tons
 
-Il y a 5 tons :
+Il y a 5 tons :
 
 - bas: **à**
 - médian: **a**
@@ -145,24 +145,24 @@ Il y a 5 tons :
 - ascendant: **â**
 - descendant: **ǎ**
 
-Oui, ils sont importants. Preuve par l'exemple :
+Oui, ils sont importants. Preuve par l'exemple :
 
 - kl**â**i = près
 - kl**a**i = loin
 
 ### Les genres et formules de politesse
 
-En général, on termine chaque phrase par une formule de politesse :
+En général, on termine chaque phrase par une formule de politesse :
 
 - _khráp_ si on est un homme
 - _khá_ (question) ou khà (affirmation) si on est une femme
 
-ℹ *Vous en voulez encore plus ? Allez lire les wikis sur
+ℹ *Vous en voulez encore plus ? Allez lire les wikis sur
 [le thaï](https://fr.wikipedia.org/wiki/Tha%C3%AF) et sur
 [l'alphasyllabaire thaï](https://fr.wikipedia.org/wiki/Alphasyllabaire_tha%C3%AF)
 !*
 
-## Parler thaï au Laos ?
+## Parler thaï au Laos ?
 
 Malheureusement, à peine se sent-on un peu à l'aise avec la langue, l'heure du
 départ arrive.
@@ -171,7 +171,7 @@ On a quitté la Thaïlande il y a trois jours et passé la frontière laotienne.
 
 ![Clara et son sac à dos au départ de Chiang Mai](20181203-chiang-mai-depart.jpg "Le départ (ceci est un sac)")
 
-Mais bonne surprise : on peut parler thaï au Laos ! 🎉
+Mais bonne surprise : on peut parler thaï au Laos ! 🎉
 
 Les deux langues se ressemblent en fait énormément, un peu comme le
 suisse-allemand et l'allemand. Dans cette métaphore les Laotiens sont les
@@ -179,20 +179,20 @@ Suisses-Allemands, qui comprennent et parlent facilement l'allemand, alors que
 l'inverse est parfois plus compliqué.
 
 Certaines règles et vocabulaire de base changent entre le thaï et le lao. Par
-exemple :
+exemple :
 
 - en lao pas de distinction masculin/féminin, pas de forme de politesse à la fin
   de chaque phrase
 - "bonjour" ne se dit pas _sà-wàt-dii_ en lao mais _sà-baai-dii_, qui se traduit
   "ça va bien" en thaï
 - certains sons sont prononcés un peu différemment... mais globalement on se
-  comprend !
+  comprend !
 
 C'est un peu dur, parce qu'on a vraiment pris le réflexe de finir nos phrases en
-thaï par ce fameux _khráp_. Les locaux nous reprennent tout le temps !
+thaï par ce fameux _khráp_. Les locaux nous reprennent tout le temps !
 
 Mais on est contents, parce qu'on va encore pouvoir pratiquer quelques semaines.
-En Suisse, il faudra qu'on aille s'exercer dans des restaurants thaï ! (quelle
+En Suisse, il faudra qu'on aille s'exercer dans des restaurants thaï ! (quelle
 bonne excuse, "je dois aller réviser") 😊
 
-Sur ce, bisous de Louang Prabang, et _joe kan mài rew-rew_ ! 😘
+Sur ce, bisous de Louang Prabang, et *joe kan mài rew-rew* ! 😘

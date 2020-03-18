@@ -74,7 +74,7 @@ Et, bien entendu...
 
 ## ...on a mangé une de tes chèvres musclées
 
-Ton plat régional, fameux dans tout le pays ! Tes chèvres sont particulièrement
+Ton plat régional, fameux dans tout le pays ! Tes chèvres sont particulièrement
 appétissantes parce qu'elles gambadent dans les montagnes, nous disais-tu.
 
 ![Notre repas de chèvre à Ninh Bình](20171210-ninh-binh-chevre.jpg)

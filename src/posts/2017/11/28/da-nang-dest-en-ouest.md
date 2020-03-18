@@ -25,7 +25,7 @@ spécialité super bien noté sur Google.
 De temps en temps, notre
 [amour pour le café](https://eaudepoisson.com/2017/11/09/tellement-de-cafe-quon-en-tremble-encore/)
 nous sert à quelque chose d'autre qu'à mesurer la *coolitude* d'une ville. Comme
-par exemple : se retrouver à une table juste à côté d'un Américain super sympa
+par exemple : se retrouver à une table juste à côté d'un Américain super sympa
 avec qui on commence à discuter et qui finit par nous proposer de travailler
 dans sa startup.
 
@@ -44,7 +44,7 @@ visitées). C'est pour ça que la majorité des voyageurs comme nous en chemin
 entre Sài Gòn et Hà Nội (ou vice-versa) passent à côté.
 
 Par exemple, le ticket de bus qu'on utilise pour relier Sud et Nord ne passe pas
-par Đà Nẵng ! Pour y arriver, on a dû volontairement dévier de notre itinéraire
+par Đà Nẵng ! Pour y arriver, on a dû volontairement dévier de notre itinéraire
 tout planifié, et payer un billet supplémentaire.
 
 Pas beaucoup de touristes donc, mais beaucoup pour plaire aux étrangers qui
@@ -55,18 +55,18 @@ d'en faire une ville écologique et durable (avec notamment un gros
 contribuent à offrir une qualité de vie peu commune au Vietnam.
 
 De nombreux expats ont donc fait leur nid sur la rive est de la rivière.
-Pourquoi à l'est ? La plage est plus proche, les rues sont plus petites et plus
+Pourquoi à l'est ? La plage est plus proche, les rues sont plus petites et plus
 vertes, mais surtout d'autres expats y ont déjà créé une petite communauté. Ils
 se retrouvent dans les bars, les restaurants, et bien sûr dans les quelques
 cafés de spécialité qu'ils ont ouvert dans le quartier.
 
 ![Le cafà Six On Six à Da Nang](20171118-six-on-six-cafe.jpg "Au café de spécialité Six On Six")
 
-![Cuisine indienne à Da Nang](20171119-danang-indian-food.jpg "On mange indien pour la première fois au Vietnam !")
+![Cuisine indienne à Da Nang](20171119-danang-indian-food.jpg "On mange indien pour la première fois au Vietnam !")
 
 ![Billard au bar 7 Bridges à Da Nang](20171119-bar-7-bridges.jpg "On s'essaie au sport national")
 
-![Bière artisanale à 7 Bridges à Da Nang](20171119-7-bridges-beers.jpg "a bière artisanale de la région : 7 Bridges")
+![Bière artisanale à 7 Bridges à Da Nang](20171119-7-bridges-beers.jpg "a bière artisanale de la région : 7 Bridges")
 
 Jay et Sophie nous emmènent de cafés en restaurants, et de restaurants en bars.
 En chemin, on fait la rencontre de la communauté d'expatriés de Đà Nẵng, où tout
@@ -81,7 +81,7 @@ manière trop privilégiée.
 
 ![Carte dessinée de Da Nang Ouest](20171127-carte-danang-ouest.png)
 
-On tente aussi de découvrir l'autre facette de la ville : la rive ouest, où vit
+On tente aussi de découvrir l'autre facette de la ville : la rive ouest, où vit
 la majorité de la population.
 
 ![Le centre-ville de Da Nang](20171120-danang-downtown.jpg)
@@ -98,7 +98,7 @@ se régale.
 
 ![Anh et Clara dans un salon de thé à Da Nang](20171121-anh-clara-the.jpg "Clara et notre guide Anh au tearoom d'une de ses amies")
 
-![Stand de che chuoi nuong à Da Nang](20171121-danang-che-chuoi.jpg "Stand de rue ultra-populaire de chè chuối nướng (dessert au beignet de banane grillé) qui ouvre à 17h et vend tout en moins de deux heures –il faut connaître !")
+![Stand de che chuoi nuong à Da Nang](20171121-danang-che-chuoi.jpg "Stand de rue ultra-populaire de chè chuối nướng (dessert au beignet de banane grillé) qui ouvre à 17h et vend tout en moins de deux heures –il faut connaître !")
 
 ![Clara mange un chuoi chien à Da Nang](20171121-clara-chuoi-chien.jpg "Encore Clara avec un chuối chiên (beignet de banane frit). On aime les bananes 🍌")
 
@@ -107,7 +107,7 @@ se régale.
 ## À bientôt Đà Nẵng
 
 Malgré avoir passé moins d'une semaine à Đà Nẵng, on a quand-même eu le temps de
-s'en faire une bonne première impression : on adore !
+s'en faire une bonne première impression : on adore !
 
 Cette ville combine
 [l'harmonie et la taille humaine de Đà Lạt](https://eaudepoisson.com/2017/11/14/posey-oklm-a-da-lat/)
@@ -122,6 +122,6 @@ mois, on sera de retour pour une formation d'un mois avec Jay et son équipe.
 
 Le défi sera alors de trouver notre équilibre entre vie d'expat et vie locale,
 entre la rive est et la rive ouest. Peut-être qu'on va juste rester sur le pont
-du dragon qui les relie (et qui crache du feu tous les weekends à 21h !).
+du dragon qui les relie (et qui crache du feu tous les weekends à 21h !).
 
 Poissons 🐟

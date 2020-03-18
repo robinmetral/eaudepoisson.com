@@ -9,19 +9,19 @@ featured: "20190328-poursteady-bonanza.jpg"
 c'était peut-être une usine avant de devenir un café.
 
 En fait, c'est toujours une usine, puisque Bonanza torréfie son propre café,
-avec une idéologie qui résume celle du mouvement de café dit "de spécialité" :
+avec une idéologie qui résume celle du mouvement de café dit "de spécialité" :
 
-Notre notion de la torréfaction est à l'opposé de la méthode traditionnelle :
+Notre notion de la torréfaction est à l'opposé de la méthode traditionnelle :
 nous torréfions notre café le moins possible, afin d'en faire ressortir les
 saveurs et de mettre en valeur ce qui différencie un certain café des autres. Le
 goût que nous recherchons est celui du café, pas celui de la torréfaction.
 
 On y va assez souvent, parce que c'est le café de spécialité le plus proche de
 chez nous à pied (15 minutes), et l'espace est génial pour y travailler (quand
-il y a de la place par contre : il faut prévoir d'arriver à l'ouverture ou en
+il y a de la place par contre : il faut prévoir d'arriver à l'ouverture ou en
 tout début d'après-midi).
 
-Il y a deux semaines, on y a vu cette affiche :
+Il y a deux semaines, on y a vu cette affiche :
 
 ![](20190328-poursteady-affiche.jpg)
 
@@ -32,19 +32,19 @@ pour le lancement européen d'une machine à café robotisée, la
 ## La Poursteady
 
 Cette machine permet de préparer plusieurs cafés filtre simultanément et avec
-plus de constance. Elle ressemble à ça :
+plus de constance. Elle ressemble à ça :
 
 \[av_video src='https://www.youtube.com/watch?v=O9kHYCaFYRg' mobile_image=''
 attachment='' attachment_size='' format='16-9' width='16' height='9'
 conditional_play='' av_uid='av-2isnny'\]
 
 On a demandé à David si on pouvait assister à l'événement, et ils nous a répondu
-qu'on pouvait y participer ! Il y aurait une compétition pour faire le meilleur
+qu'on pouvait y participer ! Il y aurait une compétition pour faire le meilleur
 café, l'inscription serait gratuite, et ce serait amusant.
 
-> Mais, si la machine fait le café toute seule, pourquoi une compétition ?
+> Mais, si la machine fait le café toute seule, pourquoi une compétition ?
 
-Bonne question ! Parce que la machine prépare le café selon une recette que l'on
+Bonne question ! Parce que la machine prépare le café selon une recette que l'on
 compose sur une app.
 
 Le but de la compétition serait donc de composer la meilleure recette pour finir
@@ -63,7 +63,7 @@ la compétition.
 
 On accepte, et on sera la toute première équipe à passer devant les juges.
 
-> Les juges ?
+> Les juges ?
 
 Oui, les juges. Cette compétition commence à nous paraître un peu plus sérieuse
 qu'on l'avait pensé...
@@ -79,7 +79,7 @@ qui sera ensuite rentrée dans le système.
 PHOTO FEUILLE
 
 Au début, on comprenait rien du tout. Heureusement, on a été aidés par un
-Hambourgeois (ça se dit comme ça ?) qui, on l'apprendra plus tard, faisait
+Hambourgeois (ça se dit comme ça ?) qui, on l'apprendra plus tard, faisait
 partie des juges, et par le CEO de Poursteady venu tout droit de Brooklyn pour
 l'événement.
 
@@ -121,7 +121,7 @@ Ils ont l'air plutôt chill comme ça, mais détrompez-vous.
 
 La première chose qu'ils nous ont demandé est de décrire le café.
 
-> Décrire le café ?
+> Décrire le café ?
 
 Nous aussi, ça nous a étonnés. Apparemment, c'est la structure habituelle d'une
 compétition de café, mais comme on n'avait jamais assisté (encore moins
@@ -166,12 +166,12 @@ les résultats.
 
 La gagnante était la championne 2018 du concours national de barista.
 
-Et nous, on a fait 6èmes !
+Et nous, on a fait 6èmes !
 
-Ah, mais j'ai oublié de préciser : il y avait 6 équipes participantes.
+Ah, mais j'ai oublié de préciser : il y avait 6 équipes participantes.
 
 Une barista de Bonanza en deuxième place nous a quand-même offert le café
-qu'elle avait reçu comme prix, parce que :
+qu'elle avait reçu comme prix, parce que :
 
 > "Je travaille ici, je peux en avoir quand je veux."
 

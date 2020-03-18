@@ -8,13 +8,13 @@ author: "Souad"
 
 En voyage, on perd toute notion du temps tel que vécu habituellement. Chaque
 jour semble compter plus que 24 heures. Pour écrire ce papier, je me retrouve
-avec l'embarras du choix. Des journées "_same same, but different_" !
+avec l'embarras du choix. Des journées "_same same, but different_" !
 
 Que dire alors que tout semble digne d'attention? Que privilégier? Que partager?
 Vous me connaissez (sûrement), et vous savez comme j'ai de la peine à choisir
 entre de l'eau plate ou de l'eau gazeuse, alors là... C'est donc à la fois pour
 mon confort et pour le plaisir que je vous propose une journée type... mais avec
-des choix que _vous_ devrez faire !
+des choix que _vous_ devrez faire !
 
 **Pour chaque option, additionnez vos points et retrouvez votre profil en fin
 d'article.**
@@ -96,7 +96,7 @@ vous mets un billet senior?" Aaaargh!_
 - Un _phở_ (prononcer "faeu"), bouillon avec des pâtes de riz plates, des
   herbes, du bœuf émincé. On peut y rajouter des herbes, du citron. Manier les
   baguettes et la cuillère sans en mettre partout témoigne de la qualité du
-  réveil ! _**(3 points)**_
+  réveil ! _**(3 points)**_
 - Une fois pour changer, un smoothie de fruits tropicaux et des wraps farcis à
   l'avocat-tomate-champignons, assis sur de confortables chaises de bois de
   banyan dans le patio d'une maison traditionnelle de
@@ -189,13 +189,13 @@ vous mets un billet senior?" Aaaargh!_
   va comme tout le monde. Merci Greg, je m'accroche derrière et je ferme les
   yeux si ça ne va pas! _**(3 points)**_
 
-![Selfie à scooter au col de Hai Van](20180405-danang-hai-van.jpg "La joyeuse équipe en vadrouille !")
+![Selfie à scooter au col de Hai Van](20180405-danang-hai-van.jpg "La joyeuse équipe en vadrouille !")
 
 ## Repas du soir (si possible à une table où caser ses genoux)
 
 - Un resto végétarien? Souvent délicieux mais fréquenté principalement par des
-  touristes. Ahhh cette salade de fleurs de bananes à Sa Pa ! Ou ces aubergines
-  farcies aux champignons à Hà Nội ! _**(2 points)**_
+  touristes. Ahhh cette salade de fleurs de bananes à Sa Pa ! Ou ces aubergines
+  farcies aux champignons à Hà Nội ! _**(2 points)**_
 - Un bon poisson ou des coquillages en bord de mer à Đà Nẵng. Menu illisible
   pour nous, mais parmi les bébêtes qui frétillent dans des bacs, tu choisis ta
   ou tes victimes et tu expliques comment tu veux la/les cuisiner. Merciii Clara
@@ -203,9 +203,9 @@ vous mets un billet senior?" Aaaargh!_
   on ne sait trop quoi dessus: un must! Le poisson grillé ou cuit dans une
   feuille de banane reste une valeur sûre. _**(3 points)**_
 
-![Moules street food au village côtier de Lao Cao](20180405-laocai-huitres.jpg "Moules gratinées et rouleaux d'été: mhmm !")
+![Moules street food au village côtier de Lao Cao](20180405-laocai-huitres.jpg "Moules gratinées et rouleaux d'été: mhmm !")
 
-![Fruits de mer vivants dans des bassines en plastique au resto à Đà Nẵng](20180402-danang-fruits-mer.jpg "Heu... faites votre choix !")
+![Fruits de mer vivants dans des bassines en plastique au resto à Đà Nẵng](20180402-danang-fruits-mer.jpg "Heu... faites votre choix !")
 
 - Des pizzas (ça nous change du riz matin, midi et soir) aux champignons
   vietnamiens ou à l'aubergine, avec mozzarella produite dans les montagnes de
@@ -214,23 +214,23 @@ vous mets un billet senior?" Aaaargh!_
 ## Fin de journée (à 21 ou 22h, parfois avant!, on est au lit)
 
 Un seul regret dans ce fabuleux périple: ne pas parvenir à retenir deux mots de
-cette incroyable langue qu'est le vietnamien ! On en a quand même retenu un:
+cette incroyable langue qu'est le vietnamien ! On en a quand même retenu un:
 "cảm ơn em" (merci adressé à quelqu'un de plus jeune).
 
 Alors cảm ơn em, Robin et Clara, pour toute l'organisation, les découvertes
 culinaires et caféinées, les tchatches, les rires, les jeux... tout ce temps que
 vous partagez avec nous: un cadeau, inestimable, inoubliable!
 
-_**Moins de 10 points :**_ pour vous, voyager c'est essayer de ne pas s'éloigner
+_**Moins de 10 points :**_ pour vous, voyager c'est essayer de ne pas s'éloigner
 de son quotidien; le confort rend les découvertes moins pénibles?
 
-_**De 10 à 15 points :**_ un zeste d'exotisme? Et si on osait "faire comme
+_**De 10 à 15 points :**_ un zeste d'exotisme? Et si on osait "faire comme
 eux/elles"? Vous prenez des risques modérés lorsque vous voyagez...
 
-_**De 15 à 20 points :**_ vous avez une bonne tendance "hipster"; vous mangez
+_**De 15 à 20 points :**_ vous avez une bonne tendance "hipster"; vous mangez
 bio chez vous? En voyage, vous cherchez à vous approcher des gens que vous
 croisez, mais vous aimez quand même retrouver vos repères!
 
-_**Plus de 20 points :**_ soit vous êtes un·e vrai·e Vietnamien·ne, soit vous
+_**Plus de 20 points :**_ soit vous êtes un·e vrai·e Vietnamien·ne, soit vous
 aimez vraiment partager les coutumes des locaux et avez les intestins bien
 accrochés!

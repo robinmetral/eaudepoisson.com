@@ -7,13 +7,13 @@ author: "Clara & Robin"
 ---
 
 Laissez-nous vous expliquer comment on voyage. Avant d'arriver dans une nouvelle
-ville, on organise toujours **trois** choses :
+ville, on organise toujours **trois** choses :
 
-**1.** on s'informe sur les transports, on prend des billets :
+**1.** on s'informe sur les transports, on prend des billets :
 
 ![Billet "Open Bus" vietnamien](20171031-billet-openbus.jpg)
 
-**2.** on réserve un Airbnb :
+**2.** on réserve un Airbnb :
 
 ![L'appli Airbnb](20171108-screenshot-airbnb.png)
 
@@ -34,18 +34,18 @@ journées en planifiant nos pauses café. On écrit cet article depuis un café.
 
 ![Robin écrivant cet article à La Viet](20171108-ecriture-article.jpg)
 
-Ce blog a même failli s'appeler "uncappuccinoetuneaeropress.com" ! Oui, on aime
+Ce blog a même failli s'appeler "uncappuccinoetuneaeropress.com" ! Oui, on aime
 vraiment _beaucoup_ le café.
 
 ## Boire plein de café à Đà Lạt
 
 Étonnamment (ou pas), on a pris un café à *Là Việt* dès notre arrivée à Đà Lạt.
-Moment très spécial pour nous : c'était la première fois qu'on buvait un café
-dont les fruits avaient été récoltés dans la région !
+Moment très spécial pour nous : c'était la première fois qu'on buvait un café
+dont les fruits avaient été récoltés dans la région !
 
 Autant vous dire qu'on a rarement bu autant de café que dans cette ville. On a
 visité pas moins de 10 cafés différents, et on est déjà presque des habitués de
-nos deux préférés : *Là Việt* et _The Married Beans_.
+nos deux préférés : *Là Việt* et _The Married Beans_.
 
 ![Clara à La Viet](20171101-laviet-clara.jpg)
 
@@ -60,17 +60,17 @@ nos deux préférés : *Là Việt* et _The Married Beans_.
 ![Un café filtre à La Viet](20171101-laviet-filtre.jpg)
 
 Mais surtout, pour la première fois, on avait la possibilité de ne pas se
-limiter à la _consommation_ de café. On a donc visité le lieu où tout commence :
-une plantation !
+limiter à la _consommation_ de café. On a donc visité le lieu où tout commence :
+une plantation !
 
 ## La plantation de café K'Ho
 
-Lundi, on a loué un scooter (un permis ? C'est quoi ? 😬) pour aller visiter une
+Lundi, on a loué un scooter (un permis ? C'est quoi ? 😬) pour aller visiter une
 ferme à 20 minutes de la ville.
 
 [Vidéo de Robin qui conduit un scooter à Da Lat](https://www.youtube.com/watch?v=jl5DbAEte98)
 
-On va pas aller dans les détails, mais le trajet implique : un frein cassé, un
+On va pas aller dans les détails, mais le trajet implique : un frein cassé, un
 indicateur de vitesse hors-service, une descente super raide et pleine de
 cailloux, des grosses flaques de boue et des bébés chiens mignons.
 
@@ -103,10 +103,10 @@ fonctionnent aujourd'hui principalement en "direct trade" (relation sans
 intermédiaires entre la ferme et le torréfacteur ou coffee shop), pour le plus
 grand bien de leur exploitation et de la communauté.
 
-Quelques photos :
+Quelques photos :
 
 ![Des cerises de café](20171106-kho-cerises-2.jpg "Des "cerises" sur le caféier.
-On est en pleine saison de récolte ! Les cerises de couleur pourpre sont mûres")
+On est en pleine saison de récolte ! Les cerises de couleur pourpre sont mûres")
 
 ![Robin cueille des cerises de café](20171106-kho-robin-cueillette.jpg "On participe à la récolte malgré la chaleur ☀️")
 
@@ -118,11 +118,11 @@ sèchent deux semaines sous serre")
 
 ![Robin photographie un caféier](20171106-kho-robin-photo.jpg "Robin prend des photos, il aimerait bien retourner à la ferme plus longtemps pour en prendre plus 📷")
 
-Conclusion : on a adoré notre séjour caféiné à Đà Lạt ! Stay tuned (so
+Conclusion : on a adoré notre séjour caféiné à Đà Lạt ! Stay tuned (so
 bilingues), on vous prépare encore un autre article plus général sur nos
 expériences ici.
 
-Bon on vous laisse, on doit chercher des cafés pour notre prochain stop : Nha
+Bon on vous laisse, on doit chercher des cafés pour notre prochain stop : Nha
 Trang ☕️☀️⛱
 
 Bisous bisous 💋

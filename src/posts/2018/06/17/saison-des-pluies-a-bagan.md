@@ -24,8 +24,8 @@ l'**ancienne capitale royale** (d'avant la colonisation), entourée d'autres
 > **Ça fait beaucoup de capitales...**
 >
 > Oui, on dirait que tout en Birmanie est une ancienne capitale de quelque chose
-> ! Dans le guide c'est écrit que les rois Birmans fondaient leurs royaumes dans
-> des nouvelles villes pour renforcer leur héritage.
+>  ! Dans le guide c'est écrit que les rois Birmans fondaient leurs royaumes
+> dans des nouvelles villes pour renforcer leur héritage.
 
 ![Selfie avec le serveur dans un resto de Mawlamyine](20180603-mawlamyine-selfie.jpg "Arrivée brillante à Mawlamyine, avec notre serveur préféré Cachouna")
 
@@ -37,11 +37,11 @@ converti au bouddhisme. Et comme le roi était un homme qui faisait pas les
 choses à moitié, il a fait construire des tonnes de temples au nom de sa
 nouvelle foi.
 
-Dans les années 90, on en avait recensé 2834 !
+Dans les années 90, on en avait recensé 2834 !
 
 ### ... selon le guide
 
-Avant d'y aller, on s'était informés : ce qu'il faut pas rater, c'est un **vol
+Avant d'y aller, on s'était informés : ce qu'il faut pas rater, c'est un **vol
 en montgolfière** en dessus de la plaine, et voir le **coucher de soleil du haut
 d'un temple**.
 
@@ -49,18 +49,18 @@ d'un temple**.
 
 ### ... selon nous
 
-On avait oublié de prendre en compte la saison des pluies :
+On avait oublié de prendre en compte la saison des pluies :
 
 ![Pluie battante dans la rue à Nyaung U](20180608-bagan-nyaung-u-pluie.jpg)
 
-La saison des pluies, ça veut dire que :
+La saison des pluies, ça veut dire que :
 
 - Il pleut beaucoup
 - Donc il y a beaucoup de nuages
 - Donc on voit pas le soleil
 - Donc il y a **pas de coucher de soleil**
 
-Et que :
+Et que :
 
 - Il pleut beaucoup
 - Donc c'est la saison basse touristique
@@ -76,7 +76,7 @@ Au fond, c'était pas si mal. Un des deux jours passés sur place était couvert
 mais pas trop pluvieux, et on a pu louer des scooters pour se balader de temple
 en temple.
 
-Mais attention : à Bagan, on loue pas n'importe quel scooter. C'est des scooter
+Mais attention : à Bagan, on loue pas n'importe quel scooter. C'est des scooter
 électriques, ou e-bikes, qui ont vraiment la classe.
 
 ![Florian sur un e-bike à Bagan](20180609-bagan-flo-ebike.jpg)
@@ -104,7 +104,7 @@ Le guide en recommande quelques uns... où il est maintenant interdit de grimper
 (préservation du patrimoine, restauration, bla bla bla).
 
 Au final notre mission échoue, impossible de trouver un temple grimpable. Mais
-c'est pas grave : en fin d'aprem il se remet à pleuvoir, et le soleil disparaît.
+c'est pas grave : en fin d'aprem il se remet à pleuvoir, et le soleil disparaît.
 
 ### ... des temples secrets
 
@@ -114,9 +114,9 @@ c'est pas grave : en fin d'aprem il se remet à pleuvoir, et le soleil disparaî
 
 ![Bouddha dans la pénombre du temple de Shwegugyi](20180609-bagan-shwegugyi-bouddha.jpg "... où on découvre des bouddhas cachés...")
 
-![Bouddha couché au temple de Shwesandaw à Bagan](20180609-bagan-shwesandaw-bouddha-couche.jpg "... et même un bouddha couché !")
+![Bouddha couché au temple de Shwesandaw à Bagan](20180609-bagan-shwesandaw-bouddha-couche.jpg "... et même un bouddha couché !")
 
-Après tout, Bagan, c'était sympa ! Et à l'occasion, on retournera y faire un vol
+Après tout, Bagan, c'était sympa ! Et à l'occasion, on retournera y faire un vol
 en montgolfière...
 
 Bisous 😘
@@ -124,4 +124,4 @@ Bisous 😘
 ![Selfie au bord d'un lac à Hpa An](20180617-hpaan-selfie.jpg)
 
 _Un dernier tour dans les grottes autour de Hpa An, et demain on repasse la
-frontière thaï ! La boucle birmane est bouclée_
+frontière thaï ! La boucle birmane est bouclée_

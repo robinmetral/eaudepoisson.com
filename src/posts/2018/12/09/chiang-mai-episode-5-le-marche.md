@@ -1,6 +1,6 @@
 ---
 id: 2276
-title: "Chiang Mai, épisode 5 : le marché 🥕"
+title: "Chiang Mai, épisode 5 : le marché 🥕"
 date: "2018-12-09 02:42:27"
 featured: "20181008-chiang-mai-marche-1.jpg"
 author: "Clara"
@@ -33,7 +33,7 @@ vendeur de légumes".
 
 ![Robin de dos qui marche dans le marché Thanin à Chiang Mai](20181008-chiang-mai-marche-6.jpg)
 
-Qu'est-ce que ce vendeur a de spécial ? Pour Robin :
+Qu'est-ce que ce vendeur a de spécial ? Pour Robin :
 
 > Il a des bons légumes frais pleins de terre. Le monsieur est gentil, il ne
 > m'arnaque pas (trop) et me parle en thaï (sauf quand il me montre les prix sur
@@ -43,7 +43,7 @@ Et oui, parce qu'il faut connaître les bons plans. D'après Robin, les meilleur
 légumes sont habituellement chez ce monsieur. Par contre, pour ce qui est des
 nouilles et tofus frais, c'est plutôt chez la marchande vers l'avant. Et si
 c'est de la bonne pâte de curry, de l'ail ou des noix que vous cherchez, c'est
-au fond du marché qu'il faut aller !
+au fond du marché qu'il faut aller !
 
 ![Vendeuse de nouilles et tofu au marché Thanin à Chiang Mai](20181008-chiang-mai-marche-4.jpg)
 
@@ -52,12 +52,12 @@ au fond du marché qu'il faut aller !
 J'ai du mal à tout retenir et je le suis simplement en silence. Mais ce n'est
 pas terminé, parce qu'en plus...
 
-## Robin commande en thaï !
+## Robin commande en thaï !
 
 Ben oui, tous ces
 [cours de thaï](https://eaudepoisson.com/2018/12/07/chiang-mai-episode-4-apprendre-le-thai/)
 ne servent pas qu'à commander du café. Robin est passé maître dans l'art de
-faire les courses en thaï. Petite démonstration :
+faire les courses en thaï. Petite démonstration :
 
 > — sà-wàt-dii khráp. (_Bonjour._)
 >
@@ -84,4 +84,4 @@ croissants encore chauds.
 
 ![Croissants à la boulangerie Nana à Chiang Mai](20181008-chiang-mai-boulangerie.jpg)
 
-Ça mérite bien ça un féetaud (fée mâle) de ménage ! 🧚‍♂️
+Ça mérite bien ça un féetaud (fée mâle) de ménage ! 🧚‍♂️

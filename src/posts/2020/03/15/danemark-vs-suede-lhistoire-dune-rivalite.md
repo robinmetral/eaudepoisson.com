@@ -3,7 +3,7 @@ id: 2516
 title: "Danemark vs. Suède : l'histoire d'une rivalité"
 date: "2020-03-15T18:41:47+01:00"
 featured: "20200410-100432.jpg"
-author: "Clara & Robin"
+author: "Clara"
 ---
 
 On a passé toute la dernière semaine au Danemark... enfin presque. Après deux

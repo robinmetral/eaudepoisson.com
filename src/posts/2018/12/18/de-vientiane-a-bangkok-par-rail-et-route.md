@@ -40,8 +40,8 @@ frontière dure environ une demi-heure.
 
 ## Passer la frontière
 
-Sortir du Laos est une formalité : on donne la carte de sortie, un tampon, et à
-la prochaine fois ! _(Sauf si comme sur le passeport de Clara, le tampon qui
+Sortir du Laos est une formalité : on donne la carte de sortie, un tampon, et à
+la prochaine fois ! _(Sauf si comme sur le passeport de Clara, le tampon qui
 vous autorise à rester jusqu'au 18 décembre est mal tamponné, c'est vrai on
 aurait dit 16 décembre, et il faut insister pour ne pas payer un jour
 supplémentaire au Laos)_
@@ -54,7 +54,7 @@ serait un peu long à marcher. 🌉
 pour entrer en Thaïlande (et garder le coupon de sortie... pour en sortir).
 
 ⚠  _Si il vous reste des kip, c'est le moment ou jamais de les changer. C'est
-très difficile en Thaïlande ! À Bangkok, le seul endroit où ça semble possible
+très difficile en Thaïlande ! À Bangkok, le seul endroit où ça semble possible
 est à la Bangkok Bank, avec un assez mauvais taux_ 💸
 
 L'officier sur lequel on est tombé a été très consciencieux et a exigé de voir
@@ -66,14 +66,14 @@ Thaïlande.
 Donc soyez prêts, et enregistrez en local (ou imprimez) vos réservations d'hôtel
 et vos billets d'avion 🎫
 
-![Tampon d'entrée en Thaïlande dans le passeport](20181218-nong-khai-tampon.jpg "Ouf !")
+![Tampon d'entrée en Thaïlande dans le passeport](20181218-nong-khai-tampon.jpg "Ouf !")
 
-🇹🇭 (Re-)bienvenue en Thaïlande ! (c'est notre cinquième fois) 🇹🇭
+🇹🇭 (Re-)bienvenue en Thaïlande ! (c'est notre cinquième fois) 🇹🇭
 
 Cent mètres après la frontière (où comme nous, vous rencontrerez peut-être
 [un chanteur de reggae très sympa](https://www.youtube.com/watch?v=excecxJeeVI)
 en tournée dans la région), vous tomberez sur une rangée de tuk-tuks. Ici pas de
-bus : c'est soit ça, soit la marche (une quinzaine de minutes semble-t-il).
+bus : c'est soit ça, soit la marche (une quinzaine de minutes semble-t-il).
 
 Des prix "fixes" sont affichés, et on peut y lire **40 baht par personne**
 jusqu'à la gare. Les chauffeurs nous ont directement proposé 30, et en négociant
@@ -92,7 +92,7 @@ La gare est vide, pas un café ni même un street food.
 
 Heureusement, le **Nong Khai Resort**
 ([carte](https://www.openstreetmap.org/node/4698375182)) est juste en face de la
-gare ! Après quelques difficultés à se comprendre, on a confirmé que le
+gare ! Après quelques difficultés à se comprendre, on a confirmé que le
 restaurant était ouvert au public.
 
 On avait l'impression d'être seuls dans le resort. Il n'y avait personne au
@@ -100,7 +100,7 @@ restaurant, donc pas de plats, pas de café, mais des bières fraîches au frigo
 (80 baht une grande Chang), et des verres avec de la glace, s'il vous plaît. On
 était tranquilles.
 
-Mais surtout : il y a une piscine !
+Mais surtout : il y a une piscine !
 
 ![Piscine au Nong Khai Resort](20181217-nong-khai-resort-piscine.jpg ""😍"")
 
@@ -111,7 +111,7 @@ d'un linge (une serviette pour les français). 🏊
 
 Les heures passent vite quand on nage, trie des photos,
 [finalise un article](https://eaudepoisson.com/2018/12/17/chiang-mai-episode-6-manger-dehors/)
-(oui, il y a du wifi), et regarde _Friends_ ! On n'a pas vu l'après-midi passer,
+(oui, il y a du wifi), et regarde *Friends* ! On n'a pas vu l'après-midi passer,
 et il était l'heure d'aller manger.
 
 On s'est déplacés à un restaurant de street food juste à côté
@@ -122,7 +122,7 @@ _phàt thai_ et une omelette, et où il y avait un petit chiot adorable. 🐶
 
 ## De Nong Khai à Bangkok
 
-Trois trains de nuit partent pour Bangkok dans la soirée :
+Trois trains de nuit partent pour Bangkok dans la soirée :
 
 - **#78**: 18h15 (arrivée à 5h00)
 - **#134**: 18h30 (arrivée à 5h45)
@@ -146,7 +146,7 @@ départ chez nous à Chiang Mai.
 En général, les couchettes dans les trains de nuit en Thaïlande ne nous ont
 jamais déçues. C'est des grands sièges, un de chaque côté du couloir central,
 que le chef de voiture convertit en couchettes qu'on peut isoler avec un rideau.
-Beaucoup plus spacieux et confortable que beaucoup de trains de nuit en Europe !
+Beaucoup plus spacieux et confortable que beaucoup de trains de nuit en Europe !
 En bonus, celles du train 26 avaient même une prise électrique pour chaque lit,
 le luxe. 🔌
 

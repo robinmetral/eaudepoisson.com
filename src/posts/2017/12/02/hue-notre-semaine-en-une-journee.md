@@ -15,7 +15,7 @@ c'est froid.
 ## Le départ
 
 Ils enfilent leurs ponchos de pluie et montent sur leurs vélos trop petits.
-Aujourd'hui encore, ils ont adapté leur façon de s'habiller à la météo : des
+Aujourd'hui encore, ils ont adapté leur façon de s'habiller à la météo : des
 shorts pour éviter le pantalon mouillé, un pull pour le froid et des chaussures
 ouvertes pour les inévitables flaques.
 
@@ -49,8 +49,8 @@ touristiques. Mais lorsque la pluie bat son plein, on ne veut que se mettre à
 l'abri. Ils cherchent un endroit où se réchauffer les pieds.
 
 Que faire dans la ville des empereurs quand on a fait le tour des visites
-réglementaires ? Un cinéma ? Ils ont déjà été voir deux films cette semaine. Un
-café ? Ils n'en ont trouvé aucun qui leur plaise vraiment.
+réglementaires ? Un cinéma ? Ils ont déjà été voir deux films cette semaine. Un
+café ? Ils n'en ont trouvé aucun qui leur plaise vraiment.
 
 Bon, pourquoi pas un thé.
 

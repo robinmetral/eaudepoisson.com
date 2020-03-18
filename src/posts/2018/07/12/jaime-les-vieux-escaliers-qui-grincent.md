@@ -6,7 +6,7 @@ featured: "20180603-yangon-coloniale-immeuble-4.jpg"
 author: "Robin"
 ---
 
-Vous le savez peut-être : entre
+Vous le savez peut-être : entre
 [sa période royaumes](https://eaudepoisson.com/2018/06/17/saison-des-pluies-a-bagan/)
 et sa période socialiste, la Birmanie a été anglaise pendant 125 ans(1).
 
@@ -17,11 +17,11 @@ super livre sur cette période de sa vie qui a inspiré _Burmese Days_
 Je crois que les Birmans gardent un souvenir mitigé de toute l'histoire, mais
 moi, je vois au moins un aspect positif de la colonisation.
 
-Lequel ?
+Lequel ?
 
 **J'adore les vieux bâtiments coloniaux.**
 
-Je voulais donc partager avec vous cette passion en photos :
+Je voulais donc partager avec vous cette passion en photos :
 
 ![Immeuble colonial à Yangon](20180603-yangon-coloniale-immeuble-2.jpg)
 
@@ -35,7 +35,7 @@ Je voulais donc partager avec vous cette passion en photos :
 
 ![Un immeuble colonial contraste avec un immeuble moderne à Mawlamyine](20180601-mawlamyine-coloniale-contraste.jpg)
 
-![Un sol carrelé colonial à Yangon](20180613-yangon-coloniale-catelles-manchester.jpg "Des catelles importées directement de Manchester !")
+![Un sol carrelé colonial à Yangon](20180613-yangon-coloniale-catelles-manchester.jpg "Des catelles importées directement de Manchester !")
 
 ![Des petits immeubles coloniaux à Mawlamyine](20180531-mawlamyine-coloniale-rue.jpg)
 
@@ -45,9 +45,9 @@ Je voulais donc partager avec vous cette passion en photos :
 
 ![Ruelle à Yangon](20180603-yangon-rue.jpg)
 
-C'est tout !
+C'est tout !
 
-**Et vous, qu'est-ce que vous aimez en secret ? (à part eaudepoisson.com)**
+**Et vous, qu'est-ce que vous aimez en secret ? (à part eaudepoisson.com)**
 
 Bisous 😘
 
@@ -83,4 +83,4 @@ Bisous 😘
   quand-même considérée présidente.
 - Le président actuel (sur le papier) s'appelle Win Myint, Htin Kyaw a
   démissionné il y a quelques mois pour raisons de santé.
-- La suite reste à écrire !
+- La suite reste à écrire !

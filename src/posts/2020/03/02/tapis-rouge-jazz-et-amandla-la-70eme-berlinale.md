@@ -1,12 +1,12 @@
 ---
 id: 2512
-title: "Tapis rouge, jazz et Amandla : la 70ème Berlinale"
+title: "Tapis rouge, jazz et Amandla : la 70ème Berlinale"
 date: "2020-03-02T08:50:04Z"
 featured: "20200228-000447.jpg"
 author: "Robin"
 ---
 
-Vous le savez déjà : Clara et moi,
+Vous le savez déjà : Clara et moi,
 [on aime le cinéma](/2019/03/23/cinema-a-berlin-drei-zwei-eins-aktion/) et on y
 va souvent à Berlin.
 
@@ -23,7 +23,7 @@ J'ai attendu la dernière minute pour acheter les dernières places dispos pour 
 Le nom du réalisateur a été suffisant pour me convaincre de voir _The Eddy_.
 
 Vous avez peut-être déjà vu certains de ses films (et sinon, vous avez
-maintenant un plan pour ce soir) :
+maintenant un plan pour ce soir) :
 
 - [**Whiplash**](http://www.allocine.fr/film/fichefilm_gen_cfilm=225953.html)
   (2014), un film incroyable qui suit un jeune batteur dans un groupe de musique
@@ -79,7 +79,7 @@ frappe). À 21 ans, elle est connue pour son rôle dans Hunger Games.
 
 Après m'être pris au jeu et avoir pris plein de photos d'Amandla
 (malheureusement j'avais rien à lui faire signer), j'ai retrouvé Clara et on est
-entrés dans la salle (800 places, complet. Corona quoi ?).
+entrés dans la salle (800 places, complet. Corona quoi ?).
 
 ## The Eddy
 
@@ -99,7 +99,7 @@ Damien Chazelle) au-delà de la Petite Ceinture.
 J'ai adoré les mélanges de langue anglais/français/arabe, les scènes au pied des
 tours d'habitations (qui m'ont rappelé le film
 [_Les Misérables_](http://www.allocine.fr/film/fichefilm_gen_cfilm=273579.html)
-de Ladj Ly), et bien sûr la musique !
+de Ladj Ly), et bien sûr la musique !
 
 Après la projection, les acteurs et producteurs sont montées sur scène.
 
@@ -128,7 +128,7 @@ attendant, on regarde Doctor Who.
 _Si vous voulez en lire plus sur *The Eddy*, je vous recommande
 [cet article de Variety](https://variety.com/2020/tv/reviews/damien-chazelle-the-eddy-review-netflix-damien-chazelle-1203518632/)_
 
-## Infos pratiques : assister à la Berlinale
+## Infos pratiques : assister à la Berlinale
 
 - Regardez le programme _avant_ le festival. J'ai été déçu cette année de rater
   certains films (comme Undine) parce que j'ai tardé à m'informer. Il est
@@ -142,6 +142,6 @@ _Si vous voulez en lire plus sur *The Eddy*, je vous recommande
 - Entrez tôt dans la salle pour avoir une bonne place, elles ne sont pas
   numérotées
 - Pas besoin de vous mettre sur votre 31 – c'est un festival de cinéma, mais ça
-  reste Berlin !
+  reste Berlin !
 
-La 70ème édition de la Berlinale s'est terminée hier. Suite en février 2021 !
+La 70ème édition de la Berlinale s'est terminée hier. Suite en février 2021 !

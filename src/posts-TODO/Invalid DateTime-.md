@@ -8,7 +8,7 @@ suis une grande fan du DIY. J'essaie de créer moi-même un maximum des produits
 utilisés quotidiennement — poudre vaisselle, lessive, déo, etc. — et surtout de
 faire de l'\_upcycling*.
 
-**Mais c'est quoi l'upcycling ?**
+**Mais c'est quoi l'upcycling ?**
 
 L'_upcycling_ — ou surcyclage en français — consiste à récupérer des produits ou
 matériaux qu'on n'utilise plus pour les transformer en produits utiles/de
@@ -22,7 +22,7 @@ Vous l'avez deviné, le terme _tawashi_ est japonais et veut plus ou moins dire
 "éponge". Dans la communauté DIY, c'est comme ça qu'on appelle ces petites
 éponges tissées ou tricotées à partir de vieux vêtements.
 
-Vous pouvez aussi utiliser du fil à tricoter... Mais on est tous d'accord :
+Vous pouvez aussi utiliser du fil à tricoter... Mais on est tous d'accord :
 c'est carrément plus classe de transformer une chaussette trouée en éponge 😎
 
 Trêve de plaisanteries, je vous présente tout de suite mon ex-t-shirt préféré.
@@ -32,7 +32,7 @@ Trêve de plaisanteries, je vous présente tout de suite mon ex-t-shirt préfér
 Le t-shirt rouge et blanc est né il y a de nombreuses années. Vous le connaissez
 néanmoins surtout par son long voyage en Asie du Sud-Est. Retour sur images.
 
-_Avis : toutes ces photos n'ont pas été prises la même journée._
+_Avis : toutes ces photos n'ont pas été prises la même journée._
 
 ![Selfie avec notre guide et notre navigatrice en chef](20171027-tour-marches-flottants-selfie.jpg)
 
@@ -58,9 +58,9 @@ _5/2018 - Sur un voilier aux Philippines._
 
 _8/2019 - En tawashi. Ben oui, il avait des trous._
 
-## Vous aussi vous voulez un tawashi ?
+## Vous aussi vous voulez un tawashi ?
 
-Qui n'en voudrait pas un ? Lavable à l'infini, il donnera une deuxième vie à
+Qui n'en voudrait pas un ? Lavable à l'infini, il donnera une deuxième vie à
 votre vêtement bien-aimé (qui pourra ainsi vous accompagner pour l'éternité) 💕
 
 Deux techniques ultra-faciles s'offrent à vous. Si vous voulez juste une
@@ -70,9 +70,9 @@ tâche.
 
 ### #1 Le tawashi-chaussette 🧦
 
-**Niveau requis** : école maternelle (Robin a pu le faire)
+**Niveau requis** : école maternelle (Robin a pu le faire)
 
-**Matériel nécessaire** :
+**Matériel nécessaire** :
 
 - une ou plusieurs chaussettes
 - une planche en bois
@@ -85,7 +85,7 @@ assez bien comment réaliser votre tawashi à partir de chaussettes.
 
 **Niveau requis **: premier de la classe à l'école maternelle
 
-**Matériel nécessaire** :
+**Matériel nécessaire** :
 
 - un t-shirt
 - une planche en bois

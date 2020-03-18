@@ -1,6 +1,6 @@
 ---
 id: 1731
-title: "Inspirer, expirer, inspi- oh un avion ! 🛫"
+title: "Inspirer, expirer, inspi- oh un avion ! 🛫"
 date: "2018-05-26 09:13:57"
 featured: "20180512-chiang-mai-doi-suthep-1.jpg"
 author: "Clara"
@@ -50,7 +50,7 @@ Click. La présentation PowerPoint commence, micro à la main.
 
 À Chiang Mai, la ville principale du Nord de la Thaïlande, les temples
 bouddhistes se trouvent à tous les coins de rue. Wikipédia dit qu'il y avait
-40'717 _wats_ (=temples) dans le pays en 2004 ! Ce n'est pas étonnant, sachant
+40'717 _wats_ (=temples) dans le pays en 2004 ! Ce n'est pas étonnant, sachant
 que près de 95% de la population suit l'école bouddhiste Theravada.
 
 ![Une femme prie à Wat Umong à Chiang Mai](20180512-chiang-mai-wat-umong-2.jpg "Wat Umong, le temple des tunnels")
@@ -68,11 +68,11 @@ philosophie bouddhiste. Il est bientôt midi et surtout l'heure de rencontrer
 Méditation (parce qu'après manger, c'est plus dur de ne pas s'endormir en
 fermant les yeux).
 
-### Méditer, ça consiste en quoi ?
+### Méditer, ça consiste en quoi ?
 
 À mon niveau (pas très avancé), méditer est un exercice de **concentration**. Il
 ne s'agit pas de faire le "vide" dans son esprit, mais plutôt de concentrer tous
-ses sens sur un "objet" de méditation : sa propre respiration, la flamme d'une
+ses sens sur un "objet" de méditation : sa propre respiration, la flamme d'une
 bougie, le son d'un gong, etc.
 
 C'est une façon de calmer le flot constant (et naturel) des pensées, en le
@@ -85,18 +85,18 @@ Pour moi, c'est pas encore le cas.
 
 ![Célébration de Buddha Day à Wat Chedi Luang à Chiang Mai](20180511-chiang-mai-wat-chedi-luang-3.jpg "Buddha Day à Wat Chedi Luang (1)")
 
-### Méditer, c'est difficile ?
+### Méditer, c'est difficile ?
 
 Oui et non. Le concept est ultra-simple, mais la mise en pratique pas forcément
 si évidente. Les plus distraits d'entre nous trouveront la tâche
 quasi-impossible...
 
-_inspirer, expirer, inspirer, expi- oh une voiture qui passe ? ah non, c'est un
+_inspirer, expirer, inspirer, expi- oh une voiture qui passe ? ah non, c'est un
 avion je crois. mmmh, la dernière fois que j'ai pris l'avion c'était pour aller
 en Thaïlande, c'était pas mal fatigant. surtout l'arrivée à Bangkok. ah mais ces
 plages, cette nature, ces temples... temple, moines, ah oui, j'oubliais.
 méditer. euh, donc j'en étais à... inspirer, expirer, inspi- oh un chien qui
-aboie ?_
+aboie ?_
 
 Le truc, c'est que l'essence même de la méditation consiste en ramener en
 permanence son esprit à l'objet initial (ici, sa respiration). C'est normal que
@@ -112,10 +112,10 @@ habitude quotidienne.
 
 ![Célébration de Buddha Day à Wat Chedi Luang à Chiang Mai](20180511-chiang-mai-wat-chedi-luang-2.jpg "Buddha Day à Wat Chedi Luang (2)")
 
-### Méditer, ça sert à quoi ?
+### Méditer, ça sert à quoi ?
 
 Je ne vais pas commencer de liste de tous les bienfaits que Méditation peut
-apporter à votre vie. Selon certaines sources, elle peut soigner tous les maux !
+apporter à votre vie. Selon certaines sources, elle peut soigner tous les maux !
 
 À mes yeux, l'aspect positif #1 de Méditation est la capacité qu'elle donne de
 ne pas se laisser emporter par ses émotions.
@@ -129,14 +129,14 @@ Similairement, la joie est vécue de manière plus intentionnelle. Je ne suis pl
 simplement "contente", mais j'en ai aussi conscience et ressens plus intensément
 les effets des émotions positives.
 
-...mais à dire vrai, pour moi la route est encore longue !
+...mais à dire vrai, pour moi la route est encore longue !
 
 ![Escaliers dans la forêt à Wat Umong à Chiang Mai](20180512-chiang-mai-wat-umong-1.jpg "Wat Umong")
 
 ## On s'en est pas mal sortis
 
 Finalement, mes retrouvailles avec Méditation se sont plutôt bien passées.
-Durant la journée, KK nous a fait essayer différentes façon de la fréquenter :
+Durant la journée, KK nous a fait essayer différentes façon de la fréquenter :
 assise, couchée, en marchant, en bougeant les mains, accompagnée d'un gong...
 
 Contrairement à mes peurs, notre plus longue session n'a duré que 25 minutes.

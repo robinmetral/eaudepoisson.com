@@ -7,7 +7,7 @@ author: "Robin"
 ---
 
 Quand on se prépare à sortir le matin, mon sac est toujours plus lourd que celui
-de Clara. Pourquoi ? Parce que depuis le début du voyage, je trimballe mon
+de Clara. Pourquoi ? Parce que depuis le début du voyage, je trimballe mon
 _Nikon FM2n_, un appareil photo argentique en métal bien lourd.
 
 En trois mois, j'ai shooté 6 pellicules et j'en ai fait développer 5. Je
@@ -18,7 +18,7 @@ posteriori, on dirait bien que certains thèmes m'inspirent plus particulièreme
 l'architecture (brutaliste de préférence), ou simplement le train-train
 quotidien 😋
 
-Voici un petit bout de Vietnam en noir et blanc : 12 images de Sài Gòn à Hà Nội.
+Voici un petit bout de Vietnam en noir et blanc : 12 images de Sài Gòn à Hà Nội.
 
 ![Scène de rue à Sai Gon](20180130-saigon-rue.jpg)
 
@@ -60,7 +60,7 @@ le seul endroit où j'ai pu acheter des pellicules noir et blanc (j'utilise
 _Ilford Delta Pro_ ou _Kodak 400TX_).
 
 Ici à Đà Nẵng, je sais pas encore comment je vais faire développer mes photos -
-il faut que je m'informe ! Je vais peut-être commander une cuve et de la chimie
+il faut que je m'informe ! Je vais peut-être commander une cuve et de la chimie
 pour me mettre à développer dans notre salle de bain 🚿
 
 Dites-moi ce que vous pensez de mes photos, et si vous en voulez plus 😉

@@ -74,12 +74,12 @@ autobus avec un tuyau et il y avait des tas de fumée partout, c'était terrible
 
 ---
 
-**1. Feuilles à mâcher** : Bétel, feuille stimulante qui se mâche (un peu comme
+**1. Feuilles à mâcher** : Bétel, feuille stimulante qui se mâche (un peu comme
 le khat) avec de la noix de bétel qui donne une couleur rouge à la salive et aux
 dents. Beaucoup de birmans en consomment et recrachent ensuite de jolies petites
 flaques rouges un peu partout au bord des routes.
 
-**2. Serviette autour de la taille** : Longyi, habit traditionnel birman
+**2. Serviette autour de la taille** : Longyi, habit traditionnel birman
 ressemblant à un pareo qu'on porte autour de la taille. Encore aujourd'hui, peu
 d'hommes ne le portent pas.
 

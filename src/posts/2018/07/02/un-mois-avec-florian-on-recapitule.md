@@ -11,19 +11,19 @@ Récapitulons.
 
 ## Arrivée en Thaïlande
 
-![Flo dans un sorngthaew à son arrivée à Bangkok](20180529-bangkok-arrivee-flo.jpg "Bienvenue à Bangkok !")
+![Flo dans un sorngthaew à son arrivée à Bangkok](20180529-bangkok-arrivee-flo.jpg "Bienvenue à Bangkok !")
 
 On commence le voyage tranquille pour que Flo puisse se remettre du vol et du
 décalage horaire.
 
 Le lendemain de son arrivée à Bangkok, on part donc pour huit petites heures de
 bus et un passage de douane. (En vrai, c'est parce que nos visas thaï expiraient
-le jour même... oups !)
+le jour même... oups !)
 
 ![Pont frontière entre la Thaïlande et la Birmanie à Mae Sot/Myawaddy](20180530-myawaddy-passage-frontiere-2.jpg "Au passage de la douane, on change de pays, de monnaie, de langue, de cuisine... et de côté de la route")
 
 La majorité de notre voyage aura donc été **une boucle autour de la Birmanie**.
-On peut résumer ce qu'on y a fait en quatre catégories :
+On peut résumer ce qu'on y a fait en quatre catégories :
 
 - des trucs touristiques
 - manger et boire
@@ -37,7 +37,7 @@ tea shops (pauvres de nous), on a quand-même pu faire quelques belles visites.
 
 À commencer par
 [les fameux temples de Bagan](https://eaudepoisson.com/2018/06/17/saison-des-pluies-a-bagan/),
-on a vu des centaines de pagodes : des plaquées or, des reconstruites en brique,
+on a vu des centaines de pagodes : des plaquées or, des reconstruites en brique,
 des peintes en blanc, des en ruines, des sales, des propres, des où on faisait
 payer l'entrée aux étrangers mais pas aux Birmans (et c'est pinjuste).
 
@@ -51,7 +51,7 @@ jus de pieds) ou dans une grotte
 Mis à part les pagodes, mais toujours dans la catégorie religion, il y a aussi
 eu quelques remarquables Bouddhas géants couchés ou assis.
 
-![Florian et l'oreille d'un gigantesque bouddha couché près de Mawlamyine](20180601-mawlamyine-bouddha-couche.jpg "Voyez-vous le bouddha ?")
+![Florian et l'oreille d'un gigantesque bouddha couché près de Mawlamyine](20180601-mawlamyine-bouddha-couche.jpg "Voyez-vous le bouddha ?")
 
 ## Des trucs touristiques (laïques)
 
@@ -91,7 +91,7 @@ seulement la proximité géographique, mais aussi les Anglais, qui ont importé
 plein d'Indiens quand le Birmanie faisait partie des Indes.
 
 D'ailleurs, autour de 1920, il y avait apparemment plus d'Indiens que de Birmans
-à Yangon !
+à Yangon !
 
 ![Resto de riz biryiani dans la rue à Yangon](20180603-yangon-biryiani.jpg "Resto de riz biryiani à Yangon")
 
@@ -102,7 +102,7 @@ diverses en sauce qu'on mange avec du riz.
 
 ![Curry birmans dans un resto à Hpa An](20180615-hpaan-currys.jpg)
 
-C'était pratique : Florian pouvait manger son mouton alors qu'on partageait un
+C'était pratique : Florian pouvait manger son mouton alors qu'on partageait un
 curry d'aubergines et des salades Birmanes (salade de feuilles de thé, salade de
 tomates sauce cacahuète, salade de pennywort, salade de riz etc.)
 
@@ -112,14 +112,14 @@ Avec ça, on prenait tous les trois des _banana milkshakes_.
 
 On a aussi (bien sûr) visité plein de cafés de spécialité. Mais pas que.
 
-La Birmanie est réputée pour ses salons de thé à chaque coin de rue ! Héritage à
-nouveau anglais peut-être : on peut choisir parmi diverses pâtisseries pour
+La Birmanie est réputée pour ses salons de thé à chaque coin de rue ! Héritage à
+nouveau anglais peut-être : on peut choisir parmi diverses pâtisseries pour
 accompagner le thé noir qu'on boit avec lait et/ou sucre.
 
 ![Thé et pâtisseries à Ya Tha à Yangon](20180613-yangon-ya-tha-tea-shop.jpg)
 
 Il y a un terme pour chaque minime variation du thé noir de base, selon si on le
-préfère sans, ou avec plus ou moins de lait et de lait condensé. Voyez plutôt :
+préfère sans, ou avec plus ou moins de lait et de lait condensé. Voyez plutôt :
 
 ![Menu illustré de thé au lait à la Rangoon Tea House à Yangon](20180603-yangon-rangoon-tea-house-menu.jpg "Robin buvait du note sein, Flo du pote man, et Clara du pote man saint mais surtout elle mangeait une (ou deux) pâtisseries")
 
@@ -142,12 +142,12 @@ milieu de nulle part.
 Pour passer le temps pendant ces trajets, on a joué à plusieurs jeux différents
 :
 
-- **Le jeu des Mexicains** : on dessine une scène qui implique un Mexicain vu de
+- **Le jeu des Mexicains** : on dessine une scène qui implique un Mexicain vu de
   haut, et il faut deviner ce que fait le Mexicain.
-  [Jouez-y avec nous !](https://eaudepoisson.com/2018/07/07/quest-ce-que-cest/)
-- **Des énigmes** : trouvées sur internet, que Florian déjouait toujours en
+  [Jouez-y avec nous !](https://eaudepoisson.com/2018/07/07/quest-ce-que-cest/)
+- **Des énigmes** : trouvées sur internet, que Florian déjouait toujours en
   premier.
-- **"Qui suis-je ?"** : on attribue un personnage à quelqu'un d'autre, et chacun
+- **"Qui suis-je ?"** : on attribue un personnage à quelqu'un d'autre, et chacun
   doit deviner qui il est en posant des questions fermées. Si la réponse est
   "oui", il peut poser une autre question, sinon c'est à la personne suivante de
   poser une question.
@@ -181,7 +181,7 @@ poissons, 3 mille-pattes, 2 scarabées, 1 grenouille et des grosses fourmis.
 
 ![Des petits poissons et le doigt de Clara dans un étang ornemental à Bangkok](20180528-bangkok-clara-poissons.jpg "Des petits poissons qui viennent faire des bisous sur les doigts")
 
-En tout cas, si on était des animaux :
+En tout cas, si on était des animaux :
 
 - Florian serait un zébu, qu'il aime bien dans les champs et dans son assiette
 - Clara serait un mille-patte qui se roule en boule quand on le touche
@@ -193,7 +193,7 @@ En tout cas, si on était des animaux :
 
 Dans [_La panne_](https://eaudepoisson.com/2018/06/18/la-panne/), Florian vous a
 parlé de bétel, la feuille que les Birmans mâchent et recrachent sous forme de
-glaire tout rouge. Avant d'être mâché, ça ressemble à ça :
+glaire tout rouge. Avant d'être mâché, ça ressemble à ça :
 
 ![Deux hommes en longyi vendent du bétel dans la rue à Yangon](20180603-yangon-betel.jpg "Deux hommes en longyi (habit traditionnel noué autour de la taille) vendent du bétel")
 
@@ -207,14 +207,14 @@ sucre, d'où le nom _caneball_, mais nous on appelait ça le _pied-balle_.
 
 Les gens jouent soit tous ensemble en cercle (brésilienne), soit s'affrontent en
 équipes avec un petit filet. C'est super impressionnant et souvent très
-acrobatique :
+acrobatique :
 
-![Une impressionnante partie de caneball dans la rue à Yangon](20180612-yangon-caneball.jpg "Smash !")
+![Une impressionnante partie de caneball dans la rue à Yangon](20180612-yangon-caneball.jpg "Smash !")
 
 ## Retour en Thaïlande
 
 On repasse la douane à Myawaddy dans l'autre sens, et la boucle birmane est
-bouclée !
+bouclée !
 
 ![Florian et Clara sur le pont de l'amitié entre la Birmanie et la Thaïlande](20180530-myawaddy-passage-frontiere-1.jpg
 "Sur le "Pont de l'Amitié" entre Myawaddy (Birmanie) et Mae Sot (Thaïlande)")
@@ -228,13 +228,13 @@ allait y mourir sauf si on arrive à s'en échapper en moins de 60 minutes, top
 chrono. Pour réussir, il faut trouver plein d'indices et ouvrir plein de
 cadenas. C'est génial.
 
-![Photo victorieuse à la sortie d'un escape room à Bangkok](20180623-bangkok-escape-room.jpg "On a gagné !")
+![Photo victorieuse à la sortie d'un escape room à Bangkok](20180623-bangkok-escape-room.jpg "On a gagné !")
 
 Finalement, Flo a repris l'avion pour la Suisse (😢) et on a repris le train
 pour Chiang Mai. On compte y rester pendant nos six mois restants en Asie du
 Sud-Est, avec peut-être quelques excursions pour renouveler un visa ou faire un
 cours de voile.
 
-On vous tiendra au courant !
+On vous tiendra au courant !
 
 Bisous 😚

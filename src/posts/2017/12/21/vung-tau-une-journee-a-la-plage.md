@@ -8,19 +8,19 @@ author: "Clara & Robin"
 
 Ce matin, on s'est réveillés dans notre Airbnb au centre de Sài Gòn à 5h45. On a
 pris nos maillots et notre crème solaire, et après un bánh mì et un café on a
-été attendre notre chauffeur à ce magnifique rond-point :
+été attendre notre chauffeur à ce magnifique rond-point :
 
 ![Le rond-point de rendez-vous pour notre départ à Vũng Tàu](20171221-vung-tau-rdv.jpg "Le magnifique rond-point")
 
 Après quelques mésaventures de GPS, on a fini par retrouver la famille de Clara
 et leur voiture. À 7h30, on était tous en route direction la plage 🌊
 
-![Selfie dans la voiture pour Vũng Tàu](20171221-vung-tau-voiture.jpg "La voiture est assez haute pour que Robin ne touche pas le plafond : c'est une première")
+![Selfie dans la voiture pour Vũng Tàu](20171221-vung-tau-voiture.jpg "La voiture est assez haute pour que Robin ne touche pas le plafond : c'est une première")
 
 En chemin, on s'arrête au bord de l'autoroute dans un magasin de fruits de mer.
-Le concept : choisir des crabes et coquillages vivants entassés dans des grands
+Le concept : choisir des crabes et coquillages vivants entassés dans des grands
 aquariums, qui sont ensuite cuisinés sur place et pris à l'emporter dans une
-grosse boîte en carton. Quelques photos :
+grosse boîte en carton. Quelques photos :
 
 ![Le magasin de fruits de mer au bord de la route](20171221-fruits-de-mer-magasin.jpg)
 
@@ -49,21 +49,21 @@ mettre de la crème solaire... et on attrape des légers coups de soleil ☀
 
 On passe l'après-midi à manger des fruits (de mer ou pas), à lire et à se
 reposer sur nos chaises longues. Quel bonheur d'être sur une plage isolée pour
-le temps d'une journée !
+le temps d'une journée !
 
 ![Clara, Robin et Rémy dans des chaises longues à Vũng Tàu](20171221-vung-tau-chaises-longues.jpg)
 
 Ça nous rappelle ce que nous avait dit nôtre hôte à
 [Cần Thơ](https://eaudepoisson.com/2017/10/31/escapade-dans-le-delta-du-mekong/),
-Mme Ha :
+Mme Ha :
 
 > Je comprends pas pourquoi tout le monde va à
 > [Nha Trang](https://eaudepoisson.com/2017/11/19/nha-trang-ou-cinq-jours-a-little-russia/),
 > alors que la plage de Vũng Tàu est plus proche et vraiment mieux.
 
-À posteriori, on est tout à fait d'accord avec elle ! Il y a moins de monde,
+À posteriori, on est tout à fait d'accord avec elle ! Il y a moins de monde,
 c'est plus tranquille et relaxant, en résumé l'endroit parfait pour une escapade
-d'un jour ou deux depuis Sài Gòn ! Ce que font d'ailleurs apparemment beaucoup
+d'un jour ou deux depuis Sài Gòn ! Ce que font d'ailleurs apparemment beaucoup
 de Saigonnais.
 
 Demain, on se réveille encore plus tôt (5h 😭) pour (re)partir dans le Mékong.

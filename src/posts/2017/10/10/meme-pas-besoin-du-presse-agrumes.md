@@ -10,14 +10,14 @@ On boucle et on ajuste les deux sacs à dos, toutes nos possessions compressées
 en 110L. Hier après-midi on a fait nos sacs pour avoir une idée du poids qu'ils
 feront.
 
-Résultat : Robin portera 8.4 kg (10.5 % de son poids) et Clara 8.2 kg (17 %).
+Résultat : Robin portera 8.4 kg (10.5 % de son poids) et Clara 8.2 kg (17 %).
 
 ![Nos deux sacs à dos](20171010-sacs-a-dos.jpg)
 
-C'est pas beaucoup ? C'est le but ! On essaie de minimaliser nos affaires et ce
+C'est pas beaucoup ? C'est le but ! On essaie de minimaliser nos affaires et ce
 qu'on prendra avec nous la semaine prochaine (J-7!).
 
-## Le minimalisme, c'est quoi ?
+## Le minimalisme, c'est quoi ?
 
 Chacun a sa propre définition. Pour nous, c'est l'idée de vivre plus simplement.
 Posséder uniquement des choses qui ajoutent de la valeur à nos vies, qui nous
@@ -28,7 +28,7 @@ Parce que soyons honnêtes, un
 [presse-agrumes électrique](https://www.youtube.com/watch?v=xTriT07myF0), ça
 sert vraiment à rien.
 
-Du coup, avant le départ :
+Du coup, avant le départ :
 
 - On donne ou vend les affaires qui ne nous semblent pas essentielles
 - On digitalise tous nos papiers administratifs
@@ -64,11 +64,11 @@ le temps, si on arrive à vivre en 110L.
 
 On vous redit dans quelques mois si le presse-agrumes nous manque trop.
 
-**En bonus** : les coulisses du minimalisme
+**En bonus** : les coulisses du minimalisme
 
 ![Clara qui prend les photos des contenus de nos sacs debout sur une chaise](20171010-contenu-sac-photo.jpg)
 
-Vous voulez aller plus loin ? On vous conseille :
+Vous voulez aller plus loin ? On vous conseille :
 
 - le blog de [Leo Babauta](https://zenhabits.net/on-minimalism/)
 - celui de
@@ -79,6 +79,6 @@ Vous voulez aller plus loin ? On vous conseille :
 - des TED talks comme
   [celle-ci](https://www.ted.com/talks/graham_hill_less_stuff_more_happiness)
 
-Dites-nous ce que vous en pensez !
+Dites-nous ce que vous en pensez !
 
 Bisous 😘

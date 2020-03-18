@@ -12,7 +12,7 @@ un salon de thé, on réfléchit à comment on retournera à
 le mois prochain pour le mariage de la cousine de Clara.
 
 On regarde les vols aller-retour entre Hà Nội et Sài Gòn. C’est plus cher qu’on
-pensait : plus de 200.- pour un vol national. En plus, c’est ce genre de
+pensait : plus de 200.- pour un vol national. En plus, c’est ce genre de
 compagnie qui a plein d’extras selon le poids des bagages, si on veut choisir
 nos sièges, etc. Ça nous embête mais on n'a pas trop le choix…
 
@@ -30,7 +30,7 @@ passé qui ont été un peu égoïstes de ne pas penser à nous, Clara et Robin 
 présent. Notre train part dans quelques heures, et on appréhende le voyage
 malgré un mois de préparations psychologiques et pratiques.
 
-![Clara et notre bidon devant la gare de Hà Nội](20171211-clara-bidon-eau.jpg "Clara et notre bidon devant la gare de Hà Nội. Petite histoire : le hall en
+![Clara et notre bidon devant la gare de Hà Nội](20171211-clara-bidon-eau.jpg "Clara et notre bidon devant la gare de Hà Nội. Petite histoire : le hall en
 béton de cette gare, à l'origine du même style colonial que les ailes, a dû être
 reconstruit après qu'une bombe américaine l'ait détruit le 21 décembre 1972.")
 
@@ -50,13 +50,13 @@ emporte :
 
 (**JEU** : devinez qui a pris quoi et donnez-nous vos réponses en commentaire !)
 
-Pour partager cette expérience avec vous, Robin a tenu un carnet de voyage :
+Pour partager cette expérience avec vous, Robin a tenu un carnet de voyage :
 
 ## Jour 1, 231km/1726km
 
 **9h31.** On prend le train de Ninh Bình à Hà Nội. Ce soir, on repassera sur ces
 mêmes rails dans le sens inverse. Pourquoi on fait 5h de train supplémentaires
-alors qu’on pourrait simplement partir de Ninh Bình ? On sait pas trop.
+alors qu’on pourrait simplement partir de Ninh Bình ? On sait pas trop.
 
 ![La gare et cang-tin de Ninh Bình](20171211-gare-ninh-binh.jpg "La gare et cang-tin de Ninh Bình")
 
@@ -64,23 +64,23 @@ alors qu’on pourrait simplement partir de Ninh Bình ? On sait pas trop.
 sur la voie 1 et on monte dans la voiture 8. On passe la cabine avec les
 couchettes 17 à 20… 13 à 16… 9 à 12, c’est la nôtre ! On a les couchettes du
 bas, numéro 9 et 10. D’un coup, l’appréhension disparaît : on a jamais été dans
-une cabine aussi top ! Il y a deux couchettes de chaque côté, séparées par une
+une cabine aussi top ! Il y a deux couchettes de chaque côté, séparées par une
 table en bois. C’est assez spacieux pour que je puisse être assis sans toucher
 la couchette du dessus avec ma tête, c’est propre, les matelas sont confortables
 et les draps sont mis, il y a une prise et une lumière personnelle au dessus de
 chacune… C’est du luxe en comparaison aux autres trains où on a dormi (notamment
-Zurich-Budapest). Je me réjouis déjà du voyage du retour ! 😉
+Zurich-Budapest). Je me réjouis déjà du voyage du retour ! 😉
 
 ![Robin dans la cabine du Transvietnamien](20171211-robin-cabine.jpg)
 
 Rien à voir avec la 4e classe, où on avait fait le trajet Đà Nẵng-Huế il y a
-quelques semaines :
+quelques semaines :
 
 ![La 4e classe dans le train Đà Nẵng-Huế](20171123-4e-classe.jpg "33h là-dedans, ça aurait pas été possible")
 
 On rencontre aussi notre colocataire de cabine, _Giang_, qui étudie l’anglais
 à Hà Nội et va rendre visite à son copain à Sài Gòn. C’est la deuxième fois
-qu’elle prend ce train : on est en présence d’une experte ! On fait connaissance
+qu’elle prend ce train : on est en présence d’une experte ! On fait connaissance
 tandis que je finis mon bánh mì acheté comme complément au repas du soir.
 
 **19h30.** “Dear passengers, the train has just departed on time from Hanoi
@@ -98,7 +98,7 @@ légèrement mal à l’aise en public.
 
 **19h40.** On est interrompus par notre chef de voiture qui vient se présenter.
 Il nous donne une feuille plastifiée avec son nom et son numéro de téléphone, au
-cas où on aurait besoin de lui. Quel service ! Au dos, le menu du train : des
+cas où on aurait besoin de lui. Quel service ! Au dos, le menu du train : des
 plats chauds entre 25’000 et 35’000 VND qui nous seront proposés aux heures de
 repas.
 
@@ -115,7 +115,7 @@ s’allonge et lit sur sa Kobo. Giang semble regarder une série sur son natel.
 J’éteins l’ordi et reprends ma lecture de _The Sympathizer_.
 
 **21h47.** on repasse par Ninh Bình, où on était ce matin. À partir de là, on
-progresse vers le Sud !
+progresse vers le Sud !
 
 ## Jour 2, 1481km/1726km
 
@@ -131,7 +131,7 @@ me manque une tasse pour le boire.)_
 
 ![Robin avec son AeroPress dans le train](20171212-robin-train-cafe.jpg)
 
-> **Recette exclusive : café-dans-le-train à la Robin** (tiens ça rime)
+> **Recette exclusive : café-dans-le-train à la Robin** (tiens ça rime)
 >
 > Moudre les grains dans le couloir pour ne pas déranger Giang, sous le regard
 > interloqué du chef de voiture. Aller chercher de l’eau chaude –disponible en
@@ -151,7 +151,7 @@ Hà Nội et Ninh Bình. Dehors, le train passe par la fameuse voie qui relie Hu
 
 **11h09.** Ici, le repas de midi se mange tôt. On reçoit du riz avec de la
 viande et quelques légumes pour 35’000 VND. C’est simple mais copieux, et
-relativement bon ! Mieux que les repas en avion en tout cas.
+relativement bon ! Mieux que les repas en avion en tout cas.
 
 ![Repas dans le train au Vietnam](20171212-train-lunch.jpg)
 
@@ -182,7 +182,7 @@ karaoke buffle d'eau avec bébé buffle d'eau je vais aux toilettes."_
 
 ![Vue du train: des collines, une rizière, des buffles d'eau](20171212-paysage-buffle-2.jpg)
 
-**14h.** Robin dit : (oui, je me cite moi-même)
+**14h.** Robin dit : (oui, je me cite moi-même)
 
 > Je crois que le buffle d'eau est mon nouvel animal préféré.
 
@@ -199,12 +199,12 @@ et on recommence.
 
 **15h55.** ... qu'on accompagne d'un fruit du dragon 🐲
 
-![Robin pèle un fruit du dragon](20171212-fruit-du-dragon.jpg "Incroyable ces couleurs !")
+![Robin pèle un fruit du dragon](20171212-fruit-du-dragon.jpg "Incroyable ces couleurs !")
 
 ![Robin mange un fruit du dragon](20171212-robin-dragon.jpg "Mais le goût est assez neutre, si vous vous posez la question. La texture est
-chouette : les petites graines noires craquent sous la dent")
+chouette : les petites graines noires craquent sous la dent")
 
-**16h55.** Le repas du soir (ou de l'après-midi ?) est servi. C'est plus ou
+**16h55.** Le repas du soir (ou de l'après-midi ?) est servi. C'est plus ou
 moins la même chose qu'à midi. Le soleil se couche au-dessus des rizières.
 
 ![Coucher de soleil au-dessus des rizières depuis le train](20171212-paysage-coucher-soleil.jpg)
@@ -225,18 +225,18 @@ café avant l'arrivée.
 **4h15.** Les hauts-parleurs se mettent à jouer une musique patriotique avec "Hồ
 Chí Minh" dans les paroles. On essaiera de vous la trouver.
 
-**4h39.** On est arrivés ! On s'assied au café de la gare pour commander un café
+**4h39.** On est arrivés ! On s'assied au café de la gare pour commander un café
 et un Grab (le Uber de l'Orient).
 
 ![Selfie à la sortie du train à Sài Gòn](20171213-train-arrive.jpg)
 
 **6h30.** On est tout propres après une douche bien méritée à notre nouvel
-Airbnb. À ce propos : pour la deuxième fois, un Airbnb qu'on avait réservé à Sài
+Airbnb. À ce propos : pour la deuxième fois, un Airbnb qu'on avait réservé à Sài
 Gòn a été annulé à la dernière minute. Heureusement, on a pu en réserver un
 autre le jour de notre départ en train. En plus, celui-ci est à 15 minutes de
-marche du _Workshop_, notre café préféré !
+marche du _Workshop_, notre café préféré !
 
 **12h28.** Je finalise et publie cet article depuis le Workshop ☕️ Ouf, c'était
-long ! Mais estimez-vous heureux, c'était plus long à vivre qu'à lire 😉
+long ! Mais estimez-vous heureux, c'était plus long à vivre qu'à lire 😉
 
-Bisous et à bientôt ! 😘
+Bisous et à bientôt ! 😘

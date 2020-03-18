@@ -1,6 +1,6 @@
 ---
 id: 1847
-title: "Qu'est-ce que c'est ? ✏️"
+title: "Qu'est-ce que c'est ? ✏️"
 date: "2018-07-07 12:38:39"
 featured: "20180619-mexicains-cahier.jpg"
 author: "Clara & Robin"
@@ -16,23 +16,23 @@ on finit par développer des techniques pour passer le temps.
 
 Celle qu'on préfère, c'est celle des Mexicains.
 
-**D'après vous, qu'est-ce que c'est ?**
+**D'après vous, qu'est-ce que c'est ?**
 
 ![Un dessin d'un rond dans un rond](20180619-mexicains-simple.png)
 
-_C'est un Mexicain vu du ciel (avec son sombrero !)_
+_C'est un Mexicain vu du ciel (avec son sombrero !)_
 
-**Et ça, qu'est-ce que c'est ?**
+**Et ça, qu'est-ce que c'est ?**
 
 ![Un mexicain](20180619-mexicains-balai.png)
 
 _C'est un Mexicain avec un balai._
 
-C'est pas très compliqué, non ?
+C'est pas très compliqué, non ?
 
 Durant toutes ces heures à tuer, on a eu le temps d'être créatifs. Et vu qu'on
 est trop chouettes, on partage ici quelques-unes de nos créations avec vous.
-(Par catégorie en plus !)
+(Par catégorie en plus !)
 
 À vous d'en deviner un maximum 👍💡
 

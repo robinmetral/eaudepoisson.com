@@ -1,6 +1,6 @@
 ---
 id: 2504
-title: "Allez, on s'y remet !"
+title: "Allez, on s'y remet !"
 date: "2019-07-26 07:09:22"
 featured: "20190516-clara-fenetre.jpg"
 author: "Clara & Robin"
@@ -22,6 +22,6 @@ font partie d'une autre forme de voyage et qu'ils n'en méritaient pas moins
 d'être documentés.
 
 Pour votre plus grand malheur, nous voilà donc de retour. Vous n'êtes pas encore
-tout à fait débarrassés de nous et on compte bien rester un moment !
+tout à fait débarrassés de nous et on compte bien rester un moment !
 
 A tout bientôt 😘

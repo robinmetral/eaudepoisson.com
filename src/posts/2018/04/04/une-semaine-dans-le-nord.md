@@ -18,21 +18,21 @@ garde pas moins une atmosphère très agréable, surtout le week-end (nous somme
 arrivés le samedi matin),
 [lorsque les abords du lac au centre-ville sont fermés à la circulation](https://eaudepoisson.com/2018/01/07/ha-noi-4-secrets-a-decouvrir/).
 
-![Greg et Souad prennent des photos dans les rues de Hanoï](20180300-hanoi-greg-souad.jpg "Bienvenue à Hanoï !")
+![Greg et Souad prennent des photos dans les rues de Hanoï](20180300-hanoi-greg-souad.jpg "Bienvenue à Hanoï !")
 
-## Premier choc : les scooters
+## Premier choc : les scooters
 
 [On nous avait prévenus](https://eaudepoisson.com/2017/10/29/top-7-du-choc-culturel-au-vietnam-1/)
 du nombre de scooters et leur manière... particulière de circuler. Parcage sur
 les trottoirs (les piétons sont priés de marcher sur la chaussée), circulation à
-contre-sens, passage au feu rouge, utilisation des rues fermées au trafic : ils
+contre-sens, passage au feu rouge, utilisation des rues fermées au trafic : ils
 sont les rois et le savent. Étonnamment, ils n'en abusent pas non plus, et sont
 toujours prêts à freiner face à un piéton moins attentif.
 
 ![Scooters parqués sur un trottoir à Hanoï](20180300-hanoi-parking.jpg "Un trottoir. Pardon, un parking.")
 
 Si le scooter est aussi un bon moyen de transporter des marchandises (parfois
-volumineuses), comment font les familles nombreuses? Pas besoin de monospace :
+volumineuses), comment font les familles nombreuses? Pas besoin de monospace :
 le deux-roues est aussi un excellent véhicule familial.
 
 [Vidéo d'une famille de cinq sur un seul scooter à Hanoï](https://www.youtube.com/watch?v=Knomw0JFeOs)
@@ -45,19 +45,19 @@ tourne. Un piéton qui traverse la rue se fera toujours passer devant (et
 klaxonner) par une voiture, et contourner par le scooter (qui ne freinera pas).
 Comme l'a dit notre guide Trang (lors d'un
 [chouette food tour](https://eaudepoisson.com/2018/01/07/ha-noi-4-secrets-a-decouvrir/))
-: « ayez confiance quand vous traversez ! ».
+: « ayez confiance quand vous traversez ! ».
 
-## Second choc : les lignes électriques
+## Second choc : les lignes électriques
 
 Si certains pays nous avaient déjà habitués à une certaine cacophonie, le
 Vietnam est jusqu'ici le summum de ce que j'ai pu voir. Ce qui fait dire à
-certains que Spiderman est certainement vietnamien :)
+certains que Spiderman est certainement vietnamien :)
 
 ![Fils électriques à un carrefour à Hanoï](20180300-hanoi-fils-2.jpg)
 
 À juger par l'action de l'un de ces Spidermans, la lutte contre les pirates doit
-faire partie de leurs attributions : il a coupé une bonne dizaine de connexions
-de téléréseau en les laissant pendre dans le vide :
+faire partie de leurs attributions : il a coupé une bonne dizaine de connexions
+de téléréseau en les laissant pendre dans le vide :
 
 ![Un électricien perché sur une échelle coupe des fils électriques illégaux à Hanoï](20180300-hanoi-fils-electriques.jpg)
 
@@ -75,7 +75,7 @@ permettent de reposer les jambes (et travailler les bras grâce au kayak). Des
 paysages majestueux,
 [des singes curieux](https://en.wikipedia.org/wiki/White-headed_langur) (mais en
 voie d'extinction), de magnifiques oiseaux, tout cela avec moins de touristes
-que nous ne craignions : une bonne manière de lever le pied et aiguiser les
+que nous ne craignions : une bonne manière de lever le pied et aiguiser les
 sens.
 
 ![Greg et Souad sur un kayak à la baie d'Halong](20180300-halong-greg-souad-kayak.jpg "Cavernes et kayaks")
@@ -101,10 +101,10 @@ retour à Hanoï.
 
 ![Montée à côté des rizières en terrasse à Sapa](20180300-sapa-montee.jpg "... qui habite touuuut en haut de la montagne")
 
-![Greg terrasse un buffle d'eau à Sapa](20180300-sapa-buffle.jpg "Victoire !")
+![Greg terrasse un buffle d'eau à Sapa](20180300-sapa-buffle.jpg "Victoire !")
 
 ## BONUS
 
-![Plein de pattes dépassent sous une poule assise à Sapa](20180300-sapa-poule-avant.jpg "Combien de pattes a la poule ?")
+![Plein de pattes dépassent sous une poule assise à Sapa](20180300-sapa-poule-avant.jpg "Combien de pattes a la poule ?")
 
-![La poule debout et ses 18 poussins](20180300-sapa-poule-apres.jpg "Réponse : 38")
+![La poule debout et ses 18 poussins](20180300-sapa-poule-apres.jpg "Réponse : 38")

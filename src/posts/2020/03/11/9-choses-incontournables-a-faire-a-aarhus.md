@@ -11,7 +11,7 @@ Après notre
 passé deux jours à Aarhus, la deuxième ville du Danemark.
 
 Deuxième ville, mais avec ses 300'000 habitants, Aarhus est cinq fois plus
-petite que Copenhague. Ça se ressent tout de suite : il y a peu de trafic, et le
+petite que Copenhague. Ça se ressent tout de suite : il y a peu de trafic, et le
 centre-ville se traverse en vingt minutes à pied.
 
 On a adoré cette petite ville, et on aimerait partager avec vous 9 choses à ne
@@ -42,14 +42,14 @@ On a passé toute une matinée grise à la découvrir, et à écrire notre
 [article sur Hambourg](/2020/03/08/eau-et-poisson-une-journee-a-hambourg/) face
 à la mer.
 
-Dokk1 est déjà une raison suffisante de visiter Aarhus !
+Dokk1 est déjà une raison suffisante de visiter Aarhus !
 
 ## 2. Se balader à Aarhus Ø
 
 ![L'immeuble résidentiel AARhus, par le cabinet d'architecture Bjarke Ingels Group, à Aarhus Ø](20200407-121520.jpg "AARhus, par le cabinet d'architecture Bjarke Ingels Group")
 
 **Aarhus Ø** est une autre initiative du projet d'urbanisation _Urban Mediaspace
-Aarhus_. Mais cette fois, ce n'est pas un bâtiment, mais tout un quartier !
+Aarhus_. Mais cette fois, ce n'est pas un bâtiment, mais tout un quartier !
 
 Il est situé à l'est de la ville, sur une presqu'île où se trouvait le terminal
 conteneur du port de Aarhus. "Ø" est l'abbréviation de "est" et signifie aussi
@@ -70,7 +70,7 @@ Genevois), où on peut se baigner l'été et aller au sauna l'hiver, avant de
 sauter dans la mer (c'est le _bain de glace_, une tradition scandinave).
 
 On a "malheureusement" raté le bain de glace (c'est seulement ouvert les samedis
-et dimanches matin), mais c'est sur la liste pour notre prochaine visite !
+et dimanches matin), mais c'est sur la liste pour notre prochaine visite !
 
 ## 3. Nourrir un chevreuil
 
@@ -82,13 +82,13 @@ une forêt.
 Dans cette forêt, il y a un enclos.
 
 L'enclos est très grand (22 hectares), il contient en fait une partie de la
-forêt. C'est un **parc à cerf** : _Marselisborg Dyrehave_.
+forêt. C'est un **parc à cerf** : _Marselisborg Dyrehave_.
 
 Depuis Aarhus, on peut prendre un bus, traverser la forêt, entrer dans le parc
 et voir des cerf Sika, des chevreuils et des sangliers (on en a pas vu) en
 semi-liberté.
 
-On avait une pomme avec nous, et on a pu la donner à un chevreuil !
+On avait une pomme avec nous, et on a pu la donner à un chevreuil !
 
 ## 4. Monter sur le toît de Godsbanen
 
@@ -106,12 +106,12 @@ La fermeture de la gare de marchandises a eu un effet secondaire. Les rails qui
 y menaient ont été remplacés par
 l'[_Institut for (X)_](https://institutforx.dk/), un village auto-géré où l'on
 trouve cafés, bars, workshops, salles de concert... On l'a raté cette fois, mais
-on compte bien y faire un tour à notre prochaine visite !
+on compte bien y faire un tour à notre prochaine visite !
 
 Ce qu'on a pas raté, c'est le toit de béton de Godsbanen, où on peut monter
 profiter de la vue et du soleil.
 
-Bon, c'est vrai, il pleuvait, mais ça valait quand-même la peine !
+Bon, c'est vrai, il pleuvait, mais ça valait quand-même la peine !
 
 ## 5. Manger un morgenmad
 
@@ -125,7 +125,7 @@ tartine de rugbrød avec ce que vous voulez dessus (fromage, poisson, ...)
 
 Une bonne occasion de manger du pain est au **petit déjeuner**, ou _morgenmad_.
 
-On a mangé des excellents petits déjeuners pendant notre séjour :
+On a mangé des excellents petits déjeuners pendant notre séjour :
 
 - À [_La Cabra_](https://www.lacabra.dk/), un excellent café/torréfacteur qui
   exporte même son café jusqu'à Berlin. Le café est aussi une boulangerie, et
@@ -133,15 +133,15 @@ On a mangé des excellents petits déjeuners pendant notre séjour :
 - À [_Jumbo_](https://www.jumboaarhus.com/), un café qui fait aussi son propre
   pain et viennoiseries, et va jusqu'à moudre sa propre farine. On peut aussi y
   goûter le fameux _grød_ danois (du porridge).
-- À la maison : il suffit d'acheter un bon pain, un bon fromage et une bonne
-  moutarde, et on commence la journée avec du _smørrebrød_ maison !
+- À la maison : il suffit d'acheter un bon pain, un bon fromage et une bonne
+  moutarde, et on commence la journée avec du _smørrebrød_ maison !
 
 ## 6. Faire un jeu de société
 
 ![Jeux de société au Aarhus Brætspilscafé](20200406-193258.jpg "Aarhus Brætspilscafé")
 
 Le Danemark est connu pour son concept du _hygge_. Le site de Danemark tourisme
-l'expliquera mieux que nous :
+l'expliquera mieux que nous :
 
 > Essentiellement, hygge signifie créer une atmosphère chaleureuse et profiter
 > des belles choses de la vie avec les personnes que l’on aime. La chaude lueur
@@ -159,7 +159,7 @@ peut y boire un café, une bière, y partager des snacks, et bien sûr y trouver
 des centaines de jeux de société.
 
 En deux jours à Aarhus, on y est allés deux fois. Un bon plan hygge pour une
-après-midi pluvieuse !
+après-midi pluvieuse !
 
 ## 7. Voir la ville d'en haut
 
@@ -177,7 +177,7 @@ toit.
 Une plateforme surélevée offre une magnifique vue du centre-ville, et une
 passerelle vitrée et vertigineuse surplombe la rue principale.
 
-Un lieu à retenir pour prendre de la hauteur !
+Un lieu à retenir pour prendre de la hauteur !
 
 ## 8. Manger un hot dog
 
@@ -191,14 +191,16 @@ la sauce _remoulade_) ou les _tarteletter_ (des sortes de vol au vent en forme
 de tartelettes).
 
 Mais on a eu un coup de cœur pour un petit stand de **hot dogs** sur la place
-_Bispetorvet_, au pied de la cathédrale : _Børnenes kontors pølsevogn_.
+_Bispetorvet_, au pied de la cathédrale : _Børnenes Kontor_.
 
 Le vendeur est souriant et adorable, il a immigré à Aarhus il y a 40 ans et vend
 maintenant une variété de hot dogs, du classique au vegan en passant à un hot
 dog sauce sriracha.
 
 Un hot dog au soleil, après une balade dans le quartier latin, c'est
-extraordinaire !
+extraordinaire !
+
+_[On en a même fait un article !](/2020/03/17/de-la-street-food-au-danemark/)_
 
 ## 9. Apprendre à prononcer le nom de la ville
 
@@ -225,8 +227,8 @@ Aujourd'hui, ça s'écrit donc Aarhus, et ça se prononce toujours "or-rousse".
 
 ## Le voyage continue...
 
-Le Danemark ne se limite pas à Aarhus ! Pour nous, le voyage continue à
+Le Danemark ne se limite pas à Aarhus ! Pour nous, le voyage continue à
 Copenhague, avant de passer quelques jours sur l'île de Bornholm et notre retour
 à Berlin.
 
-À bientôt !
+À bientôt !

@@ -1,6 +1,6 @@
 ---
 id: 2423
-title: "Cinéma à Berlin : drei, zwei, eins, Aktion! 📽"
+title: "Cinéma à Berlin : drei, zwei, eins, Aktion! 📽"
 date: "2019-03-23 09:35:20"
 featured: "20190311-berlin-kino-international.jpg"
 author: "Clara & Robin"
@@ -64,35 +64,35 @@ mais les deux étaient en allemand.
 ## ... sauf quand la version originale est l'Allemand
 
 Il y a aussi une petite industrie du cinéma germanique, qui a récemment sorti
-quelques films très originaux :
+quelques films très originaux :
 
 ### Der Vorname (2018)
 
 ![Affiche du film "Der Vorname"](20190323-berlin-affiche-der-vorname.jpg)
 
-Ça vous dit quelque chose ? (indice : c'est
+Ça vous dit quelque chose ? (indice : c'est
 [Le Prénom](http://www.allocine.fr/film/fichefilm_gen_cfilm=188448.html))
 
 ### Mein Bester und Ich (2017)
 
 ![Affiche du film "Mein Bester und Ich"](20190323-berlin-affiche-mein-bester-und-ich.jpg)
 
-Ça vous dit quelque chose ? (indice, si il vous en faut un : c'est
+Ça vous dit quelque chose ? (indice, si il vous en faut un : c'est
 [Intouchables](http://www.allocine.fr/film/fichefilm_gen_cfilm=182745.html))
 
-_(Remarque : pour la défense du cinéma allemand, ce film est en fait une
+_(Remarque : pour la défense du cinéma allemand, ce film est en fait une
 traduction d'un remake américain de Intouchables)_
 
 ### Womit haben wir das verdient (2019)
 
 ![Affiche du film "Womit haben wir das verdient"](20190323-berlin-affiche-womit-haben-wir.jpg)
 
-Ça vous dit quelque chose ? (indice : c'est
+Ça vous dit quelque chose ? (indice : c'est
 [Qu'est-ce qu'on a fait au Bon Dieu](http://www.allocine.fr/film/fichefilm_gen_cfilm=222259.html))
 
 On a été voir aucune de ces pépites du cinéma local, mais ça nous tente. Un bon
-exercice d'allemand ! Au moins, pas le risque de ne pas comprendre l'histoire...
+exercice d'allemand ! Au moins, pas le risque de ne pas comprendre l'histoire...
 
-Sinon, vous avez des films en allemand à nous recommander ?
+Sinon, vous avez des films en allemand à nous recommander ?
 
 Bisous 😘

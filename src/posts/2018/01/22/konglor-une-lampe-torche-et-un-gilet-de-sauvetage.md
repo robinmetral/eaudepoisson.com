@@ -1,18 +1,18 @@
 ---
 id: 1290
-title: "Konglor : une lampe torche et un gilet de sauvetage"
+title: "Konglor : une lampe torche et un gilet de sauvetage"
 date: "2018-01-22 16:21:31"
 featured: "20180122-konglor-sortie-3.jpg"
 author: "Robin"
 ---
 
-_Sabaidii !_
+_Sabaidii !_
 
-On vous avait pas encore dit ? **On est au Laos** depuis une semaine (et si vous
+On vous avait pas encore dit ? **On est au Laos** depuis une semaine (et si vous
 voulez savoir pourquoi et comment, soyez patients, on vous écrit 😊). On vient
 de passer une semaine autour de Vientiane, la capitale et plus grande ville du
 pays. Mais n'allez pas vous imaginer une ville comme
-[Hà Nội](https://eaudepoisson.com/2018/01/07/ha-noi-4-secrets-a-decouvrir/) :
+[Hà Nội](https://eaudepoisson.com/2018/01/07/ha-noi-4-secrets-a-decouvrir/) :
 avec moins d'un million d'habitants et une atmosphère de petite ville
 provinciale, Vientiane n'a d'une capitale que le titre et les ambassades.
 
@@ -24,14 +24,14 @@ montagnes.
 
 ![Champ au pieds d'une chaîne de montagnes à Konglor](20180122-konglor-village.jpg "Vue ce matin de la fenêtre de notre chambre")
 
-> **- Pourquoi ici ?**
+> **- Pourquoi ici ?**
 >
 > Parce que tout au bout de ce village, si on suit la route de sable rouge en
 > évitant poules et nids-de-poule, on tombe sur l'entrée de la fameuse **grotte
 > de Konglor**.
 >
 > Clara avait lu que c'est **_LA_ grotte à voir en Asie du Sud-Est**. On
-> confirme ! (même si c'est notre première grotte 😬)
+> confirme ! (même si c'est notre première grotte 😬)
 
 ## Dans la grotte
 
@@ -39,9 +39,9 @@ Il est encore tôt et il n'y a qu'un autre couple de touristes devant nous quand
 on se présente au guichet. Les capitaines de pirogues motorisées attendent les
 visiteurs qu'ils accompagneront dans les entrailles de la Terre.
 
-> **- Comment ça, pirogue ?**
+> **- Comment ça, pirogue ?**
 >
-> J'allais oublier : la grotte se visite sur l'eau !
+> J'allais oublier : la grotte se visite sur l'eau !
 
 ![Robin devant les pirogues de la grotte de Konglor](20180122-konglor-pirogues.jpg)
 
@@ -56,10 +56,10 @@ moment, on débarque les pieds dans l'eau pour faire une partie à pied.
 De retour sur l'eau, je dois parfois presque me courber pour ne pas toucher la
 paroi supérieure avec mon man bun 😜 Ailleurs, elle semble très très très haute.
 Au retour, on apprend qu'un segment de la grotte culmine à **plus de 90 mètres
-de haut** !
+de haut** !
 
 On aperçoit des chauves-souris qu'on chasse avec le faisceau de nos lampes, et
-même le rarissime **yéti des grottes** :
+même le rarissime **yéti des grottes** :
 
 ![Le contour de la tête de Robin dans la grotte de Konglor](20180122-konglor-yeti.jpg)
 
@@ -73,26 +73,26 @@ l'autre côté de la montagne.
 ![La sortie de la grotte de Konglor](20180122-konglor-sortie-2.jpg)
 
 À peine réhabitués à la lumière du jour, on accoste sur les rives du village de
-Natane. C'est "authentique" : des femmes Laotiennes tissent des motifs sur des
+Natane. C'est "authentique" : des femmes Laotiennes tissent des motifs sur des
 grands métiers à tisser en bois, et on y vend du "café lao" (du Nescafé en
 poudre). Heureusement, il y a aussi un bébé chat 🐱
 
-Pour le retour, ça va plus vite : on est dans le sens du courant. On contourne
+Pour le retour, ça va plus vite : on est dans le sens du courant. On contourne
 la partie à pied et on ressort finalement du côté du village de Konglor.
 
-En un mot : **grandiose** !
+En un mot : **grandiose** !
 
 ## Infos pratiques
 
 Contre toute attente, le tourisme est encore très peu développé à Konglor. On se
 dit que c'est un peu à ça que devait ressembler le Vietnam dans les années 90...
-En tout cas, ça fait plaisir : il y a personne et on n'est pas pris pour des
+En tout cas, ça fait plaisir : il y a personne et on n'est pas pris pour des
 pote-monnaies sur pattes. Par contre, c'était pas facile d'y arriver.
 
 ### Arriver
 
 Beaucoup de voyageurs visitent Konglor car le village se trouve sur le fameux
-[loop de Thakhek](http://thebeautyisinthewalking.com/thakhek-loop-laos/) : 3 ou
+[loop de Thakhek](http://thebeautyisinthewalking.com/thakhek-loop-laos/) : 3 ou
 4 jours de moto dans la région avec lacs, jungle, _homestays_... et grottes.
 
 Nous, pas encore prêts pour un nouveau tour à moto après
@@ -121,7 +121,7 @@ traverse le village, mais Thongdam semble être la meilleure marché 🙂
 
 ### La grotte
 
-Ouverte **de 8h à 16h** - allez-y tôt ! Ça coûte **2'000 kip par personne** pour
+Ouverte **de 8h à 16h** - allez-y tôt ! Ça coûte **2'000 kip par personne** pour
 passer un premier portail, puis pour louer une pirogue et son capitaine c'est
 **110'000 kip pour 1 personne**, **120'000 kip pour 2**, ou **130'000 kip pour
 3**. Si vous êtes quatre, pas de chance.
@@ -148,7 +148,7 @@ gauche. Il est moins cher que la moyenne et la pinte de bière est 8'000 kip �
 
 Un bus direct repart à Vientiane tous les matins à 7h30 devant la Eco-Lodge.
 
-Pour continuer vers Paksé, au Sud, on avait deux options :
+Pour continuer vers Paksé, au Sud, on avait deux options :
 
 - partir à 11h, juste après notre visite de la grotte. Prendre trois tuk-tuks
   (Konglor-Nahin-Viengkham-Thakhek) puis un bus pour arriver très tard le soir à

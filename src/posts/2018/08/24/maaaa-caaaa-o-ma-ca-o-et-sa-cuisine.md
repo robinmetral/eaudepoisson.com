@@ -1,14 +1,14 @@
 ---
 id: 2097
-title: "Maaaa... caaaa... o ! Ma-ca-o 🎵 (et sa cuisine)"
+title: "Maaaa... caaaa... o ! Ma-ca-o 🎵 (et sa cuisine)"
 date: "2018-08-24 15:36:13"
 featured: "20180823-macao-forteresse-vue-clara.jpg"
 author: "Robin"
 ---
 
-_Recommandation de l'auteur : montez votre volume et ouvrez
+_Recommandation de l'auteur : montez votre volume et ouvrez
 [cette chanson sur YouTube](https://www.youtube.com/watch?v=FHb4a58UJPo) pour
-l'écouter pendant votre lecture ! 🎵_
+l'écouter pendant votre lecture ! 🎵_
 
 Hier, pour notre dernier jour à Hong Kong, on a passé la journée à Macao.
 
@@ -22,7 +22,7 @@ ils allaient au mall.
 ![Embarquement sur le ferry pour Macao à Hong Kong](20180823-hongkong-kowloon-china-ferry.jpg)
 
 La première chose qu'on remarque en arrivant à Macao, c'est l'énorme gratte-ciel
-doré en forme de flamme. Ou de fleur ? Difficile à dire. En tout cas, il est...
+doré en forme de flamme. Ou de fleur ? Difficile à dire. En tout cas, il est...
 remarquable.
 
 Dedans c'est un hôtel, et le casino _Grand Lisbon_.
@@ -34,7 +34,7 @@ la bouche de touristes ou de vieux Macanais et Macanaises.
 
 Coup de cœur pour un jeune — manifestement portugais — qui discutait dans sa
 langue natale avec une vieille dame asiatique dans le restaurant où on a mangé
-midi. Le portugais à Macao, c'est pas que pour le nom des rues !
+midi. Le portugais à Macao, c'est pas que pour le nom des rues !
 
 ![Entrée du restaurant Riquexó à Macao](20180823-macao-riquexo.jpg)
 
@@ -45,7 +45,7 @@ mangé portugais).
 
 On y a goûté le _minchi_, patates avec de la viande hachée (je dirais même
 viande éminchée, d'où _minchi_), et un plat de poisson, lui aussi avec des
-patates, le tout accompagné de riz. Super bon !
+patates, le tout accompagné de riz. Super bon !
 
 ![Repas au restaurant Riquexó à Macao](20180823-macao-riquexo-plats.jpg)
 
@@ -59,7 +59,7 @@ trouvait sur l'île du Sud, un peu trop loin pour nous.
 
 ![Pasteis de nata de Lord Stow's à Hong Kong](20180822-hongkong-natas-lord-stows.jpg "On avait goûté les natas de Lord Stow's à Hong Kong... je rejoins l'avis populaire 😍")
 
-Malgré tout, ceux qu'on a mangés au hasard par-ci par-là étaient super bons !
+Malgré tout, ceux qu'on a mangés au hasard par-ci par-là étaient super bons !
 Recette portugaise (consistance du style flan, e grillés dessus), et en général
 une pâte feuilletée mais parfois brisée (que j'aime moins).
 
@@ -67,7 +67,7 @@ une pâte feuilletée mais parfois brisée (que j'aime moins).
 
 On a aussi été acheter une boîte de biscuits secs aux amandes cuits au charbon,
 tradition que les autorités locales interdisent aujourd'hui — avec une exception
-pour une seule _pasteleria_ réputée !
+pour une seule _pasteleria_ réputée !
 
 ![Devanture de la pasteleria Chui Heong à Macao](20180823-macao-pasteleria.jpg)
 
@@ -90,4 +90,4 @@ arrivés transpirants à la forteresse qui surplombe la ville ; après avoir fou
 le béton des boulevards et les pavés du _Largo do Senado_ _; c_'est exténués
 mais satisfaits qu'on a repris le ferry pour Hong Kong.
 
-Une visite inoubliable !
+Une visite inoubliable !

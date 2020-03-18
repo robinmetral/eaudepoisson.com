@@ -1,6 +1,6 @@
 ---
 id: 2175
-title: "Chiang Mai, épisode 1 : le ciné à Maya 📽"
+title: "Chiang Mai, épisode 1 : le ciné à Maya 📽"
 date: "2018-11-26 14:02:59"
 featured: "20181126-chiang-mai-maya-sfx.jpg"
 author: "Clara & Robin"
@@ -17,13 +17,13 @@ dissimulé tout au fond d'une petite rue.
 On est ici aujourd'hui parce que Cottontree est tout près de Maya, où on a prévu
 d'aller après.
 
-> C'est quoi ça, "Maya" ?
+> C'est quoi ça, "Maya" ?
 
 On voit que vous habitez pas à Chiang Mai, vous 😉
 
 ## Maya, lifestyle shopping center 🕶
 
-Tout le monde connaît Maya : c'est un des cinq gros centres commerciaux, ou
+Tout le monde connaît Maya : c'est un des cinq gros centres commerciaux, ou
 _malls_, de Chiang Mai. Il y en a pas autant ici
 qu'[à Manille par exemple](https://eaudepoisson.com/2018/04/16/gratte-ciels-jeepneys-et-barbecue-bienvenue-a-manille/#les-journees-dans-les-malls),
 mais comme partout en Asie du Sud-Est, le mall fait partie intégrante de la
@@ -32,7 +32,7 @@ culture.
 ![Un sapin de Noël devant Maya à Chiang Mai](20181126-chiang-mai-maya.jpg "Maya décoré pour Noël (non, ça ne se fête pas ici, mais ça fait du business)")
 
 En Asie du Sud-Est, on ne va pas au mall que pour faire les courses ou faire du
-shopping, non :
+shopping, non :
 
 - on s'y promène entre amis ou en couple 🛍
 - on se prend en photo devant les magasins, on s'est fait beau/belle pour
@@ -41,22 +41,22 @@ shopping, non :
   ([notre premier jour au Vietnam](https://eaudepoisson.com/2017/10/21/deux-jours-a-saigon-scooters-et-plats-vietnamiens/),
   la famille de Clara nous avait emmenés souper dans un mall) 🍜
 - on y joue au bowling ou se fait masser sur des chaises de massage 🎳
-- et bien plus encore !
+- et bien plus encore !
 
-**En deux mots : divertissement climatisé.**
+**En deux mots : divertissement climatisé.**
 
 ![Escalators de Maya à Chiang Mai](20181126-chiang-mai-maya-escalators.jpg "Les escalators de Maya")
 
 ## Le ciné à Maya 🎞
 
-Mais pour nous, Maya, c'est surtout son ciné : SFX Cinema.
+Mais pour nous, Maya, c'est surtout son ciné : SFX Cinema.
 
 On y va environ une fois par semaine, parce qu'on aime bien aller au cinéma, et
 que ça coûte pas trop cher en Thaïlande.
 
 ![L'entrée du SFX Cinema de Maya à Chiang Mai](20181126-chiang-mai-maya-sfx.jpg "SFX Cinema")
 
-Au fil des mois, voilà ce qu'on a appris à propos du ciné à Maya :
+Au fil des mois, voilà ce qu'on a appris à propos du ciné à Maya :
 
 - Les films sortent en salle le jeudi (et pas le mercredi comme en Suisse et
   France ou le vendredi aux USA) 🗓
@@ -65,7 +65,7 @@ Au fil des mois, voilà ce qu'on a appris à propos du ciné à Maya :
 - Les places sont numérotées et certaines rangées sont plus chères que d'autres
 - Les prix sont raisonnables mais très différents selon les jours et compliqués
   à comprendre. Quand il y a pas d'exceptions (jour de sortie en salle, fêtes,
-  etc.), les voici (pour des CHF, facile, divisez par 33 😜)  :
+  etc.), les voici (pour des CHF, facile, divisez par 33 😜)  :
 
 | Lundi | Mardi | Mercredi | Jeudi | Vendredi | Samedi | Dimanche |
 | ----- | ----- | -------- | ----- | -------- | ------ | -------- |
@@ -83,7 +83,7 @@ Avant le début du film, il y a les pubs et les bandes-annonces. Rien de spécia
 jusqu'ici.
 
 Les pubs sont en majorité pour des boissons (Coca, Fanta, etc.) et pour des
-voitures. On commence à connaître certains slogans :
+voitures. On commence à connaître certains slogans :
 
 - _"Live Alive_, Toyota"
 - "Suzuki, _Way Of Life"_
@@ -93,13 +93,13 @@ Les bandes-annonces sont beaucoup trop longues, tellement que parfois on n'est
 plus sûrs que ça vaut encore la peine d'aller voir le film. Environ la moitié
 des films à l'affiche sont thaï, et l'autre moitié surtout américains.
 
-> C'est comment les films thaï ?
+> C'est comment les films thaï ?
 
 Vous voulez pas savoir.
 
 Et finalement, les lumières s'éteignent et le film commencent...
 
-Ah non, d'abord il y a ça :
+Ah non, d'abord il y a ça :
 
 ![Écran pour l'hymne du roi au cinéma à Chiang Mai](20181126-chiang-mai-maya-sfx-hymne.jpg)
 

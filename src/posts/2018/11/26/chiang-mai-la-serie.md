@@ -6,11 +6,11 @@ featured: "20180629-chiang-mai-vue-appart.jpg"
 author: "Clara & Robin"
 ---
 
-L'autre jour, on nous a envoyé ce message :
+L'autre jour, on nous a envoyé ce message :
 
 > _Depuis le 29 août, les poissons ne sortent plus la tête de l'eau..._
 
-C'est vrai :  ça fait trois mois qu'on a rien publié ici. Qu'est-ce qui se passe
+C'est vrai :  ça fait trois mois qu'on a rien publié ici. Qu'est-ce qui se passe
 ? 😮
 
 ## On habite à Chiang Mai
@@ -26,7 +26,7 @@ où on s'était notamment
 [essayés à la méditation](https://eaudepoisson.com/2018/05/26/inspirer-expirer-inspi-oh-un-avion/).
 
 **On s'y est très vite sentis chez nous.** On a repris une routine (après 8 mois
-de voyage, on en rêvait !) : on travaille tous les jours dans des cafés, on va
+de voyage, on en rêvait !) : on travaille tous les jours dans des cafés, on va
 au marché tous les deux jours, on cuisine à la maison, on apprend le thaï les
 mardis et les vendredis, on fait des jeux de société le samedi, etc.
 
@@ -40,7 +40,7 @@ estompée.
 Le 3 décembre, on rend les clés de notre appartement et on part pour le Laos,
 puis la Suisse.
 
-Chiang Mai va nous manquer !
+Chiang Mai va nous manquer !
 
 Et ce n'est que maintenant, alors qu'on est sur le point de refaire nos sacs à
 dos, qu'on met nos expériences en perspective.
@@ -48,7 +48,7 @@ dos, qu'on met nos expériences en perspective.
 **Pour marquer le coup, on va publier une série de mini-articles sur des thèmes
 qui ont marqué nos six mois à Chiang Mai.**
 
-On a commencé par un brainstorm, et voici nos idées :
+On a commencé par un brainstorm, et voici nos idées :
 
 - ✅
   [apprendre le thaï (la langue)](https://eaudepoisson.com/2018/12/07/chiang-mai-episode-4-apprendre-le-thai/)
@@ -70,11 +70,11 @@ On a commencé par un brainstorm, et voici nos idées :
 - Santitham (notre quartier)
 - sortir de la ville, les environs de Chiang Mai
 
-On ne garantit pas qu'on écrira un article pour chaque thème : on va se laisser
+On ne garantit pas qu'on écrira un article pour chaque thème : on va se laisser
 inspirer. Certains feront peut-être un paragraphe, d'autres seront plus longs,
 et on essayera d'y mettre beaucoup de photos 📷
 
-Et vous, qu'est-ce que vous voulez lire ? Vos suggestions/votes sont les
+Et vous, qu'est-ce que vous voulez lire ? Vos suggestions/votes sont les
 bienvenus 😊
 
-À tout bientôt ! 😘
+À tout bientôt ! 😘

@@ -1,20 +1,20 @@
 ---
 id: 2335
-title: "Chiang Mai, épisode 6 : manger dehors 🌶"
+title: "Chiang Mai, épisode 6 : manger dehors 🌶"
 date: "2018-12-17 10:07:56"
 featured: "20180805-chiang-mai-curry-omelette.jpg"
 author: "Clara & Robin"
 ---
 
-Pourquoi on voyage ? Pour découvrir de nouvelles cultures, pour ouvrir les yeux
+Pourquoi on voyage ? Pour découvrir de nouvelles cultures, pour ouvrir les yeux
 sur d'autres façons de vivre, parce que c'est une bonne situation, ça... Non,
 mais sans blague. En vrai, comme l'un de nos fidèles lecteurs nous l'a fait
-remarquer :
+remarquer :
 
 > il n’y en a presque que pour la bouffe
 
-Ben oui, soyons honnêtes : voyager ça permet de bien manger. Et misère de
-misère, on remarque qu'on ne vous a jamais parler de la cuisine thaïe ! 😱
+Ben oui, soyons honnêtes : voyager ça permet de bien manger. Et misère de
+misère, on remarque qu'on ne vous a jamais parler de la cuisine thaïe ! 😱
 
 Comme on dit, mieux vaut tard que jamais.
 
@@ -26,7 +26,7 @@ qui mangeaient traditionnellement avec les mains. C'est Rama V, roi de Thaïland
 entre le XIXe et le XXe siècle, qui aurait introduit la fourchette et la
 cuillère après un voyage en Europe.
 
-**Comment bien manger avec des *chǒrn sôrm* en Thaïlande ?**
+**Comment bien manger avec des *chǒrn sôrm* en Thaïlande ?**
 
 Tenir la fourchette de la main gauche et la cuillère de la main droite. À l'aide
 de la fourchette, pousser la nourriture dans la cuillère qui est ensuite amenée
@@ -34,7 +34,7 @@ de la fourchette, pousser la nourriture dans la cuillère qui est ensuite amené
 
 Après plusieurs mois de fourchette-cuillère, devinez quels sont les services
 dont on se saisit par réflexe lorsqu'on nous sert une lasagne, une salade ou
-plus ou moins n'importe quoi ? (_Réponse: fourchette + cuillère_)
+plus ou moins n'importe quoi ? (_Réponse: fourchette + cuillère_)
 
 ![Clara mange un curry thai à Chiang Mai](20180805-chiang-mai-clara-mange.jpg)
 
@@ -83,7 +83,7 @@ ma-mûang_ (riz gluant au lait de coco et à la mangue, miam).
 
 Malgré nous, on est tombés amoureux de cette cuisine hors du commun (et très
 piquante). Ça pique d'ailleurs tellement que notre table ressemble généralement
-à ça à la fin d'un repas :
+à ça à la fin d'un repas :
 
 ![Mouchoirs utilisés sur la table après un repas Isaan à Houey Xay](20181204-houey-xay-mouchoirs.jpg)
 
@@ -115,7 +115,7 @@ celle au _tom yam_ qui est acide et incroyablement parfumée.
 ### Du Sud 🌶🌶🌶🌶🌶
 
 On n'a pas beaucoup mangé sudiste, étant plus ou moins à l'opposé du pays. Ce
-qu'on en retient : c'est très très très très très piquant.
+qu'on en retient : c'est très très très très très piquant.
 
 ![Plat taay à Maya à Chiang Mai](20181126-chiang-mai-aahaan-taay.jpg "Porc haché (très) pimenté")
 
@@ -138,7 +138,7 @@ QG japonais du quartier.
 **Hinode** est un tout petit restaurant familial où c'est le grand-papa qui est
 aux fourneaux. Il est ultra-popuaire auprès des vieux expats Japonais qui se
 retrouvent autour d'un okonomiyaki (pancake de riz et plein de bonnes choses),
-de gyozas (des raviolis) et de bières Chang (avec glaçons en Thaïlande !).
+de gyozas (des raviolis) et de bières Chang (avec glaçons en Thaïlande !).
 
 On est souvent les seuls non-Japonais de la boutique et on se demande bien
 pourquoi.
@@ -149,7 +149,7 @@ pourquoi.
 
 ### Burgers à Arno / Goodsouls
 
-Le meilleur burger traditionnel de la ville ? Sans hésiter, on choisit **Arno**.
+Le meilleur burger traditionnel de la ville ? Sans hésiter, on choisit **Arno**.
 Faisant également office de boucher (de luxe), leurs cuisiniers doivent être les
 seuls de la ville à savoir préparer un steak de bœuf saignant comme on les aime.
 
@@ -176,10 +176,10 @@ largement les litres de transpiration perdus sur le chemin.
 [Florian](https://eaudepoisson.com/2018/07/02/un-mois-avec-florian-on-recapitule/)
 pourra en témoigner, la nourriture birmane est super _underrated_.
 
-À Chiang Mai, il y a un petit resto tenu par des expats (réfugiés ?) birmans où
+À Chiang Mai, il y a un petit resto tenu par des expats (réfugiés ?) birmans où
 on retrouve les saveurs de notre voyage au Myanmar.
 
-Voilà ce qu'on y commandait systématiquement :
+Voilà ce qu'on y commandait systématiquement :
 
 ![Repas au birman à Chiang Mai](20180525-chiang-mai-birman.jpg "En bas, riz shan aux tomates ; en haut, curry d'aubergines ; à droite, salade aux feuilles de thé")
 
@@ -187,7 +187,7 @@ Oui, on sait exactement ce que vous vous demandez.
 
 > Après avoir tant goûté, humé, bu et parlé de nourriture, à quel plat est-ce
 > que Robin et Clara décernent-ils finalement le titre de "Plat le plus bon du
-> monde" ?
+> monde" ?
 
 Après de longues délibérations du panel d'experts, le titre de "Plat le plus bon
 du monde" est décerné à... (roulement de tambour)... la fondue suisse 🎉

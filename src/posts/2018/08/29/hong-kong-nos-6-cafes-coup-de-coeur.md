@@ -1,6 +1,6 @@
 ---
 id: 2056
-title: "Hong Kong : nos 6 cafés coup de cœur ☕❤"
+title: "Hong Kong : nos 6 cafés coup de cœur ☕❤"
 date: "2018-08-29 12:12:02"
 featured: "20180819-hongkong-cafe-why50.jpg"
 author: "Clara & Robin"
@@ -16,7 +16,7 @@ C'est comme ça qu'on aime visiter une ville (ça,
 [la street food](https://eaudepoisson.com/2017/11/08/vous-avez-dit-street-food/),
 et plus récemment
 [le street art](https://eaudepoisson.com/2018/08/22/au-detour-dune-ruelle-street-art-a-hong-kong/)),
-qu'on décide quel quartier découvrir, et qu'on rythme nos journées !
+qu'on décide quel quartier découvrir, et qu'on rythme nos journées !
 
 Voici nos 6 cafés coups de cœur, et un coup d’œil dans notre quotidien 😉
 
@@ -34,7 +34,7 @@ le café se remplit).
 
 ![Cappuccino à Favilla à Hong Kong](20180822-hongkong-cafe-favilla-2.jpg)
 
-![Sac de café torréfié par Blooom à Favilla à Hong Kong](20180822-hongkong-cafe-favilla-3.jpg "Un des meilleurs cafés que Robin a bu à Honk Kong ! Des grains colombiens torréfiés par Blooom à Macao (où on leur a rendu visite)")
+![Sac de café torréfié par Blooom à Favilla à Hong Kong](20180822-hongkong-cafe-favilla-3.jpg "Un des meilleurs cafés que Robin a bu à Honk Kong ! Des grains colombiens torréfiés par Blooom à Macao (où on leur a rendu visite)")
 
 **Favilla**, 7-9 Hoi Kwong Street, Quarry Bay
 
@@ -50,7 +50,7 @@ Un seul barista, du café torréfié en Italie et vainqueur de plein de prix, et
 quelques petites tables toutes serrées. Pas le meilleur endroit pour travailler,
 mais une super pause café sur le continent.
 
-Et surtout, c'est là que Clara a bu son latte préféré de la ville !
+Et surtout, c'est là que Clara a bu son latte préféré de la ville !
 
 **Green Door**, 3 Granville Circuit, Tsim Sha Tsui
 
@@ -63,8 +63,8 @@ _Central_, le centre économique et business de la ville. C'est une bonne halte
 au milieu des fameux escaliers roulants qui amènent les pendulaires des flancs
 du Mont Victoria à Queens Road, l'artère principale de la ville.
 
-Le café y est excellent, et surtout c'est un espace parfait pour travailler :
-excellent wifi, grande table commune, assez tranquille, tout ce qu'il faut !
+Le café y est excellent, et surtout c'est un espace parfait pour travailler :
+excellent wifi, grande table commune, assez tranquille, tout ce qu'il faut !
 
 **Hazel & Hershey**, 69 Peel Street, Central
 
@@ -75,7 +75,7 @@ japonaise. Le propriétaire en a un qui est apparemment très mignon, mais qui
 était pas là quand on a essayé ce café.
 
 Il est situé au nord de Kowloon, ce qui en fait une bonne excuse pour visiter
-cette zone plus locale que _Tsim Sha Tsui_ ou _Central_ !
+cette zone plus locale que _Tsim Sha Tsui_ ou *Central* !
 
 Un très bon café, des petits déjeuners qui donnent envie (on les a pas goûtés),
 et un espace sympa pour travailler quelques heures.
@@ -107,7 +107,7 @@ agréables où travailler contre les murs et la vitre.
 
 En général, on recommande d'éviter les chaînes de cafés à Hong Kong.
 
-La raison est simple : celles qu'on a testées (Coffee Academics, Brew Bros, 18
+La raison est simple : celles qu'on a testées (Coffee Academics, Brew Bros, 18
 Grams) semblent pensées pour les employés qui font une pause au bureau. Leurs
 espaces sont petits, on ne peut parfois même pas s'y asseoir, le café est servi
 dans des tasses en papier à emporter... vous voyez l'idée.
@@ -116,7 +116,7 @@ The Cupping Room est l'exception qui confirme la règle.
 
 La branche de _Sheung Wan_ en tout cas est tranquille, spacieuse, lumineuse et
 parfaite pour s'y installer et travailler. Le café y est très bon et le staff
-super gentil ! En plus, elle est parfaitement située pour commencer ou terminer
+super gentil ! En plus, elle est parfaitement située pour commencer ou terminer
 (ou les deux) votre
 [balade street art à Sheung Wan](https://eaudepoisson.com/2018/08/22/au-detour-dune-ruelle-street-art-a-hong-kong/).
 
@@ -144,14 +144,14 @@ Road West, Sai Ying Pun) et **Preface** (7 Lau Li Street, Causeway Bay).
 
 Et finalement, pour sa magnifique librairie et le cinéma juste à côté,
 **KUBRIK** (3 Public Square Street, Yau Ma Tei). Mais attention, beaucoup de
-monde et pas de wifi !
+monde et pas de wifi !
 
 ![La café-librairie.cinéma KUBRIK à Hong Kong](20180818-hongkong-cafe-kubrik.jpg)
 
 On vous laisse — on va boire un café.
 
 PS. Si vous aussi vous êtes pressés d'aller boire un café à Hong Kong, voilà un
-récapitulatif pour vous aider !
+récapitulatif pour vous aider !
 
 _Note: les étoiles pour le café se réfèrent au café filtre de Robin. Le latte de
 Clara n'est pas toujours son préféré aux mêmes endroits._

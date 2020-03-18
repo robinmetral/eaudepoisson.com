@@ -1,13 +1,13 @@
 ---
 id: 1609
-title: "Gratte-ciels, jeepneys et barbecue : bienvenue à Manille"
+title: "Gratte-ciels, jeepneys et barbecue : bienvenue à Manille"
 date: "2018-04-16 10:15:28"
 featured: "20180414-manille-jeepney-3.jpg"
 author: "Clara & Robin"
 ---
 
-On vous le disait dans notre dernière newsletter : on est à Manille depuis
-mercredi ! Les Philippines, c’est un nouveau chapitre dans notre voyage. Après 6
+On vous le disait dans notre dernière newsletter : on est à Manille depuis
+mercredi ! Les Philippines, c’est un nouveau chapitre dans notre voyage. Après 6
 mois au Vietnam, c’est la première fois qu’on reprend l’avion
 ([en compensant notre empreinte carbone](https://eaudepoisson.com/2017/10/06/on-compense-le-bilan-carbone-de-notre-vol/)).
 Et contrairement à
@@ -38,11 +38,11 @@ une chambre au 9ème étage d’une tour de 24.
 
 Il nous reste plein d'autres villes et quartiers à explorer. Pour le moment on
 est surtout restés autour de Makati, avec un petit saut au _Chinatown_ de
-Manille :
+Manille :
 
 ![Le quartier de Binondo à Manille](20180412-manille-chinatown.jpg "Binondo, ou Chinatown")
 
-Rien à voir avec Makati ! Apparemment il y a aussi un _Little India_, et bien
+Rien à voir avec Makati ! Apparemment il y a aussi un _Little India_, et bien
 plus encore. À découvrir 🙃
 
 ## La "simplicité" des transports publics
@@ -117,14 +117,14 @@ habitués. Certains malls sont plutôt agréables, spacieux, lumineux et
 tranquilles. C'est comme à l’extérieur, mais avec mois de trafic et en moins
 chaud.
 
-Parfois, on oublie presque qu’on est dans un mall ! Hier, on a bu une bière
+Parfois, on oublie presque qu’on est dans un mall ! Hier, on a bu une bière
 artisanale dans un espace designé comme une halle industrielle new-yorkaise. Il
 y avait même des craquelures artificielles dans le sol en béton !
 
 ## Fini les bébé-tabourets et les herbes aromatiques
 
 De ce qu'on a pu essayer jusqu'à maintenant, la cuisine locale est très viandue.
-Encore plus qu'au Vietnam. Le plat de base semble être :
+Encore plus qu'au Vietnam. Le plat de base semble être :
 
 - du riz à l'ail
 - un œuf
@@ -142,7 +142,7 @@ L'autre jour, ça nous avait trop manqué. On a ignoré les 36°C à l'ombre, et
 
 ![Clara touille la fondue](20180413-manille-fondue.jpg)
 
-Trop bon ! On s'est retrouvés à humer l'arôme du fromage au bout de nos
+Trop bon ! On s'est retrouvés à humer l'arôme du fromage au bout de nos
 fourchettes en gloussant incontrôlablement.
 
 Ce qui nous fait aussi un choc, c'est la street food. Ici, personne ne mange
@@ -158,9 +158,9 @@ banane qui sentent super bon.
 
 ![Clara mange une brochette de bananes grillées](20180411-manille-bananes.jpg "On a pas pu y résister")
 
-## Vous pensiez vraiment qu'on allait terminer cet article sans parler de café ?
+## Vous pensiez vraiment qu'on allait terminer cet article sans parler de café ?
 
-Comme au Vietnam, on a trouvé plein de cafés sympa ici dans le Grand Manille !
+Comme au Vietnam, on a trouvé plein de cafés sympa ici dans le Grand Manille !
 La plupart sont d’ailleurs à Makati, là où on loge (et c'est pas une
 coïncidence).
 
@@ -181,15 +181,15 @@ travailler.
 Quand c'est vraiment nécessaire (comme l’autre jour pour un Skype professionnel)
 on va dans un _coworking space_. Celui qu’on a testé avait une connexion
 irréprochable, mais l’atmosphère reste très différente. Le combo wifi + café de
-spécialité nous manque déjà !
+spécialité nous manque déjà !
 
-Et voilà ! On reste encore à Makati une petite semaine, et ensuite on prend le
+Et voilà ! On reste encore à Makati une petite semaine, et ensuite on prend le
 ferry pour l'île de Palawan. On pensait visiter une autre région des
 Philippines, mais les distances sont tellement énormes qu'on préfère prendre le
 temps et explorer le Grand Manille plus en profondeur 😊
 
 Sur Palawan, on va faire une semaine de cours de voile avant de reprendre le
 ferry pour la capitale et un vol pour la Thaïlande. On vous donnera des
-nouvelles ! ⛵
+nouvelles ! ⛵
 
 Bisous 😘

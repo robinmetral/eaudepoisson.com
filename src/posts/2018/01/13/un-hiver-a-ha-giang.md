@@ -15,9 +15,9 @@ qui parleront d'elles-mêmes, agrémentées d'extraits du carnet de Robin.
 **Jour 1 / Route QL 4C / 15km avant Yên Minh**
 
 Glacés, mouillés, on s'arrête au bord de la route devant un panneau indiquant la
-vente de phở. Par chance, malgré l'heure tardive pour dîner, il y en a encore !
+vente de phở. Par chance, malgré l'heure tardive pour dîner, il y en a encore !
 On retire nos ponchos trempés et prend place dans une petit pièce éclairée de
-néons. Tout à coup, "_Miu !"_, un bébé chat surgit. Il réclame des caresses mais
+néons. Tout à coup, "_Miu !"_, un bébé chat surgit. Il réclame des caresses mais
 surtout du phở gà. On lui donne un morceau de poulet et beaucoup de tendresse ;
 il nous donne chaud au cœur dans ce monde humide et froid. Quand on se lève pour
 reprendre la route, il saute sur le tabouret et se dresse, pattes avant contre
@@ -40,7 +40,7 @@ village était couvert d'un manteau de neige. On nous invite à nous réchauffer
 près des braises. Tout le monde se serre autour du petit grill. Je pose mes
 baskets dessus, elles n'ont pas séché depuis hier. Comme ça, au moins, elles
 seront chaudes. On mange le meilleur phở du village, paraît-il, où cinq maisons
-se courent après. On veut bien le croire : rien de mieux qu'une soupe chaude par
+se courent après. On veut bien le croire : rien de mieux qu'une soupe chaude par
 cette température. Quand on dit que le phở vient du Nord, ça doit être d'ici
 qu'on parle, pas de
 [Hà Nội](https://eaudepoisson.com/2018/01/07/ha-noi-4-secrets-a-decouvrir/). On
@@ -54,13 +54,13 @@ l'intérieur.
 
 **Jour 3 / Route QL 4C / Ville de Đồng Văn**
 
-Incroyable mais vrai : ce matin, il fait encore plus froid qu'hier. Cette fois
+Incroyable mais vrai : ce matin, il fait encore plus froid qu'hier. Cette fois
 on n'a pas le choix, impossible de faire les 100km quotidiens en shorts. Une
 visite au marché s'impose. On dépasse les fruits, les légumes et les poissons
 encore vivants dans des grandes bassines en plastique. Il fait trop froid pour
 chercher bien loin, encore moins pour marchander. On s'approche d'une jeune
 vendeuse de vêtements, et bientôt, on enfile nos nouveaux achats. Pour 200'000
-VND, un peu moins de 10 CHF, on a :
+VND, un peu moins de 10 CHF, on a :
 
 - une écharpe pour Clara
 - des gants pour la moto
@@ -89,7 +89,7 @@ orangée dans la nuit noire. Mes paumes deviennent bientôt noires comme la nuit
 noires comme les charbons que notre hôte déplace. Il discute avec Clara en
 vietnamien, je suis surpris de comprendre pas mal de choses. Il est de 1995,
 comme moi. On lui dit que la région est magnifique. Il répond qu'il ne saurait
-pas dire : il n'a jamais quitté la province. Il reste et travaille pour
+pas dire : il n'a jamais quitté la province. Il reste et travaille pour
 contribuer aux besoins de sa famille. En observant les voyageurs qui vont et
 viennent sous son toit, il avait imaginé qu'à l'étranger, on travaille 6 mois
 dans l'année et voyage pendant les 6 autres. Si j'étais né ailleurs, dans un
@@ -104,7 +104,7 @@ patates douces sont vraiment trop bonnes.
 
 11h30. On est partis tôt ce matin et on a déjà fait la moitié de l'itinéraire
 d'aujourd'hui - le dernier. À Tam Sơn les nuages se dissipent et dévoilent un
-soleil qui réchauffe nos corps et nos cœurs. Il fait presque chaud ! Plus besoin
+soleil qui réchauffe nos corps et nos cœurs. Il fait presque chaud ! Plus besoin
 d'utiliser le poncho comme coupe-vent, et à l'arrêt sur cette terrasse j'enlève
 même ma veste. Souvenirs des beaux jours au restaurant du Crêt-du-Midi lors
 d'une journée de ski. Une douce chaleur ranime ma peau engourdie. Après ce plein
