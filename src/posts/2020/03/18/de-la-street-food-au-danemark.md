@@ -23,7 +23,7 @@ qu'il y a un peu partout au Danemark.
 ![Un wagon à saucisse ou pølsevogn à Copenhague](20200408-174855.jpg "Un wagon à saucisse à Copenhague")
 
 Au pølsevogn, on choisit sa saucisse et – pour les pros – on customise les
-différents attributs son hot dog :
+différents attributs de son hot dog :
 
 - **la saucisse** : bouillie, grillée, de Vienne, de Francfort, les pølsevogne
   en offrent toute une variété. Mention spéciale pour la _rød pølse_, ou
