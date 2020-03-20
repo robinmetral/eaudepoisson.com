@@ -24,13 +24,27 @@ const PostsList = ({ posts }) => (
       >
         <Link to={post.fields.slug}>
           <div
-            css={theme => css`
-              margin: 0 -${theme.sizes[0]};
+            css={css`
+              /* this container is full width, the image size will be
+              limited by the maxWidth from the GraphQL query */
+              width: 100vw;
+              position: relative;
+              left: 50%;
+              right: 50%;
+              margin-left: -50vw;
+              margin-right: -50vw;
             `}
           >
             <Img
               fluid={post.frontmatter.featured.localFile.childImageSharp.fluid}
               alt={post.frontmatter.title}
+              style={{
+                // prevents the image from stretching above its width
+                maxWidth:
+                  post.frontmatter.featured.localFile.childImageSharp.fluid
+                    .presentationWidth,
+                margin: "0 auto",
+              }}
               css={css`
                 box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
                 transition: all 0.4s ease 0s;

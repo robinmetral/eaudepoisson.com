@@ -27,6 +27,7 @@ export const LatestPostsQuery = graphql`
               childImageSharp {
                 fluid(maxHeight: 400, maxWidth: 1024, cropFocus: ENTROPY) {
                   ...GatsbyImageSharpFluid
+                  presentationWidth
                 }
               }
             }

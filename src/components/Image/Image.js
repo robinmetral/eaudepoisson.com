@@ -29,9 +29,15 @@ const Image = ({ src, alt, title }) => {
   return (
     <figure>
       <div
-        css={theme => css`
-          margin: 0 -${theme.sizes[0]};
-          overflow: hidden;
+        css={css`
+          /* this container is full width, the image size will be
+          limited by the maxWidth from the GraphQL query */
+          width: 100vw;
+          position: relative;
+          left: 50%;
+          right: 50%;
+          margin-left: -50vw;
+          margin-right: -50vw;
         `}
       >
         <Img

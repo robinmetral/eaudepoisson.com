@@ -13,6 +13,7 @@ const FeaturedImage = ({ src, alt, animate }) => {
             childImageSharp {
               fluid(maxHeight: 400, maxWidth: 1024, cropFocus: ENTROPY) {
                 ...GatsbyImageSharpFluid
+                presentationWidth
               }
             }
           }
@@ -27,14 +28,25 @@ const FeaturedImage = ({ src, alt, animate }) => {
 
   return (
     <div
-      css={theme => css`
-        overflow: hidden;
-        margin: 0 -${theme.sizes[0]};
+      css={css`
+        /* this container is full width, the image size will be
+        limited by the maxWidth from the GraphQL query */
+        width: 100vw;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
       `}
     >
       <Img
         fluid={image.localFile.childImageSharp.fluid}
         alt={alt}
+        style={{
+          // prevents the image from stretching above its width
+          maxWidth: image.localFile.childImageSharp.fluid.presentationWidth,
+          margin: "0 auto",
+        }}
         css={
           animate &&
           css`
