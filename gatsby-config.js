@@ -77,12 +77,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-cache`,
       options: {
-        // note: this should be removed when caching is handled
-        // in gatsby-source-s3 as it bloats up cache size
-        cachePublic: true,
+        extraDirsToCache: ["public/static"],
       },
     },
-
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
