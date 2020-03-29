@@ -1,7 +1,7 @@
 {
   "name": "eaudepoisson",
   "private": true,
-  "description": "",
+  "description": "Source of http://www.eaudepoisson.com, built with Gatsby",
   "version": "1.0.0",
   "author": "Robin Métral <robin@metral.ch>",
   "dependencies": {

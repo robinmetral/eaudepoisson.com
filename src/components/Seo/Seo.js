@@ -1,10 +1,3 @@
-/**
- * SEO component that queries for data with
- *  Gatsby's useStaticQuery React hook
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
-
 import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
@@ -34,7 +27,7 @@ function Seo({ description, lang, meta, title }) {
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
-      defaultTitle={site.siteMetadata.title}
+      defaultTitle={`${site.siteMetadata.title} | ${metaDescription}`}
       meta={[
         {
           name: `description`,
@@ -74,9 +67,9 @@ function Seo({ description, lang, meta, title }) {
 }
 
 Seo.defaultProps = {
-  lang: `en`,
+  lang: `fr`,
   meta: [],
-  description: ``,
+  description: `Clara & Robin en Asie du Sud-Est`,
 }
 
 Seo.propTypes = {
