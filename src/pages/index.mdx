@@ -22,7 +22,6 @@ export const LatestPostsQuery = graphql`
           title
           date
           featured {
-            Url
             localFile {
               childImageSharp {
                 fluid(maxHeight: 400, maxWidth: 1024, cropFocus: ENTROPY) {
