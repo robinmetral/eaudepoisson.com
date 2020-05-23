@@ -21,7 +21,7 @@ Celle qu'on préfère, c'est celle des Mexicains.
 ![Un dessin d'un rond dans un rond](20180619-mexicains-simple.png)
 
 <details>
-<summary>Voire la réponse (cliquez pour révéler)</summary>
+<summary>Voir la réponse (cliquez pour révéler)</summary>
 C'est un Mexicain vu du ciel (avec son sombrero !)
 </details>
 
