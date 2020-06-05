@@ -4,3 +4,7 @@
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+
+[[redirects]]
+  from = "/:year/:month/:date/:slug"
+  to = "/:slug"

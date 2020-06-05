@@ -39,13 +39,10 @@ Ici, on les résume en quelques phrases et quelques photos.
 
 ## Treehouse
 
-C'est ainsi que se termine
-[notre série sur Chiang Mai](https://eaudepoisson.com/2018/11/26/chiang-mai-la-serie/)
-!
+C'est ainsi que se termine [notre série sur Chiang Mai](/chiang-mai-la-serie/) !
 
 On sait, on n'a pas écrit un article pour chacune de nos idées, mais dans
 quelques jours on sera de retour en Suisse, et on devra se concentrer sur un
-nouveau
-[choc culturel](https://eaudepoisson.com/2017/10/29/top-7-du-choc-culturel-au-vietnam/).
+nouveau [choc culturel](/top-7-du-choc-culturel-au-vietnam/).
 
 À bientôt ! (vraiment cette fois) 😘
