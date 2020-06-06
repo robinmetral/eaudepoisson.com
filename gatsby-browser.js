@@ -7,8 +7,8 @@ import theme from "./src/theme"
 import GlobalStyles from "./src/components/GlobalStyles"
 
 // load custom fonts
-require("typeface-merriweather")
-require("typeface-open-sans")
+require("@openfonts/merriweather_all")
+require("@openfonts/open-sans_all")
 
 export const wrapRootElement = ({ element }) => (
   <ApolloProvider client={ApolloClient}>
