@@ -1,4 +1,4 @@
-import styled from "@emotion/styled"
+import styled from "@emotion/styled";
 
 const Input = styled.input`
   color: inherit;
@@ -10,6 +10,6 @@ const Input = styled.input`
   margin-bottom: ${({ theme }) => theme.space[0]};
   width: 100%;
   border: 1px solid ${({ theme }) => theme.colors.black};
-`
+`;
 
-export default Input
+export default Input;

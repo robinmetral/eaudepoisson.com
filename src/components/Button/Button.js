@@ -1,5 +1,5 @@
-import React from "react"
-import styled from "@emotion/styled"
+import React from "react";
+import styled from "@emotion/styled";
 
 /*
  * this component can be used as a button or as a link
@@ -21,10 +21,10 @@ const StyledButton = styled.button`
   display: block;
   text-decoration: none;
   text-align: center;
-`
+`;
 
 const Button = ({ children, ...rest }) => (
   <StyledButton {...rest}>{children}</StyledButton>
-)
+);
 
-export default Button
+export default Button;

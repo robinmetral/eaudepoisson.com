@@ -64,7 +64,7 @@
     "jest": "^24.9.0",
     "jest-emotion": "^10.0.27",
     "npm-run-all": "^4.1.5",
-    "prettier": "^1.19.1",
+    "prettier": "^2.0.5",
     "start-server-and-test": "^1.10.6"
   },
   "keywords": [
@@ -74,13 +74,13 @@
   "scripts": {
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
     "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "format": "prettier --ignore-path .gitignore --write \"**/*.{js,jsx,json,md,mdx}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "lint": "npm-run-all --continue-on-error -p lint:js lint:prettier",
     "lint:js": "eslint --ignore-path .gitignore --ext .js,.jsx .",
-    "lint:prettier": "yarn prettier --check *",
+    "lint:prettier": "yarn prettier --ignore-path .gitignore --check \"**/*.{js,jsx,json,md,mdx}\"",
     "test": "jest --all --no-cache",
     "test:watch": "jest --watch",
     "cy:open": "cypress open",

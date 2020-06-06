@@ -1,7 +1,7 @@
-import React from "react"
-import PropTypes from "prop-types"
-import { css } from "@emotion/core"
-import styled from "@emotion/styled"
+import React from "react";
+import PropTypes from "prop-types";
+import { css } from "@emotion/core";
+import styled from "@emotion/styled";
 
 const StyledHeading = styled.span`
   ${({ theme, as, center }) => css`
@@ -13,7 +13,7 @@ const StyledHeading = styled.span`
       ? theme.fontSizes[4]
       : theme.fontSizes[5]};
   `}
-`
+`;
 
 // the header component supports levels 1 to 3
 const Heading = ({
@@ -30,10 +30,10 @@ const Heading = ({
   >
     {children}
   </StyledHeading>
-)
+);
 
 Heading.propTypes = {
   h: PropTypes.oneOf(["1", "2", "3"]).isRequired,
-}
+};
 
-export default Heading
+export default Heading;

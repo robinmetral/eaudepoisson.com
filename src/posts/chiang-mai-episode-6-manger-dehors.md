@@ -166,8 +166,8 @@ c'était toujours une aventure pour y arriver, mais jamais une déception (sauf
 quand on fait le déplacement le mercredi, leur seul jour de fermeture de la
 semaine 😭).
 
-En tout cas, l'équipe Eau de Poisson au complet est unanime, leurs pizzas valent
-largement les litres de transpiration perdus sur le chemin.
+En tout cas, l'équipe _Eau de poisson_ au complet est unanime, leurs pizzas
+valent largement les litres de transpiration perdus sur le chemin.
 
 ### Le Birman
 

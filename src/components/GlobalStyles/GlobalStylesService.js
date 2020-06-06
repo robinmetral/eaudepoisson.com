@@ -1,5 +1,5 @@
-import { css } from "@emotion/core"
-import theme from "../../theme"
+import { css } from "@emotion/core";
+import theme from "../../theme";
 
 export const createGlobalStyles = () => css`
   html {
@@ -26,4 +26,4 @@ export const createGlobalStyles = () => css`
   figure {
     margin: 0;
   }
-`
+`;

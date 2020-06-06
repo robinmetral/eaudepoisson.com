@@ -1,7 +1,7 @@
-import React from "react"
-import { css } from "@emotion/core"
-import { graphql, useStaticQuery } from "gatsby"
-import Img from "gatsby-image"
+import React from "react";
+import { css } from "@emotion/core";
+import { graphql, useStaticQuery } from "gatsby";
+import Img from "gatsby-image";
 
 const FeaturedImage = ({ src, alt, animate }) => {
   const data = useStaticQuery(graphql`
@@ -20,11 +20,11 @@ const FeaturedImage = ({ src, alt, animate }) => {
         }
       }
     }
-  `)
+  `);
 
   // filter images until we get variables in static queries
   // https://github.com/gatsbyjs/gatsby/issues/10482
-  const image = data.images.nodes.find(image => image.Key === src)
+  const image = data.images.nodes.find((image) => image.Key === src);
 
   return (
     <div
@@ -58,7 +58,7 @@ const FeaturedImage = ({ src, alt, animate }) => {
         }
       />
     </div>
-  )
-}
+  );
+};
 
-export default FeaturedImage
+export default FeaturedImage;

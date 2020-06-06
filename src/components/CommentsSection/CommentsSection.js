@@ -1,18 +1,18 @@
-import React, { useState } from "react"
-import { css } from "@emotion/core"
-import styled from "@emotion/styled"
-import { useQuery, useMutation } from "@apollo/react-hooks"
-import gql from "graphql-tag"
+import React, { useState } from "react";
+import { css } from "@emotion/core";
+import styled from "@emotion/styled";
+import { useQuery, useMutation } from "@apollo/react-hooks";
+import gql from "graphql-tag";
 
-import Heading from "../Heading"
-import Comment from "./components/Comment"
-import CommentForm from "./components/CommentForm"
+import Heading from "../Heading";
+import Comment from "./components/Comment";
+import CommentForm from "./components/CommentForm";
 
 const List = styled.ul`
   list-style-type: none;
   padding: 0;
   margin-left: ${({ nested, theme }) => (nested ? theme.space[3] : 0)};
-`
+`;
 
 const CommentsSection = ({ articleId }) => {
   const initialCommentFormData = {
@@ -22,19 +22,21 @@ const CommentsSection = ({ articleId }) => {
     name: "",
     email: "",
     comment: "",
-  }
-  const [commentFormData, setCommentFormData] = useState(initialCommentFormData)
+  };
+  const [commentFormData, setCommentFormData] = useState(
+    initialCommentFormData,
+  );
 
-  const handleReplyTo = id => {
-    setCommentFormData({ ...commentFormData, parentId: id })
-  }
+  const handleReplyTo = (id) => {
+    setCommentFormData({ ...commentFormData, parentId: id });
+  };
 
   const { loading: queryLoading, error: queryError, data } = useQuery(
     QUERY_COMMENTS,
     {
       variables: { articleId },
-    }
-  )
+    },
+  );
 
   const [
     createComment,
@@ -48,11 +50,11 @@ const CommentsSection = ({ articleId }) => {
       },
     ],
     onCompleted: () => setCommentFormData(initialCommentFormData), // todo find a way to avoid the failing validation on reset
-  })
+  });
 
   return (
     <section
-      css={theme => css`
+      css={(theme) => css`
         margin: 4rem 0;
         font-size: ${theme.fontSizes[1]};
       `}
@@ -63,38 +65,40 @@ const CommentsSection = ({ articleId }) => {
       </Heading>
       {queryLoading && <p>Loading...</p>}
       {queryError && <p>Error loading comments: {queryError.message}</p>}
-      {// todo abstract comments list into separate component
-      data && (
-        <List>
-          {data.comments.map(({ children, id, ...comment }) => (
-            <li key={id}>
-              <Comment {...comment} handleReplyTo={() => handleReplyTo(id)} />
-              {!!children.length && (
-                <List nested>
-                  {children.map(({ id: childCommentId, ...childComment }) => (
-                    <li key={childCommentId}>
-                      <Comment
-                        {...childComment}
-                        // always reply to parent
-                        handleReplyTo={() => handleReplyTo(id)}
-                      />
-                    </li>
-                  ))}
-                </List>
-              )}
-              {commentFormData && commentFormData.parentId === id && (
-                <CommentForm
-                  comment={commentFormData}
-                  setComment={setCommentFormData}
-                  createComment={createComment}
-                  disabled={mutationLoading}
-                  handleResetReplyTo={() => handleReplyTo(null)}
-                />
-              )}
-            </li>
-          ))}
-        </List>
-      )}
+      {
+        // todo abstract comments list into separate component
+        data && (
+          <List>
+            {data.comments.map(({ children, id, ...comment }) => (
+              <li key={id}>
+                <Comment {...comment} handleReplyTo={() => handleReplyTo(id)} />
+                {!!children.length && (
+                  <List nested>
+                    {children.map(({ id: childCommentId, ...childComment }) => (
+                      <li key={childCommentId}>
+                        <Comment
+                          {...childComment}
+                          // always reply to parent
+                          handleReplyTo={() => handleReplyTo(id)}
+                        />
+                      </li>
+                    ))}
+                  </List>
+                )}
+                {commentFormData && commentFormData.parentId === id && (
+                  <CommentForm
+                    comment={commentFormData}
+                    setComment={setCommentFormData}
+                    createComment={createComment}
+                    disabled={mutationLoading}
+                    handleResetReplyTo={() => handleReplyTo(null)}
+                  />
+                )}
+              </li>
+            ))}
+          </List>
+        )
+      }
       {commentFormData && commentFormData.parentId === null && (
         <CommentForm
           comment={commentFormData}
@@ -103,11 +107,13 @@ const CommentsSection = ({ articleId }) => {
           disabled={mutationLoading}
         />
       )}
-      {// todo harmonize error messages
-      mutationError && <p>Error posting comment: {mutationError.message}</p>}
+      {
+        // todo harmonize error messages
+        mutationError && <p>Error posting comment: {mutationError.message}</p>
+      }
     </section>
-  )
-}
+  );
+};
 
 CommentsSection.fragments = {
   comment: gql`
@@ -118,7 +124,7 @@ CommentsSection.fragments = {
       comment
     }
   `,
-}
+};
 
 const QUERY_COMMENTS = gql`
   query commentsByArticleId($articleId: Int!) {
@@ -137,7 +143,7 @@ const QUERY_COMMENTS = gql`
     }
   }
   ${CommentsSection.fragments.comment}
-`
+`;
 
 const CREATE_COMMENT = gql`
   mutation createComment(
@@ -164,6 +170,6 @@ const CREATE_COMMENT = gql`
     }
   }
   ${CommentsSection.fragments.comment}
-`
+`;
 
-export default CommentsSection
+export default CommentsSection;

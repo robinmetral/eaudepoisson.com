@@ -1,15 +1,15 @@
-import React from "react"
-import { css } from "@emotion/core"
-import { formatDate } from "../../../../helpers"
+import React from "react";
+import { css } from "@emotion/core";
+import { formatDate } from "../../../../helpers";
 
 const Comment = ({ date, name, comment, handleReplyTo }) => (
   <div
-    css={theme => css`
+    css={(theme) => css`
       margin: ${theme.space[3]} 0;
     `}
   >
     <div
-      css={theme => css`
+      css={(theme) => css`
         display: flex;
         margin-bottom: ${theme.space[0]};
       `}
@@ -42,6 +42,6 @@ const Comment = ({ date, name, comment, handleReplyTo }) => (
       {comment}
     </p>
   </div>
-)
+);
 
-export default Comment
+export default Comment;

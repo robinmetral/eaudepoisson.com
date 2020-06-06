@@ -1,9 +1,9 @@
-import React from "react"
-import { css } from "@emotion/core"
+import React from "react";
+import { css } from "@emotion/core";
 
-import Input from "../Input"
+import Input from "../Input";
 
-const Textarea = props => (
+const Textarea = (props) => (
   <Input
     as="textarea"
     {...props}
@@ -11,6 +11,6 @@ const Textarea = props => (
       resize: vertical;
     `}
   />
-)
+);
 
-export default Textarea
+export default Textarea;

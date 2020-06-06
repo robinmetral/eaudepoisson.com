@@ -1,7 +1,7 @@
-import React from "react"
-import { css } from "@emotion/core"
-import { graphql, useStaticQuery } from "gatsby"
-import Img from "gatsby-image"
+import React from "react";
+import { css } from "@emotion/core";
+import { graphql, useStaticQuery } from "gatsby";
+import Img from "gatsby-image";
 
 const Image = ({ src, alt, title }) => {
   const data = useStaticQuery(graphql`
@@ -20,11 +20,11 @@ const Image = ({ src, alt, title }) => {
         }
       }
     }
-  `)
+  `);
 
   // filter images until we get variables in static queries
   // https://github.com/gatsbyjs/gatsby/issues/10482
-  const image = data.images.nodes.find(image => image.Key === src)
+  const image = data.images.nodes.find((image) => image.Key === src);
 
   return (
     <figure>
@@ -52,7 +52,7 @@ const Image = ({ src, alt, title }) => {
       </div>
       {title && (
         <figcaption
-          css={theme => css`
+          css={(theme) => css`
             text-align: center;
             margin-top: ${theme.space[1]};
           `}
@@ -61,7 +61,7 @@ const Image = ({ src, alt, title }) => {
         </figcaption>
       )}
     </figure>
-  )
-}
+  );
+};
 
-export default Image
+export default Image;

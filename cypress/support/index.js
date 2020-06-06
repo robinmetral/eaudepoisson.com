@@ -13,7 +13,7 @@
 // https://on.cypress.io/configuration
 // ***********************************************************
 
-import "./commands"
+import "./commands";
 
-import "@testing-library/cypress/add-commands"
-import "gatsby-cypress/commands"
+import "@testing-library/cypress/add-commands";
+import "gatsby-cypress/commands";

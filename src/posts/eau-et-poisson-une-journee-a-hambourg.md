@@ -214,7 +214,7 @@ C'est bon, on l'a eu !
 
 Notre journée à Hambourg était inoubliable, et on se réjouit de revenir y passer
 un weekend à l'occasion. Au fond, quand il y a de l'eau et du poisson... il peut
-y avoir *eau de poisson* !
+y avoir *Eau de poisson* !
 
 (sans oublier le café)
 

@@ -1,7 +1,7 @@
-import React from "react"
-import PropTypes from "prop-types"
-import Helmet from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
+import React from "react";
+import PropTypes from "prop-types";
+import Helmet from "react-helmet";
+import { useStaticQuery, graphql } from "gatsby";
 
 function Seo({ description, lang, meta, title }) {
   const { site } = useStaticQuery(
@@ -15,10 +15,10 @@ function Seo({ description, lang, meta, title }) {
           }
         }
       }
-    `
-  )
+    `,
+  );
 
-  const metaDescription = description || site.siteMetadata.description
+  const metaDescription = description || site.siteMetadata.description;
 
   return (
     <Helmet
@@ -63,20 +63,20 @@ function Seo({ description, lang, meta, title }) {
         },
       ].concat(meta)}
     />
-  )
+  );
 }
 
 Seo.defaultProps = {
   lang: `fr`,
   meta: [],
   description: `Clara & Robin en Asie du Sud-Est`,
-}
+};
 
 Seo.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string,
-}
+};
 
-export default Seo
+export default Seo;

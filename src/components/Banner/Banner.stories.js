@@ -1,8 +1,8 @@
-import React from "react"
-import Banner from "./Banner"
+import React from "react";
+import Banner from "./Banner";
 
 export default {
   title: "Banner",
-}
+};
 
-export const base = () => <Banner />
+export const base = () => <Banner />;

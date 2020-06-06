@@ -1,21 +1,21 @@
-import React from "react"
-import { render } from "test-utils"
+import React from "react";
+import { render } from "test-utils";
 
-import Column from "./Column"
+import Column from "./Column";
 
 describe("Column", () => {
   it("should render its content", () => {
     const { getByTestId } = render(
       <Column>
         <div data-testid="content">Some content</div>
-      </Column>
-    )
+      </Column>,
+    );
 
-    expect(getByTestId("content")).toHaveTextContent("Some content")
-  })
+    expect(getByTestId("content")).toHaveTextContent("Some content");
+  });
   it("should match the snapshots", () => {
-    const column = render(<Column>Some content</Column>)
+    const column = render(<Column>Some content</Column>);
 
-    expect(column).toMatchSnapshot()
-  })
-})
+    expect(column).toMatchSnapshot();
+  });
+});

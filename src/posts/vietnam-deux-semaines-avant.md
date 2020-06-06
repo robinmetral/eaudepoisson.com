@@ -45,9 +45,9 @@ visuel, et authentique.
 On a commencé par brainstormer des noms sur une feuille de papier. Puis on a
 voté et retenu à l'unanimité (2 votes)...
 
-![Choix du nom eau de poisson](20171004-choix-nom-edp.jpg)
+![Choix du nom Eau de poisson](20171004-choix-nom-edp.jpg)
 
-Mais pourquoi *eau de poisson* ? Parce que c'est le
+Mais pourquoi *Eau de poisson* ? Parce que c'est le
 fameux [nước mắm](https://fr.wikipedia.org/wiki/Nuoc-m%C3%A2m), ou comme dit
 Robin :
 
@@ -61,7 +61,7 @@ nuit) d'hier à mettre le blog en place :
 - rédaction du premier article (que vous lisez)
 - dessin du logo, vectorisation, mise en couleur
 
-![Clara dessine le premier logo de eau de poisson](20171004-clara-dessine-1.jpg)
+![Clara dessine le premier logo de Eau de poisson](20171004-clara-dessine-1.jpg)
 
 ![Clara montre le logo](20171004-clara-dessine-2.jpg)
 

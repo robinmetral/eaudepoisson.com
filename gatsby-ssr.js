@@ -1,6 +1,6 @@
 // load custom fonts
-require("@openfonts/merriweather_all")
-require("@openfonts/open-sans_all")
+require("@openfonts/merriweather_all");
+require("@openfonts/open-sans_all");
 
 // export same wrapper as Gatsby Browser
-export { wrapRootElement } from "./gatsby-browser"
+export { wrapRootElement } from "./gatsby-browser";

@@ -20,4 +20,4 @@ module.exports = {
     // adds the root dir to import test-utils without a relative path
     __dirname, // root dir
   ],
-}
+};

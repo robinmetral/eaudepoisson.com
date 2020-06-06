@@ -1,9 +1,9 @@
-import React, { useState } from "react"
-import { css } from "@emotion/core"
+import React, { useState } from "react";
+import { css } from "@emotion/core";
 
-import Input from "../../../Input"
-import Textarea from "../../../Textarea"
-import Button from "../../../Button"
+import Input from "../../../Input";
+import Textarea from "../../../Textarea";
+import Button from "../../../Button";
 
 const CommentForm = ({
   comment,
@@ -12,30 +12,30 @@ const CommentForm = ({
   createComment,
   disabled,
 }) => {
-  const [timestamp] = useState(Date.now())
+  const [timestamp] = useState(Date.now());
 
-  const handleChange = e => {
-    setComment({ ...comment, [e.target.name]: e.target.value })
-  }
+  const handleChange = (e) => {
+    setComment({ ...comment, [e.target.name]: e.target.value });
+  };
 
-  const handleSubmit = e => {
-    e.preventDefault()
-    const secondsOnPage = (Date.now() - timestamp) / 1000
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const secondsOnPage = (Date.now() - timestamp) / 1000;
     if (secondsOnPage > 10) {
       createComment({
         variables: {
           ...comment,
         },
-      })
+      });
     }
     // todo handle error from anti-spam validation
-  }
+  };
 
   return (
     <form
       onSubmit={handleSubmit}
       disabled={disabled}
-      css={theme =>
+      css={(theme) =>
         css`
           margin-left: ${comment.parentId ? theme.space[3] : 0};
         `
@@ -66,7 +66,7 @@ const CommentForm = ({
       />
       <Button
         type="submit"
-        css={theme => css`
+        css={(theme) => css`
           flex: 1;
           margin-bottom: ${theme.space[0]};
         `}
@@ -77,7 +77,7 @@ const CommentForm = ({
         <Button onClick={handleResetReplyTo}>Annuler la réponse</Button>
       )}
     </form>
-  )
-}
+  );
+};
 
-export default CommentForm
+export default CommentForm;

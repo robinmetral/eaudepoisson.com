@@ -1,4 +1,4 @@
-import bannerStaticQuery from "../../Banner/__fixtures__/bannerStaticQuery"
+import bannerStaticQuery from "../../Banner/__fixtures__/bannerStaticQuery";
 
 export default {
   site: {
@@ -7,4 +7,4 @@ export default {
     },
   },
   ...bannerStaticQuery,
-}
+};

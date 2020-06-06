@@ -1,9 +1,9 @@
-import React from "react"
-import { Global } from "@emotion/core"
-import { createGlobalStyles } from "./GlobalStylesService"
+import React from "react";
+import { Global } from "@emotion/core";
+import { createGlobalStyles } from "./GlobalStylesService";
 
-const globalStyles = createGlobalStyles()
+const globalStyles = createGlobalStyles();
 
-const GlobalStyles = () => <Global styles={globalStyles} />
+const GlobalStyles = () => <Global styles={globalStyles} />;
 
-export default GlobalStyles
+export default GlobalStyles;

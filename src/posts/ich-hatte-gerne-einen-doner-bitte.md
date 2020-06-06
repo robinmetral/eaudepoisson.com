@@ -7,7 +7,7 @@ author: "Clara & Robin"
 ---
 
 Vous avez peut-être pensé que ce blog n'avait pas survécu au retour en Europe,
-où le _nước mắm_ ([l'eau de poisson](/a-propos/)) est rare.
+où le _nước mắm_ (l'[_eau de poisson_](/a-propos/)) est rare.
 
 Vous aviez tort : on continue !
 

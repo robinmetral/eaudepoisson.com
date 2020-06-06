@@ -1,3 +1,3 @@
-import PostsLayout from "./PostsLayout"
+import PostsLayout from "./PostsLayout";
 
-export default PostsLayout
+export default PostsLayout;

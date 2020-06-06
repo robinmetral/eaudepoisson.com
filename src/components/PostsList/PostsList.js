@@ -1,10 +1,10 @@
-import React from "react"
-import { css } from "@emotion/core"
-import { Link } from "gatsby"
-import Img from "gatsby-image"
+import React from "react";
+import { css } from "@emotion/core";
+import { Link } from "gatsby";
+import Img from "gatsby-image";
 
-import Heading from "../Heading"
-import { formatDate } from "../../helpers"
+import Heading from "../Heading";
+import { formatDate } from "../../helpers";
 
 const PostsList = ({ posts }) => (
   <ul
@@ -13,10 +13,10 @@ const PostsList = ({ posts }) => (
       padding: 0;
     `}
   >
-    {posts.map(post => (
+    {posts.map((post) => (
       <li
         key={post.frontmatter.id}
-        css={theme =>
+        css={(theme) =>
           css`
             margin-bottom: ${theme.space[4]};
           `
@@ -86,7 +86,7 @@ const PostsList = ({ posts }) => (
           </Heading>
         </Link>
         <p
-          css={theme => css`
+          css={(theme) => css`
             text-align: center;
             margin: 0;
             font-size: ${theme.fontSizes[1]};
@@ -98,6 +98,6 @@ const PostsList = ({ posts }) => (
       </li>
     ))}
   </ul>
-)
+);
 
-export default PostsList
+export default PostsList;
