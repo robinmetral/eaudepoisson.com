@@ -18,7 +18,7 @@ chinois au cinéma.
 
 ![Dîner au Big C](20171209-ninh-binh-manger-big-c.jpg)
 
-![Stand de nước mắm au supermarché Big C](20171209-ninh-binh-big-c-nuoc-mam.jpg "Rayon de nước mắm")
+![Rayon de nước mắm au supermarché Big C](20171209-ninh-binh-big-c-nuoc-mam.jpg "Rayon de nước mắm")
 
 ![Parking de scooters au supermarché Big C](20171209-ninh-binh-big-c-parking.jpg "Parking réservé aux deux-roues")
 

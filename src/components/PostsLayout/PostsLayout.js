@@ -1,6 +1,7 @@
 import React from "react";
 import { MDXProvider } from "@mdx-js/react";
 import PropTypes from "prop-types";
+import { Link } from "gatsby";
 
 import Seo from "../Seo";
 import Layout from "../Layout";
@@ -31,6 +32,14 @@ const PostsLayout = ({ pageContext, children }) => {
         h2: (props) => <Heading {...props} h="2" />,
         h3: (props) => <Heading {...props} h="3" />,
         img: (props) => <Image {...props} />,
+        a: (props) => {
+          // this replaces relative URLs with a Gatsby Link...
+          if (props.href.startsWith("/")) {
+            return <Link {...props} to={props.href} />;
+          }
+          // ...and renders a normal anchor for the rest
+          return <a href={props.href}>{props.children}</a>;
+        },
       }}
     >
       <Seo title={frontmatter.title} />

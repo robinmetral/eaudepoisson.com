@@ -3,7 +3,10 @@ title: "404"
 ---
 
 import { Link } from "gatsby";
+import Button from "../components/Button";
 
-Not found :(
+Page introuvable :(
 
-<Link to="/">Go back to the homepage</Link>
+<Button as={Link} to={`/`}>
+  Retour à l'accueil
+</Button>
