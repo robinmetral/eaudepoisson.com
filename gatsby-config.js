@@ -7,6 +7,7 @@ module.exports = {
     title: `Eau de poisson`,
     description: ``,
     author: `Clara & Robin`,
+    siteUrl: `https://www.eaudepoisson.com`,
   },
   plugins: [
     {
@@ -17,6 +18,7 @@ module.exports = {
         siteUrl: process.env.SITE_URL,
       },
     },
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-emotion`,
     {
       resolve: `gatsby-plugin-mdx`,
