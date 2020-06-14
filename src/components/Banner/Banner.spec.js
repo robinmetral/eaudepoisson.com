@@ -6,7 +6,7 @@ import Banner from "./Banner";
 import bannerStaticQuery from "./__fixtures__/bannerStaticQuery";
 
 beforeEach(() => {
-  useStaticQuery.mockImplementation(() => bannerStaticQuery);
+  useStaticQuery.mockImplementationOnce(() => bannerStaticQuery);
 });
 
 describe("Banner", () => {

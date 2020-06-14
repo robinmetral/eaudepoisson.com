@@ -1,11 +1,17 @@
 ---
-title: "Tous les articles"
+title: "Blog"
 ---
 
 import { graphql } from "gatsby";
-import PostsList from "../components/PostsList";
+import Search from "../components/Search";
 
-<PostsList posts={props.data.allMdx.nodes} />
+<p>
+  {/* the wrapper p tag is necessary to use the variable from the query */}
+  Cette page contient les {props.data.allMdx.nodes.length} articles du blog, du plus
+  récent au plus ancien. Vous pouvez aussi les filtrer en faisant une recherche ci-dessous.
+</p>
+
+<Search posts={props.data.allMdx.nodes} />
 
 export const AllPostsQuery = graphql`
   query AllPostsQuery {
