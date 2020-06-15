@@ -13,6 +13,16 @@ const Search = ({ posts }) => {
         post.frontmatter.title.toLowerCase().includes(searchTerm.toLowerCase()),
       );
       setFilteredPosts(filtered);
+      // send matomo event
+      window._paq.push([
+        "trackSiteSearch",
+        // search keyword
+        searchTerm,
+        // search category
+        false,
+        // number of results
+        filtered.length,
+      ]);
     } else {
       setFilteredPosts(posts);
     }

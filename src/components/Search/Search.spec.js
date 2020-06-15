@@ -6,6 +6,11 @@ import postsPageQuery from "./__fixtures__/postsPageQuery";
 
 const MOCK_POST_TITLES = postsPageQuery.map((post) => post.frontmatter.title);
 
+// mock matomo's window._paq
+global._paq = {
+  push: jest.fn,
+};
+
 describe("Search", () => {
   describe("before filtering", () => {
     it.each(MOCK_POST_TITLES)("should render post %#, %s", (title) => {
