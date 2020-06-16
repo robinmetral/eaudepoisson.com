@@ -14,15 +14,16 @@ const Search = ({ posts }) => {
       );
       setFilteredPosts(filtered);
       // send matomo event
-      window._paq.push([
-        "trackSiteSearch",
-        // search keyword
-        searchTerm,
-        // search category
-        false,
-        // number of results
-        filtered.length,
-      ]);
+      window._paq &&
+        window._paq.push([
+          "trackSiteSearch",
+          // search keyword
+          searchTerm,
+          // search category
+          false,
+          // number of results
+          filtered.length,
+        ]);
     } else {
       setFilteredPosts(posts);
     }
