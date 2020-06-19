@@ -31,6 +31,7 @@ const Search = ({ posts }) => {
   return (
     <>
       <Input
+        type="search"
         placeholder={"Chercher un article"}
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}

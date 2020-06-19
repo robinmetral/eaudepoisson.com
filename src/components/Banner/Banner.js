@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, graphql, useStaticQuery } from "gatsby";
+import { graphql, useStaticQuery } from "gatsby";
 import Img from "gatsby-image";
 import { css } from "@emotion/core";
 
@@ -17,17 +17,15 @@ const Banner = () => {
     }
   `);
   return (
-    <Link to={`/`}>
-      <Img
-        css={(theme) => css`
-          width: 75vw;
-          max-width: ${data.file.childImageSharp.fluid.presentationWidth}px;
-          margin: ${theme.space[3]} auto;
-        `}
-        fluid={data.file.childImageSharp.fluid}
-        alt="Eau de poisson, par Clara et Robin"
-      />
-    </Link>
+    <Img
+      css={(theme) => css`
+        width: 75vw;
+        max-width: ${data.file.childImageSharp.fluid.presentationWidth}px;
+        margin: ${theme.space[3]} auto;
+      `}
+      fluid={data.file.childImageSharp.fluid}
+      alt="Eau de poisson, par Clara et Robin"
+    />
   );
 };
 
