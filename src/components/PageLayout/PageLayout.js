@@ -5,25 +5,11 @@ import { Link } from "gatsby";
 
 import Seo from "../Seo";
 import Layout from "../Layout";
-import Column from "../Column";
 import Heading from "../Heading";
 import Image from "../Image";
-import CommentsSection from "../CommentsSection";
-import ArticleHeader from "../ArticleHeader";
 
-/*
- * This layout builds on top of the main Layout component
- * It adds:
- *  - the MDX provider to map markdown elements to components
- *  - built-in Seo based on Frontmatter
- *  - the comments section for articles
- * Eventually, pages will use a different layout and this component will be
- * simplified to handle only articles.
- */
-
-const PostsLayout = ({ pageContext, children }) => {
+const PostLayout = ({ pageContext, children }) => {
   const { frontmatter } = pageContext;
-  const isArticle = !!frontmatter.id;
   return (
     <MDXProvider
       // note: the provider is only necessary because we're customizing components
@@ -44,25 +30,18 @@ const PostsLayout = ({ pageContext, children }) => {
     >
       <Seo title={frontmatter.title} />
       <Layout>
-        <Column>
-          {isArticle ? (
-            <ArticleHeader frontmatter={frontmatter} />
-          ) : (
-            frontmatter.title && (
-              <Heading h="1" center>
-                {frontmatter.title}
-              </Heading>
-            )
-          )}
-          {children}
-          {isArticle && <CommentsSection articleId={frontmatter.id} />}
-        </Column>
+        {frontmatter.title && (
+          <Heading h="1" center>
+            {frontmatter.title}
+          </Heading>
+        )}
+        {children}
       </Layout>
     </MDXProvider>
   );
 };
 
-PostsLayout.propTypes = {
+PostLayout.propTypes = {
   pageContext: PropTypes.shape({
     frontmatter: PropTypes.shape({
       title: PropTypes.string,
@@ -71,4 +50,4 @@ PostsLayout.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
-export default PostsLayout;
+export default PostLayout;

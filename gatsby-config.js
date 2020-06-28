@@ -25,8 +25,8 @@ module.exports = {
       options: {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
-          posts: require.resolve("./src/components/PostsLayout"),
-          default: require.resolve("./src/components/PostsLayout"),
+          posts: require.resolve("./src/components/PostLayout"),
+          default: require.resolve("./src/components/PageLayout"),
         },
       },
     },

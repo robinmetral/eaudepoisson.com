@@ -85,7 +85,7 @@ const Nav = () => {
               position: absolute;
               width: 100%;
               background: ${theme.colors.white};
-              box-shadow: 0 1px 20px rgba(0, 0, 0, 0.3); /* TODO add to theme */
+              box-shadow: ${theme.shadows[1]};
               padding: ${theme.space[1]} ${theme.space[2]};
               z-index: 10;
               font-size: ${theme.fontSizes[1]};
