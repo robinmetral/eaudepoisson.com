@@ -1,7 +1,6 @@
 // generate slugs for mdx posts
 const { createFilePath } = require("gatsby-source-filesystem");
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions;
+exports.onCreateNode = ({ node, actions: { createNodeField }, getNode }) => {
   if (node.internal.type === "Mdx") {
     const value = createFilePath({ node, getNode });
     createNodeField({
@@ -12,7 +11,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   }
 };
 
-// foreign-key relationship for featured image
+// foreign-key relationship for featured images
 exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions;
   const typeDefs = `
@@ -21,4 +20,28 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `;
   createTypes(typeDefs);
+};
+
+// create pages for posts
+exports.createPages = async ({ graphql, actions: { createPage } }) => {
+  const result = await graphql(`
+    query {
+      allMdx {
+        nodes {
+          id
+          fields {
+            slug
+          }
+        }
+      }
+    }
+  `);
+  result.data.allMdx.nodes.forEach((post, index) => {
+    createPage({
+      path: post.fields.slug,
+      // we need to require the component file because Gatsby tries to read a query on the directory
+      component: require.resolve(`./src/components/PostLayout/PostLayout.js`),
+      context: { id: post.id },
+    });
+  });
 };

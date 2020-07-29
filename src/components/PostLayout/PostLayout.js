@@ -1,7 +1,8 @@
 import React from "react";
 import { MDXProvider } from "@mdx-js/react";
+import { MDXRenderer } from "gatsby-plugin-mdx";
 import PropTypes from "prop-types";
-import { Link } from "gatsby";
+import { Link, graphql } from "gatsby";
 
 import Seo from "../Seo";
 import Layout from "../Layout";
@@ -18,8 +19,7 @@ import ArticleHeader from "../ArticleHeader";
  *  - built-in Seo based on Frontmatter
  *  - the comments section for articles
  */
-const PostLayout = ({ pageContext, children }) => {
-  const { frontmatter } = pageContext;
+const PostLayout = ({ data: { mdx } }) => {
   return (
     <MDXProvider
       // note: the provider is only necessary because we're customizing components
@@ -38,22 +38,54 @@ const PostLayout = ({ pageContext, children }) => {
         },
       }}
     >
-      <Seo title={frontmatter.title} />
+      <Seo title={mdx.frontmatter.title} />
       <Layout>
         <Column>
-          <ArticleHeader frontmatter={frontmatter} />
-          {children}
-          <CommentsSection articleId={frontmatter.id} />
+          <ArticleHeader frontmatter={mdx.frontmatter} />
+          <MDXRenderer>{mdx.body}</MDXRenderer>
+          <CommentsSection articleId={mdx.frontmatter.id} />
         </Column>
       </Layout>
     </MDXProvider>
   );
 };
 
+export const postQuery = graphql`
+  query PostQuery($id: String) {
+    mdx(id: { eq: $id }) {
+      frontmatter {
+        id
+        title
+        date
+        featured {
+          localFile {
+            childImageSharp {
+              fluid(maxHeight: 400, maxWidth: 1024, cropFocus: ENTROPY) {
+                ...GatsbyImageSharpFluid
+                presentationWidth
+              }
+            }
+          }
+        }
+      }
+      body
+    }
+  }
+`;
+
 PostLayout.propTypes = {
-  pageContext: PropTypes.shape({
-    frontmatter: PropTypes.shape({
-      title: PropTypes.string,
+  data: PropTypes.shape({
+    mdx: PropTypes.shape({
+      frontmatter: PropTypes.shape({
+        id: PropTypes.number.isRequired,
+        title: PropTypes.string.isRequired,
+        date: PropTypes.string.isRequired,
+        featured: PropTypes.shape({
+          localFile: PropTypes.shape({
+            childImageSharp: PropTypes.object.isRequired,
+          }).isRequired,
+        }).isRequired,
+      }).isRequired,
     }).isRequired,
   }).isRequired,
   children: PropTypes.node.isRequired,

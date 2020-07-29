@@ -8,7 +8,7 @@ import Layout from "../Layout";
 import Heading from "../Heading";
 import Image from "../Image";
 
-const PostLayout = ({ pageContext, children }) => {
+const PageLayout = ({ pageContext, children }) => {
   const { frontmatter } = pageContext;
   return (
     <MDXProvider
@@ -41,7 +41,7 @@ const PostLayout = ({ pageContext, children }) => {
   );
 };
 
-PostLayout.propTypes = {
+PageLayout.propTypes = {
   pageContext: PropTypes.shape({
     frontmatter: PropTypes.shape({
       title: PropTypes.string,
@@ -50,4 +50,4 @@ PostLayout.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
-export default PostLayout;
+export default PageLayout;
