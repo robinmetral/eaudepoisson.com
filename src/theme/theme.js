@@ -16,4 +16,5 @@ export default {
   transitions: {
     base: "0.2s ease-in-out 0s",
   },
+  radii: ["2px", "5px", "10px", "99999px"],
 };

@@ -12,8 +12,8 @@ cuisine danoise, on pense plutôt déco d'intérieur design et plats raffinés.
 Et pourtant, on vous promet, ça existe.
 
 Comme on l'a déjà mentionné dans notre
-[article sur Aarhus](/9-choses-incontournables-a-faire-a-aarhus), la street food
-danoise, c'est avant tout le hot dog.
+[article sur Aarhus](/9-choses-incontournables-a-faire-a-aarhus/), la street
+food danoise, c'est avant tout le hot dog.
 
 ## Le hot dog au Danemark
 

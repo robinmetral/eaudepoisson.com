@@ -77,7 +77,7 @@ PostLayout.propTypes = {
   data: PropTypes.shape({
     mdx: PropTypes.shape({
       frontmatter: PropTypes.shape({
-        id: PropTypes.number.isRequired,
+        id: PropTypes.string.isRequired,
         title: PropTypes.string.isRequired,
         date: PropTypes.string.isRequired,
         featured: PropTypes.shape({
@@ -88,7 +88,6 @@ PostLayout.propTypes = {
       }).isRequired,
     }).isRequired,
   }).isRequired,
-  children: PropTypes.node.isRequired,
 };
 
 export default PostLayout;
