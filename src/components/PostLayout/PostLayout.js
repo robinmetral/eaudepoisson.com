@@ -7,10 +7,11 @@ import { Link, graphql } from "gatsby";
 import Seo from "../Seo";
 import Layout from "../Layout";
 import Column from "../Column";
-import Heading from "../Heading";
-import Image from "../Image";
 import CommentsSection from "../CommentsSection";
 import ArticleHeader from "../ArticleHeader";
+import Heading from "../Heading";
+import Image from "../Image";
+import Blockquote from "../Blockquote";
 
 /*
  * This layout builds on top of the main Layout component
@@ -28,6 +29,7 @@ const PostLayout = ({ data: { mdx } }) => {
         h2: (props) => <Heading {...props} h="2" />,
         h3: (props) => <Heading {...props} h="3" />,
         img: (props) => <Image {...props} />,
+        blockquote: (props) => <Blockquote {...props} />,
         a: (props) => {
           // this replaces relative URLs with a Gatsby Link...
           if (props.href.startsWith("/")) {
