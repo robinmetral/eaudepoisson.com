@@ -1,0 +1,226 @@
+import { graphql } from "gatsby";
+
+import PlacesList from "../components/PlacesList";
+import Heading from "../components/Heading";
+import Blockquote from "../components/Blockquote";
+import Column from "../components/Column";
+
+<Column>
+<Heading h={"1"} center>
+  Berlin
+</Heading>
+
+Après bientôt deux ans à Berlin, on commence à connaître.
+
+On nous demande souvent où manger un bon ramen, ou boire un bon café – voici la
+liste de nos lieux préférés.
+
+<Blockquote>
+  Vous avez une recommandation, un lieu qu'on a oublié ? Écrivez-nous !
+</Blockquote>
+
+<Heading h={"2"}>Manger</Heading>
+
+Quand on vit en Thailande ou au Vietnam, on mange thai ou vietnamien tout le
+temps, voire une pizza de temps en temps pour changer.
+
+À Berlin, c'est l'inverse : on mange parfois allemand, mais la plupart du temps
+c'est vietnamien, turc, italien...
+
+Voici une liste par cuisine ou plat, dans l'ordre alphabétique.
+
+<Heading h={"3"}>Africain</Heading>
+
+On connaît peu la cuisine africaine, parce qu'on y a pas encore voyagé. Même si
+c'est difficile d'en juger l'authenticité, on a quand-même quelques restaurants
+à recommander.
+
+<PlacesList places={props.data.african.nodes} />
+
+<Heading h={"3"}>Allemand</Heading>
+
+A FAIRE
+
+<Heading h={"3"}>Amérique du Sud</Heading>
+
+Comme pour la cuisine africaine, on ne connaît pas bien la cuisine d'Amérique du
+Sud. On est toujours intéressés par vos recommandations !
+
+<PlacesList places={props.data.southAmerican.nodes} />
+
+<Heading h={"3"}>Burger</Heading>
+
+À notre avis, il y a peu de bon burgers à Berlin, on en mangeait des meilleurs
+en Asie du Sud-Est. On en a beaucoup essayés mais un seul se retouve sur cette
+liste.
+
+<PlacesList places={props.data.burger.nodes} />
+
+<Heading h={"3"}>Chinois</Heading>
+
+<PlacesList places={props.data.chinese.nodes} />
+
+<Heading h={"3"}>Coréen</Heading>
+<PlacesList places={props.data.korean.nodes} />
+
+<Heading h={"3"}>Glace</Heading>
+<PlacesList places={props.data.iceCream.nodes} />
+
+<Heading h={"3"}>Indien et pakistanais</Heading>
+<PlacesList places={props.data.indian.nodes} />
+
+<Heading h={"3"}>Indonésien</Heading>
+<PlacesList places={props.data.indonesian.nodes} />
+
+<Heading h={"3"}>Ramen</Heading>
+
+Quelques jours après notre arrivés à Berlin, on a goûté le ramen le plus connu
+de la ville, _Cocolo_.
+
+On a été décus : on avait encore en mémoire le meilleur ramen qu'on ait mangé de
+notre vie, à _Mendokoro Ramenba_ à Salcedo Village
+([Manille](/gratte-ciels-jeepneys-et-barbecue-bienvenue-a-manille/)).
+
+Depuis, on en a testé beaucoup d'autres, et on a fait la paix avec les ramens
+berlinois.
+
+<PlacesList places={props.data.ramen.nodes} />
+
+<Heading h={"3"}>Pizza</Heading>
+
+Les burgers sont décevants à Berlin, mais ce n'est pas le cas des pizzas.
+
+Notre style de pizza préféré est celui que Per de
+[Berlin Food Stories](https://berlinfoodstories.com/2020/07/11/the-pizza-list/)
+appelle *néo-napolitain* : une pâte épaisse, parfois au levain, des saveurs qui
+s'éloignent parfois de la tradition italienne, et une cuisson à 450 degrés
+pendant 90 secondes au four à pizza.
+
+<PlacesList places={props.data.pizza.nodes} />
+
+<Heading h={"3"}>Thai</Heading>
+
+On est difficiles en termes de
+[cuisine thai](/chiang-mai-episode-6-manger-dehors/) après avoir vécu sept mois
+à Chiang Mai.
+
+Les plats les plus authentiques qu'on a trouvé à Berlin sont autour de
+Wilmersdorf et du fameux Thai Park.
+
+<PlacesList places={props.data.thai.nodes} />
+
+<Heading h={"3"}>Turc</Heading>
+
+À FAIRE
+
+<Heading h={"3"}>Vietnamien</Heading>
+
+La cuisine vietnamienne est super populaire et courante à Berlin, tout le monde
+vous le dira. Vous verrez des restaurants vietnamiens partout, presque autant
+que les Döner.
+
+Mais après avoir voyagé partout au Vietnam et y avoir vécu six mois, on est un
+peu difficiles.
+
+La nourriture vietnamienne à Berlin est souvent de la nourriture fusion, ou un
+raccourcis qui signifie nourriture asiatique. On y trouve aussi bien du pho que
+des currys thai et des sushis.
+
+Ces quelques restaurants nous ont convaincu.
+
+<PlacesList places={props.data.viet.nodes} />
+
+</Column>
+
+export const BerlinListQuery = graphql`
+  query BerlinListQuery {
+    thai: allBerlinListJson(filter: { categories: { eq: "thai" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    viet: allBerlinListJson(filter: { categories: { eq: "viet" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    korean: allBerlinListJson(filter: { categories: { eq: "korean" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    ramen: allBerlinListJson(filter: { categories: { eq: "ramen" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    african: allBerlinListJson(filter: { categories: { eq: "african" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    pizza: allBerlinListJson(filter: { categories: { eq: "pizza" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    burger: allBerlinListJson(filter: { categories: { eq: "burger" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    southAmerican: allBerlinListJson(
+      filter: { categories: { eq: "south-american" } }
+    ) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    indian: allBerlinListJson(filter: { categories: { eq: "indian" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    chinese: allBerlinListJson(filter: { categories: { eq: "chinese" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    indonesian: allBerlinListJson(
+      filter: { categories: { eq: "indonesian" } }
+    ) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+    iceCream: allBerlinListJson(filter: { categories: { eq: "ice-cream" } }) {
+      nodes {
+        name
+        description
+        address
+      }
+    }
+  }
+`;

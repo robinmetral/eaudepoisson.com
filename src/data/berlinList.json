@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Thai Park",
+    "description": "Parc à Wilmersdorf où la communauté thai se retrouve pour un marché de street food semi-improvisé, tous les weekends d'été. Stands colorés et nourriture authentique et variée.",
+    "categories": ["thai"],
+    "address": "Preußenpark, 10707 Berlin"
+  },
+  {
+    "name": "Thai-Art",
+    "description": "Petit resto ouvert par une ancienne vendeuse de soupe du Thai Park. Excellent tom yam et pad thai.",
+    "categories": ["thai"],
+    "address": "Berliner Straße 42A, 10713 Berlin"
+  },
+  {
+    "name": "Đistrict Một",
+    "description": "Spécialisé en plats du nord du Vietnam, déco kitch mais assez authentique des stands de rue vietnamiens (tabourets en plastique coloré). Goûtez le bún chả.",
+    "categories": ["viet"],
+    "address": "Rosenthaler Str. 62, 10119 Berlin"
+  },
+  {
+    "name": "Banh Mi Stable",
+    "description": "Très bons bánh mì avec deux choix, tofu ou heo quay (porc). Immense queue pendant la semaine à midi.",
+    "categories": ["viet"],
+    "address": "Alte Schönhauser Str. 50, 10119 Berlin"
+  },
+  {
+    "name": "TZOM",
+    "description": "Fusion érythréenne-italienne. Excellent injera, et on trouve aussi d'autres plats éthiopiens moins connus comme le Fit-fit. Vins italiens.",
+    "categories": ["african"],
+    "address": "Dieffenbachstraße 69, 10967 Berlin"
+  },
+  {
+    "name": "Little Ethiopia",
+    "description": "Petit resto éthiopien à Bergmannkiez, sélection de plats avec et sans viande servis sur injera dans un grand plat partagé.",
+    "categories": ["african"],
+    "address": "Gneisenaustraße 63, 10961 Berlin"
+  },
+  {
+    "name": "Senegambia",
+    "description": "Imbiss sénégalo-gambien avec des plats en sauce faits maison et généreux.",
+    "categories": ["african"],
+    "address": "Reichenberger Str. 72A, 10999 Berlin"
+  },
+  {
+    "name": "Didi Pa",
+    "description": "Minuscule resto ghanéen moderne sur la Sonnenallee, goûtez un Red-Red ou un Waakye.",
+    "categories": ["african"],
+    "address": "Sonnenallee 31, 12047 Berlin"
+  },
+  {
+    "name": "Gazzo",
+    "description": "Les meilleures pizzas au levain de Berlin.",
+    "categories": ["pizza"],
+    "address": "Hobrechtstraße 57, 12047 Berlin"
+  },
+  {
+    "name": "W Pizza",
+    "description": "Mangez votre pizza sur la terrasse avec vue sur les matches de ping-pong.",
+    "categories": ["pizza"],
+    "address": "Fuldastraße 31, 12045 Berlin"
+  },
+  {
+    "name": "Zola",
+    "description": "Super bien placé au bord du Landwehrskanal, excellentes pizzas au levain.",
+    "categories": ["pizza"],
+    "address": "Paul-Lincke-Ufer 39-40, 10999 Berlin"
+  },
+  {
+    "name": "Rembrandt",
+    "description": "Restaurant de burger à Friedrichshain, viande régionale.",
+    "categories": ["burger"],
+    "address": "Richard-Sorge-Straße 21, 10249 Berlin"
+  },
+  {
+    "name": "Café Mori",
+    "description": "Café brésilien avec Feijoada, Coxinha et Caipirinhas, recommandé par un ami brésilien.",
+    "categories": ["south-american"],
+    "address": "Wiener Straße 13, 10999 Berlin"
+  },
+  {
+    "name": "Hohenstaufenplatz",
+    "description": "",
+    "categories": ["markets"],
+    "address": "Hohenstaufenplatz, 10967 Berlin"
+  },
+  {
+    "name": "Markthalle Neun",
+    "description": "",
+    "categories": ["markets"],
+    "address": "Eisenbahnstraße 42/43, 10997 Berlin"
+  },
+  {
+    "name": "Schillermarkt",
+    "description": "",
+    "categories": ["markets"],
+    "address": "Herrfurthplatz, 12049 Berlin"
+  },
+  {
+    "name": "MASH PIT",
+    "description": "",
+    "categories": ["beer"],
+    "address": "Graefestraße 71, 10967 Berlin"
+  },
+  {
+    "name": "Vagabund",
+    "description": "",
+    "categories": ["beer"],
+    "address": "Antwerpener Str. 3, 13353 Berlin"
+  },
+  {
+    "name": "Lager Lager",
+    "description": "",
+    "categories": ["beer"],
+    "address": "Pflügerstraße 68, 12047 Berlin"
+  },
+  {
+    "name": "BRLO Brwhouse",
+    "description": "",
+    "categories": ["beer"],
+    "address": "Schöneberger Str. 16, 10963 Berlin"
+  },
+  {
+    "name": "Protokoll",
+    "description": "",
+    "categories": ["beer"],
+    "address": "Boxhagener Str. 110, 10245 Berlin"
+  },
+  {
+    "name": "Motif",
+    "description": "",
+    "categories": ["wine"],
+    "address": "Weserstr. 189, 12045 Berlin"
+  },
+  {
+    "name": "Boatfarm",
+    "description": "",
+    "categories": ["wine"],
+    "address": "Boppstraße 5, 10967 Berlin"
+  },
+  {
+    "name": "Hako",
+    "description": "Restaurant japonais spécialisé en ramen, en été essayez le Tsukemen.",
+    "categories": ["ramen"],
+    "address": "Boxhagener Str. 26, 10245 Berlin"
+  },
+  {
+    "name": "Takumi Nine",
+    "description": "Petit resto spécialisé en ramen au poulet, excellent.",
+    "categories": ["ramen"],
+    "address": "Pappelallee 19, 10437 Berlin"
+  },
+  {
+    "name": "Ixthys",
+    "description": "Mangez un des meilleurs bibimbaps de la ville tout en révisant votre catéchisme.",
+    "categories": ["korean"],
+    "address": "Pallasstraße 21, 10781 Berlin"
+  },
+  {
+    "name": "Madang",
+    "description": "Bibimbap et barbecue coréen à Bergmannkiez.",
+    "categories": ["korean"],
+    "address": "Gneisenaustraße 8, 10961 Berlin"
+  },
+  {
+    "name": "DAMSO",
+    "description": "Resto et salon de thé coréen à Ziehlendorf tenu par un couple adorable, très bons plats et thé de bambou.",
+    "categories": ["korean"],
+    "address": "Teltower Damm 54, 14167 Berlin"
+  },
+  {
+    "name": "New Arirang",
+    "description": "On y mange surtout du barbecue coréen, on aime ses lumières néons et son côté chaotique.",
+    "categories": ["korean"],
+    "address": "Warschauer Str. 22, 10243 Berlin"
+  },
+  {
+    "name": "Mama Shabz",
+    "description": "Resto tenu par une anglaise d'origine pakistanaise, plats du jour sur la terrasse et masala chai.",
+    "categories": ["indian"],
+    "address": "Reichenberger Str. 61a, 10999 Berlin"
+  },
+  {
+    "name": "Chutnify",
+    "description": "Resto spécialisé en cuisine du sud de l'Inde, prenez un masala dosa et un chai à l'occasion de \"Masala Monday\".",
+    "categories": ["indian"],
+    "address": "Pflügerstraße 25, 12047 Berlin"
+  },
+  {
+    "name": "Chungking Noodles",
+    "description": "Nouilles maison aux piments de Sichuan, prévoyez des mouchoirs.",
+    "categories": ["chinese"],
+    "address": "Reichenberger Str. 35, 10999 Berlin"
+  },
+  {
+    "name": "Jing Yang",
+    "description": "Si vous prétendez aimer la nourriture pimentée, essayez un des plats en sauce pimentés de Jing Yang et sortez-en la bouche en feu.",
+    "categories": ["chinese"],
+    "address": "Albrechtstraße 125, 12165 Berlin"
+  },
+  {
+    "name": "Mabuhay",
+    "description": "Resto indonésien avec une grande terrasse au pied de blocs d'immeubles, délicieux et pas cher.",
+    "categories": ["indonesian"],
+    "address": "Köthener Str. 28, 10963 Berlin"
+  },
+  {
+    "name": "Jones",
+    "description": "Les meilleures glaces de Berlin, excellent cône maison.",
+    "categories": ["ice-cream"],
+    "address": "Goltzstraße 3, 10781 Berlin"
+  },
+  {
+    "name": "Lecko Mio",
+    "description": "Excellentes gelati à Graeferkiez, cône maison.",
+    "categories": ["ice-cream"],
+    "address": "Graefestraße 80, 10967 Berlin"
+  },
+  {
+    "name": "Early Bird",
+    "description": "Super glaces et café de spécialité, ouvert tôt le matin.",
+    "categories": ["ice-cream"],
+    "address": "Winsstraße 68, 10405 Berlin"
+  },
+  {
+    "name": "Il Kino",
+    "description": "",
+    "categories": ["cinemas"],
+    "address": "Nansenstraße 22, 12047 Berlin"
+  },
+  {
+    "name": "Neues Off",
+    "description": "",
+    "categories": ["cinemas"],
+    "address": "Hermannstraße 20, 12049 Berlin"
+  },
+  {
+    "name": "Kino International",
+    "description": "",
+    "categories": ["cinemas"],
+    "address": "Karl-Marx-Allee 33, 10178 Berlin"
+  }
+]

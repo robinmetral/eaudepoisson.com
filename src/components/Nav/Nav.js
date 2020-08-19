@@ -67,6 +67,9 @@ const Nav = () => {
         <li>
           <Link to={"/a-propos/"}>À propos</Link>
         </li>
+        <li>
+          <Link to={"/berlin/"}>Liste</Link>
+        </li>
       </ul>
       <div
         css={css`

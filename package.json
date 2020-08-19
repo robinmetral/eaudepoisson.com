@@ -27,6 +27,7 @@
     "gatsby-plugin-sharp": "^2.6.11",
     "gatsby-plugin-sitemap": "^2.4.5",
     "gatsby-source-filesystem": "^2.3.11",
+    "gatsby-transformer-json": "^2.4.11",
     "gatsby-transformer-sharp": "^2.5.5",
     "graphql": "^15.1.0",
     "pigeon-maps": "^0.15.0",
